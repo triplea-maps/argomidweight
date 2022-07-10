@@ -1,0 +1,1217 @@
+<!-- Territory Definitions -->
+<territory name="1 Atlantic Sea Zone" water="true"/>
+<territory name="Addis Ababa"/>
+<territory name="Aden Sea Zone" water="true"/>
+<territory name="Adriatic Sea Zone" water="true"/>
+<territory name="Afghanistan"/>
+<territory name="Ainu Sea Zone" water="true"/>
+<territory name="Alaska"/>
+<territory name="Albania"/>
+<territory name="Aleutian Islands"/>
+<territory name="Algeria"/>
+<territory name="Amazon Rainforest"/>
+<territory name="Amur"/>
+<territory name="Andes"/>
+<territory name="Angola"/>
+<territory name="Arabia"/>
+<territory name="Arabian Sea Zone" water="true"/>
+<territory name="Archangel"/>
+<territory name="Arctic Ice"/>
+<territory name="Arctic Sea Zone" water="true"/>
+<territory name="Argentina"/>
+<territory name="Argonne"/>
+<territory name="Atlantic Sea Zone 2" water="true"/>
+<territory name="Atlantic Sea Zone 3" water="true"/>
+<territory name="Atlantic Sea Zone 4" water="true"/>
+<territory name="Atlantic Sea Zone 5" water="true"/>
+<territory name="Atlantic Sea Zone 6" water="true"/>
+<territory name="Atlantic Sea Zone 7" water="true"/>
+<territory name="Atlantic Sea Zone 8" water="true"/>
+<territory name="Atlantic Sea Zone 9" water="true"/>
+<territory name="Atlantic Sea Zone 10" water="true"/>
+<territory name="Atlantic Sea Zone 11" water="true"/>
+<territory name="Atlantic Sea Zone 12" water="true"/>
+<territory name="Atlantic Sea Zone 13" water="true"/>
+<territory name="Atlantic Sea Zone 14" water="true"/>
+<territory name="Austria"/>
+<territory name="Azerbaijan"/>
+<territory name="Azores"/>
+<territory name="Banda Sea Zone" water="true"/>
+<territory name="Barents Sea Zone" water="true"/>
+<territory name="Batavia"/>
+<territory name="Bavaria"/>
+<territory name="Beaufort Sea Zone" water="true"/>
+<territory name="Belarus"/>
+<territory name="Belgrade"/>
+<territory name="Benelux"/>
+<territory name="Bengal Sea Zone" water="true"/>
+<territory name="Berlin"/>
+<territory name="Bermuda"/>
+<territory name="Bight Sea Zone" water="true"/>
+<territory name="Biscay Sea Zone" water="true"/>
+<territory name="Bismarck"/>
+<territory name="Bolivia"/>
+<territory name="Bordeaux"/>
+<territory name="Borneo"/>
+<territory name="Brazil"/>
+<territory name="British Columbia"/>
+<territory name="Bulgaria"/>
+<territory name="Burma"/>
+<territory name="Buryatia"/>
+<territory name="Cairo"/>
+<territory name="Calcutta"/>
+<territory name="California"/>
+<territory name="Canton"/>
+<territory name="Capetown"/>
+<territory name="Caribbean Sea Zone" water="true"/>
+<territory name="Caspian Sea Zone" water="true"/>
+<territory name="Caucasus"/>
+<territory name="Celebes"/>
+<territory name="Central Africa"/>
+<territory name="Central Asia"/>
+<territory name="Central Bering Sea Zone" water="true"/>
+<territory name="Central Canada"/>
+<territory name="Central Russia"/>
+<territory name="Ceylon"/>
+<territory name="Chile"/>
+<territory name="Chongqing"/>
+<territory name="Chukchi Sea Zone" water="true"/>
+<territory name="Colombia"/>
+<territory name="Coral Sea Zone" water="true"/>
+<territory name="Corsica"/>
+<territory name="Crete"/>
+<territory name="Cuba"/>
+<territory name="Cyrenaica"/>
+<territory name="Denmark"/>
+<territory name="East Baltic Sea Zone" water="true"/>
+<territory name="East Bering Sea Zone" water="true"/>
+<territory name="East Black Sea Zone" water="true"/>
+<territory name="East India"/>
+<territory name="East Poland"/>
+<territory name="East Ukraine"/>
+<territory name="Egypt"/>
+<territory name="English Channel Sea Zone" water="true"/>
+<territory name="Equatorial Africa"/>
+<territory name="Ethiopia"/>
+<territory name="Falkland"/>
+<territory name="Finland"/>
+<territory name="Formosa"/>
+<territory name="Fujian"/>
+<territory name="Georgia"/>
+<territory name="Gibraltar"/>
+<territory name="Gobi Desert"/>
+<territory name="Gold Coast"/>
+<territory name="Great Lakes Sea Zone" water="true"/>
+<territory name="Greece"/>
+<territory name="Greenland"/>
+<territory name="Gulf of Mexico Sea Zone" water="true"/>
+<territory name="Guyana"/>
+<territory name="Hainan"/>
+<territory name="Haiti"/>
+<territory name="Hawaii"/>
+<territory name="Heilongjiang"/>
+<territory name="Henan"/>
+<territory name="Himalayan Mountains"/>
+<territory name="Hokkaido"/>
+<territory name="Honolulu"/>
+<territory name="Hubei"/>
+<territory name="Hudson Sea Zone" water="true"/>
+<territory name="Hunan"/>
+<territory name="Hungary"/>
+<territory name="Iceland"/>
+<territory name="Indian Sea Zone 1" water="true"/>
+<territory name="Indian Sea Zone 2" water="true"/>
+<territory name="Indian Sea Zone 3" water="true"/>
+<territory name="Indian Sea Zone 4" water="true"/>
+<territory name="Indian Sea Zone 5" water="true"/>
+<territory name="Indochina"/>
+<territory name="Iraq"/>
+<territory name="Ireland"/>
+<territory name="Irish Sea Zone" water="true"/>
+<territory name="Irkutsk"/>
+<territory name="Iwo Jima"/>
+<territory name="Java"/>
+<territory name="Kamchatka"/>
+<territory name="Karelia"/>
+<territory name="Kazakh"/>
+<territory name="Kiev"/>
+<territory name="Korea"/>
+<territory name="Kuril Sea Zone" water="true"/>
+<territory name="Labrador Sea Zone" water="true"/>
+<territory name="Lake Victoria Sea Zone" water="true"/>
+<territory name="Laptev Sea Zone" water="true"/>
+<territory name="Leningrad"/>
+<territory name="Leyte Gulf Sea Zone" water="true"/>
+<territory name="Lithuania"/>
+<territory name="London"/>
+<territory name="Lower Congo"/>
+<territory name="Luzon"/>
+<territory name="Madagascar"/>
+<territory name="Magadan"/>
+<territory name="Maginot"/>
+<territory name="Malacca Sea Zone" water="true"/>
+<territory name="Malaya"/>
+<territory name="Malta"/>
+<territory name="Manchuria"/>
+<territory name="Manitoba"/>
+<territory name="Maritime Canada"/>
+<territory name="Mediterranean Sea Zone 1" water="true"/>
+<territory name="Mediterranean Sea Zone 2" water="true"/>
+<territory name="Mediterranean Sea Zone 3" water="true"/>
+<territory name="Mediterranean Sea Zone 4" water="true"/>
+<territory name="Mediterranean Sea Zone 5" water="true"/>
+<territory name="Mediterranean Sea Zone 6" water="true"/>
+<territory name="Mediterranean Sea Zone 7" water="true"/>
+<territory name="Mediterranean Sea Zone 8" water="true"/>
+<territory name="Mexico"/>
+<territory name="Midway"/>
+<territory name="Midwest USA"/>
+<territory name="Mindanao"/>
+<territory name="Mongolia"/>
+<territory name="Morocco"/>
+<territory name="Moscow"/>
+<territory name="Mozambique"/>
+<territory name="Murmansk"/>
+<territory name="New Guinea"/>
+<territory name="New South Wales"/>
+<territory name="Newfoundland"/>
+<territory name="Ningxia"/>
+<territory name="Normandy"/>
+<territory name="North Australia"/>
+<territory name="North England"/>
+<territory name="North Italy"/>
+<territory name="North Japan"/>
+<territory name="North New Zealand"/>
+<territory name="North Russia"/>
+<territory name="North Sea Zone" water="true"/>
+<territory name="Northeast USA"/>
+<territory name="Norway"/>
+<territory name="Norwegian Sea Zone" water="true"/>
+<territory name="Nunavut"/>
+<territory name="Okhotsk Sea Zone" water="true"/>
+<territory name="Okinawa"/>
+<territory name="Oman"/>
+<territory name="Omsk"/>
+<territory name="Ontario"/>
+<territory name="Oregon"/>
+<territory name="Osaka Sea Zone" water="true"/>
+<territory name="Ottawa"/>
+<territory name="Pacific Sea Zone 1" water="true"/>
+<territory name="Pacific Sea Zone 2" water="true"/>
+<territory name="Pacific Sea Zone 3" water="true"/>
+<territory name="Pacific Sea Zone 4" water="true"/>
+<territory name="Pacific Sea Zone 5" water="true"/>
+<territory name="Pacific Sea Zone 6" water="true"/>
+<territory name="Pacific Sea Zone 7" water="true"/>
+<territory name="Pacific Sea Zone 8" water="true"/>
+<territory name="Pacific Sea Zone 9" water="true"/>
+<territory name="Pacific Sea Zone 10" water="true"/>
+<territory name="Pacific Sea Zone 11" water="true"/>
+<territory name="Pacific Sea Zone 12" water="true"/>
+<territory name="Pacific Sea Zone 13" water="true"/>
+<territory name="Pacific Sea Zone 14" water="true"/>
+<territory name="Pacific Sea Zone 15" water="true"/>
+<territory name="Pacific Sea Zone 16" water="true"/>
+<territory name="Pacific Sea Zone 17" water="true"/>
+<territory name="Pacific Sea Zone 18" water="true"/>
+<territory name="Pacific Sea Zone 19" water="true"/>
+<territory name="Palestine"/>
+<territory name="Panama"/>
+<territory name="Papua"/>
+<territory name="Paris"/>
+<territory name="Persia"/>
+<territory name="Persian Gulf Sea Zone" water="true"/>
+<territory name="Philippine Sea Zone" water="true"/>
+<territory name="Portugal"/>
+<territory name="Priepet Marsh"/>
+<territory name="Prussia"/>
+<territory name="Qinghai"/>
+<territory name="Quebec"/>
+<territory name="Queensland"/>
+<territory name="Red Sea Zone" water="true"/>
+<territory name="Rhodesia"/>
+<territory name="Rift Valley Sea Zone" water="true"/>
+<territory name="Rio"/>
+<territory name="Rocky Mountains"/>
+<territory name="Romania"/>
+<territory name="Rome"/>
+<territory name="Ruhr"/>
+<territory name="Sahara Desert"/>
+<territory name="Sakhalin"/>
+<territory name="San Francisco"/>
+<territory name="Sardinia"/>
+<territory name="Scotland"/>
+<territory name="Sendai Sea Zone" water="true"/>
+<territory name="Shandong"/>
+<territory name="Shanghai"/>
+<territory name="Shanxi"/>
+<territory name="Siam"/>
+<territory name="Siberia"/>
+<territory name="Sicily"/>
+<territory name="Solomon Islands"/>
+<territory name="South Africa"/>
+<territory name="South African Sea Zone" water="true"/>
+<territory name="South Australia"/>
+<territory name="South China Sea Zone" water="true"/>
+<territory name="South France"/>
+<territory name="South India"/>
+<territory name="South Italy"/>
+<territory name="South Japan"/>
+<territory name="South New Zealand"/>
+<territory name="South Russia"/>
+<territory name="South Ukraine"/>
+<territory name="Southeast USA"/>
+<territory name="Southwest USA"/>
+<territory name="Spain"/>
+<territory name="St. Lawrence Sea Zone" water="true"/>
+<territory name="Stalingrad"/>
+<territory name="Sudan"/>
+<territory name="Sulu Sea Zone" water="true"/>
+<territory name="Sumatra"/>
+<territory name="Sweden"/>
+<territory name="Swiss Alps"/>
+<territory name="Sydney"/>
+<territory name="Syria"/>
+<territory name="Szechuan"/>
+<territory name="Taklomak Desert"/>
+<territory name="Tanganyika"/>
+<territory name="Tasman Sea Zone" water="true"/>
+<territory name="Tasmania"/>
+<territory name="Tibet"/>
+<territory name="Timor Sea Zone" water="true"/>
+<territory name="Tokyo"/>
+<territory name="Tripolitania"/>
+<territory name="Truk"/>
+<territory name="Tsushima Sea Zone" water="true"/>
+<territory name="Tunis"/>
+<territory name="Turkey"/>
+<territory name="Uganda"/>
+<territory name="Upper Congo"/>
+<territory name="Urals"/>
+<territory name="Venezuela"/>
+<territory name="Visayas"/>
+<territory name="Volga"/>
+<territory name="Wake"/>
+<territory name="Wales"/>
+<territory name="Warsaw"/>
+<territory name="Washington DC"/>
+<territory name="West Africa"/>
+<territory name="West Australia"/>
+<territory name="West Baltic Sea Zone" water="true"/>
+<territory name="West Bering Sea Zone" water="true"/>
+<territory name="West Black Sea Zone" water="true"/>
+<territory name="West England"/>
+<territory name="West India"/>
+<territory name="West Poland"/>
+<territory name="West Russia"/>
+<territory name="West Ukraine"/>
+<territory name="White Sea Zone" water="true"/>
+<territory name="Yakutsk"/>
+<territory name="Yellow Sea Zone" water="true"/>
+<territory name="Yemen"/>
+<territory name="Yucatan"/>
+<territory name="Yugoslavia"/>
+<territory name="Yukon"/>
+<territory name="Yunnan"/>
+
+<!-- Territory Connections -->
+<connection t1="1 Atlantic Sea Zone" t2="Atlantic Sea Zone 2"/>
+<connection t1="1 Atlantic Sea Zone" t2="Biscay Sea Zone"/>
+<connection t1="1 Atlantic Sea Zone" t2="Iceland"/>
+<connection t1="1 Atlantic Sea Zone" t2="Ireland"/>
+<connection t1="1 Atlantic Sea Zone" t2="Irish Sea Zone"/>
+<connection t1="1 Atlantic Sea Zone" t2="Atlantic Sea Zone 9"/>
+<connection t1="1 Atlantic Sea Zone" t2="Greenland"/>
+<connection t1="1 Atlantic Sea Zone" t2="Labrador Sea Zone"/>
+<connection t1="Addis Ababa" t2="Ethiopia"/>
+<connection t1="Addis Ababa" t2="Lake Victoria Sea Zone"/>
+<connection t1="Addis Ababa" t2="Sudan"/>
+<connection t1="Addis Ababa" t2="Tanganyika"/>
+<connection t1="Aden Sea Zone" t2="Arabian Sea Zone"/>
+<connection t1="Aden Sea Zone" t2="Ethiopia"/>
+<connection t1="Aden Sea Zone" t2="Indian Sea Zone 2"/>
+<connection t1="Aden Sea Zone" t2="Indian Sea Zone 3"/>
+<connection t1="Aden Sea Zone" t2="Oman"/>
+<connection t1="Aden Sea Zone" t2="Red Sea Zone"/>
+<connection t1="Aden Sea Zone" t2="Yemen"/>
+<connection t1="Adriatic Sea Zone" t2="Albania"/>
+<connection t1="Adriatic Sea Zone" t2="Mediterranean Sea Zone 5"/>
+<connection t1="Adriatic Sea Zone" t2="North Italy"/>
+<connection t1="Adriatic Sea Zone" t2="South Italy"/>
+<connection t1="Adriatic Sea Zone" t2="Yugoslavia"/>
+<connection t1="Afghanistan" t2="Central Asia"/>
+<connection t1="Afghanistan" t2="Persia"/>
+<connection t1="Afghanistan" t2="Taklomak Desert"/>
+<connection t1="Afghanistan" t2="West India"/>
+<connection t1="Ainu Sea Zone" t2="Hokkaido"/>
+<connection t1="Ainu Sea Zone" t2="Kuril Sea Zone"/>
+<connection t1="Ainu Sea Zone" t2="Pacific Sea Zone 7"/>
+<connection t1="Ainu Sea Zone" t2="Sendai Sea Zone"/>
+<connection t1="Ainu Sea Zone" t2="West Bering Sea Zone"/>
+<connection t1="Alaska" t2="Arctic Sea Zone"/>
+<connection t1="Alaska" t2="Beaufort Sea Zone"/>
+<connection t1="Alaska" t2="British Columbia"/>
+<connection t1="Alaska" t2="East Bering Sea Zone"/>
+<connection t1="Alaska" t2="Pacific Sea Zone 8"/>
+<connection t1="Alaska" t2="Pacific Sea Zone 9"/>
+<connection t1="Alaska" t2="Yukon"/>
+<connection t1="Albania" t2="Greece"/>
+<connection t1="Albania" t2="Mediterranean Sea Zone 5"/>
+<connection t1="Albania" t2="Yugoslavia"/>
+<connection t1="Aleutian Islands" t2="Central Bering Sea Zone"/>
+<connection t1="Aleutian Islands" t2="Pacific Sea Zone 7"/>
+<connection t1="Aleutian Islands" t2="Pacific Sea Zone 8"/>
+<connection t1="Aleutian Islands" t2="East Bering Sea Zone"/>
+<connection t1="Algeria" t2="Mediterranean Sea Zone 1"/>
+<connection t1="Algeria" t2="Mediterranean Sea Zone 4"/>
+<connection t1="Algeria" t2="Morocco"/>
+<connection t1="Algeria" t2="Sahara Desert"/>
+<connection t1="Algeria" t2="Tripolitania"/>
+<connection t1="Algeria" t2="Tunis"/>
+<connection t1="Amazon Rainforest" t2="Andes"/>
+<connection t1="Amazon Rainforest" t2="Bolivia"/>
+<connection t1="Amazon Rainforest" t2="Brazil"/>
+<connection t1="Amazon Rainforest" t2="Colombia"/>
+<connection t1="Amazon Rainforest" t2="Venezuela"/>
+<connection t1="Amur" t2="Buryatia"/>
+<connection t1="Amur" t2="Heilongjiang"/>
+<connection t1="Amur" t2="Irkutsk"/>
+<connection t1="Amur" t2="Magadan"/>
+<connection t1="Amur" t2="Mongolia"/>
+<connection t1="Amur" t2="Yakutsk"/>
+<connection t1="Andes" t2="Bolivia"/>
+<connection t1="Andes" t2="Chile"/>
+<connection t1="Andes" t2="Colombia"/>
+<connection t1="Andes" t2="Pacific Sea Zone 18"/>
+<connection t1="Andes" t2="Pacific Sea Zone 19"/>
+<connection t1="Angola" t2="Atlantic Sea Zone 7"/>
+<connection t1="Angola" t2="Atlantic Sea Zone 8"/>
+<connection t1="Angola" t2="South Africa"/>
+<connection t1="Angola" t2="South African Sea Zone"/>
+<connection t1="Angola" t2="Upper Congo"/>
+<connection t1="Arabia" t2="Iraq"/>
+<connection t1="Arabia" t2="Oman"/>
+<connection t1="Arabia" t2="Palestine"/>
+<connection t1="Arabia" t2="Persian Gulf Sea Zone"/>
+<connection t1="Arabia" t2="Red Sea Zone"/>
+<connection t1="Arabia" t2="Yemen"/>
+<connection t1="Arabian Sea Zone" t2="Indian Sea Zone 3"/>
+<connection t1="Arabian Sea Zone" t2="Oman"/>
+<connection t1="Arabian Sea Zone" t2="South India"/>
+<connection t1="Arabian Sea Zone" t2="West India"/>
+<connection t1="Archangel" t2="Central Russia"/>
+<connection t1="Archangel" t2="Karelia"/>
+<connection t1="Archangel" t2="Moscow"/>
+<connection t1="Archangel" t2="Urals"/>
+<connection t1="Archangel" t2="White Sea Zone"/>
+<connection t1="Arctic Ice" t2="Nunavut"/>
+<connection t1="Arctic Sea Zone" t2="Beaufort Sea Zone"/>
+<connection t1="Arctic Sea Zone" t2="Nunavut"/>
+<connection t1="Arctic Sea Zone" t2="Yukon"/>
+<connection t1="Argentina" t2="Atlantic Sea Zone 14"/>
+<connection t1="Argentina" t2="Bolivia"/>
+<connection t1="Argentina" t2="Brazil"/>
+<connection t1="Argentina" t2="Chile"/>
+<connection t1="Argonne" t2="Benelux"/>
+<connection t1="Argonne" t2="Maginot"/>
+<connection t1="Argonne" t2="Normandy"/>
+<connection t1="Argonne" t2="Paris"/>
+<connection t1="Argonne" t2="Ruhr"/>
+<connection t1="Atlantic Sea Zone 2" t2="Atlantic Sea Zone 3"/>
+<connection t1="Atlantic Sea Zone 2" t2="Atlantic Sea Zone 9"/>
+<connection t1="Atlantic Sea Zone 2" t2="Azores"/>
+<connection t1="Atlantic Sea Zone 2" t2="Biscay Sea Zone"/>
+<connection t1="Atlantic Sea Zone 2" t2="Portugal"/>
+<connection t1="Atlantic Sea Zone 2" t2="Spain"/>
+<connection t1="Atlantic Sea Zone 3" t2="Atlantic Sea Zone 4"/>
+<connection t1="Atlantic Sea Zone 3" t2="Mediterranean Sea Zone 1"/>
+<connection t1="Atlantic Sea Zone 3" t2="Morocco"/>
+<connection t1="Atlantic Sea Zone 3" t2="Portugal"/>
+<connection t1="Atlantic Sea Zone 3" t2="Spain"/>
+<connection t1="Atlantic Sea Zone 3" t2="Atlantic Sea Zone 9"/>
+<connection t1="Atlantic Sea Zone 3" t2="Atlantic Sea Zone 12"/>
+<connection t1="Atlantic Sea Zone 3" t2="Azores"/>
+<connection t1="Atlantic Sea Zone 4" t2="Atlantic Sea Zone 5"/>
+<connection t1="Atlantic Sea Zone 4" t2="Atlantic Sea Zone 6"/>
+<connection t1="Atlantic Sea Zone 4" t2="West Africa"/>
+<connection t1="Atlantic Sea Zone 4" t2="Atlantic Sea Zone 12"/>
+<connection t1="Atlantic Sea Zone 4" t2="Atlantic Sea Zone 13"/>
+<connection t1="Atlantic Sea Zone 5" t2="Atlantic Sea Zone 6"/>
+<connection t1="Atlantic Sea Zone 5" t2="Atlantic Sea Zone 7"/>
+<connection t1="Atlantic Sea Zone 5" t2="Atlantic Sea Zone 13"/>
+<connection t1="Atlantic Sea Zone 5" t2="Atlantic Sea Zone 14"/>
+<connection t1="Atlantic Sea Zone 6" t2="Atlantic Sea Zone 7"/>
+<connection t1="Atlantic Sea Zone 6" t2="Atlantic Sea Zone 8"/>
+<connection t1="Atlantic Sea Zone 6" t2="Central Africa"/>
+<connection t1="Atlantic Sea Zone 6" t2="Gold Coast"/>
+<connection t1="Atlantic Sea Zone 6" t2="West Africa"/>
+<connection t1="Atlantic Sea Zone 7" t2="Atlantic Sea Zone 8"/>
+<connection t1="Atlantic Sea Zone 7" t2="South African Sea Zone"/>
+<connection t1="Atlantic Sea Zone 8" t2="Central Africa"/>
+<connection t1="Atlantic Sea Zone 8" t2="Lower Congo"/>
+<connection t1="Atlantic Sea Zone 8" t2="Upper Congo"/>
+<connection t1="Atlantic Sea Zone 9" t2="Atlantic Sea Zone 10"/>
+<connection t1="Atlantic Sea Zone 9" t2="Atlantic Sea Zone 11"/>
+<connection t1="Atlantic Sea Zone 9" t2="Atlantic Sea Zone 12"/>
+<connection t1="Atlantic Sea Zone 9" t2="Azores"/>
+<connection t1="Atlantic Sea Zone 9" t2="Bermuda"/>
+<connection t1="Atlantic Sea Zone 9" t2="Labrador Sea Zone"/>
+<connection t1="Atlantic Sea Zone 9" t2="St. Lawrence Sea Zone"/>
+<connection t1="Atlantic Sea Zone 10" t2="Atlantic Sea Zone 11"/>
+<connection t1="Atlantic Sea Zone 10" t2="Bermuda"/>
+<connection t1="Atlantic Sea Zone 10" t2="Northeast USA"/>
+<connection t1="Atlantic Sea Zone 10" t2="Southeast USA"/>
+<connection t1="Atlantic Sea Zone 10" t2="St. Lawrence Sea Zone"/>
+<connection t1="Atlantic Sea Zone 11" t2="Atlantic Sea Zone 12"/>
+<connection t1="Atlantic Sea Zone 11" t2="Bermuda"/>
+<connection t1="Atlantic Sea Zone 11" t2="Caribbean Sea Zone"/>
+<connection t1="Atlantic Sea Zone 11" t2="Cuba"/>
+<connection t1="Atlantic Sea Zone 11" t2="Gulf of Mexico Sea Zone"/>
+<connection t1="Atlantic Sea Zone 11" t2="Haiti"/>
+<connection t1="Atlantic Sea Zone 11" t2="Southeast USA"/>
+<connection t1="Atlantic Sea Zone 12" t2="Atlantic Sea Zone 13"/>
+<connection t1="Atlantic Sea Zone 12" t2="Brazil"/>
+<connection t1="Atlantic Sea Zone 12" t2="Caribbean Sea Zone"/>
+<connection t1="Atlantic Sea Zone 12" t2="Guyana"/>
+<connection t1="Atlantic Sea Zone 12" t2="Haiti"/>
+<connection t1="Atlantic Sea Zone 12" t2="Venezuela"/>
+<connection t1="Atlantic Sea Zone 13" t2="Atlantic Sea Zone 14"/>
+<connection t1="Atlantic Sea Zone 13" t2="Brazil"/>
+<connection t1="Atlantic Sea Zone 14" t2="Brazil"/>
+<connection t1="Atlantic Sea Zone 14" t2="Chile"/>
+<connection t1="Atlantic Sea Zone 14" t2="Falkland"/>
+<connection t1="Austria" t2="Berlin"/>
+<connection t1="Austria" t2="Hungary"/>
+<connection t1="Austria" t2="North Italy"/>
+<connection t1="Austria" t2="Prussia"/>
+<connection t1="Austria" t2="Swiss Alps"/>
+<connection t1="Austria" t2="West Poland"/>
+<connection t1="Austria" t2="Yugoslavia"/>
+<connection t1="Azerbaijan" t2="Caspian Sea Zone"/>
+<connection t1="Azerbaijan" t2="Caucasus"/>
+<connection t1="Azerbaijan" t2="Georgia"/>
+<connection t1="Azerbaijan" t2="Persia"/>
+<connection t1="Azerbaijan" t2="Turkey"/>
+<connection t1="Banda Sea Zone" t2="Borneo"/>
+<connection t1="Banda Sea Zone" t2="Celebes"/>
+<connection t1="Banda Sea Zone" t2="Indian Sea Zone 4"/>
+<connection t1="Banda Sea Zone" t2="Indian Sea Zone 5"/>
+<connection t1="Banda Sea Zone" t2="Leyte Gulf Sea Zone"/>
+<connection t1="Banda Sea Zone" t2="Malacca Sea Zone"/>
+<connection t1="Banda Sea Zone" t2="North Australia"/>
+<connection t1="Banda Sea Zone" t2="Sulu Sea Zone"/>
+<connection t1="Banda Sea Zone" t2="Timor Sea Zone"/>
+<connection t1="Banda Sea Zone" t2="West Australia"/>
+<connection t1="Barents Sea Zone" t2="Irish Sea Zone"/>
+<connection t1="Barents Sea Zone" t2="Norway"/>
+<connection t1="Barents Sea Zone" t2="Norwegian Sea Zone"/>
+<connection t1="Barents Sea Zone" t2="Scotland"/>
+<connection t1="Barents Sea Zone" t2="White Sea Zone"/>
+<connection t1="Batavia" t2="Indian Sea Zone 4"/>
+<connection t1="Batavia" t2="Java"/>
+<connection t1="Batavia" t2="Malacca Sea Zone"/>
+<connection t1="Batavia" t2="Sumatra"/>
+<connection t1="Bavaria" t2="Austria"/>
+<connection t1="Bavaria" t2="Berlin"/>
+<connection t1="Bavaria" t2="Maginot"/>
+<connection t1="Bavaria" t2="Ruhr"/>
+<connection t1="Bavaria" t2="Swiss Alps"/>
+<connection t1="Beaufort Sea Zone" t2="Central Bering Sea Zone"/>
+<connection t1="Beaufort Sea Zone" t2="Chukchi Sea Zone"/>
+<connection t1="Beaufort Sea Zone" t2="East Bering Sea Zone"/>
+<connection t1="Belarus" t2="East Poland"/>
+<connection t1="Belarus" t2="Lithuania"/>
+<connection t1="Belarus" t2="North Russia"/>
+<connection t1="Belarus" t2="Priepet Marsh"/>
+<connection t1="Belarus" t2="Warsaw"/>
+<connection t1="Belarus" t2="West Russia"/>
+<connection t1="Belarus" t2="West Ukraine"/>
+<connection t1="Belgrade" t2="Hungary"/>
+<connection t1="Belgrade" t2="Romania"/>
+<connection t1="Belgrade" t2="Yugoslavia"/>
+<connection t1="Benelux" t2="English Channel Sea Zone"/>
+<connection t1="Benelux" t2="Normandy"/>
+<connection t1="Benelux" t2="North Sea Zone"/>
+<connection t1="Benelux" t2="Ruhr"/>
+<connection t1="Bengal Sea Zone" t2="Burma"/>
+<connection t1="Bengal Sea Zone" t2="Ceylon"/>
+<connection t1="Bengal Sea Zone" t2="East India"/>
+<connection t1="Bengal Sea Zone" t2="Indian Sea Zone 3"/>
+<connection t1="Bengal Sea Zone" t2="Indian Sea Zone 4"/>
+<connection t1="Bengal Sea Zone" t2="Malacca Sea Zone"/>
+<connection t1="Bengal Sea Zone" t2="Malaya"/>
+<connection t1="Bengal Sea Zone" t2="Siam"/>
+<connection t1="Bengal Sea Zone" t2="South India"/>
+<connection t1="Bengal Sea Zone" t2="Sumatra"/>
+<connection t1="Berlin" t2="Denmark"/>
+<connection t1="Berlin" t2="Prussia"/>
+<connection t1="Berlin" t2="Ruhr"/>
+<connection t1="Bight Sea Zone" t2="Indian Sea Zone 5"/>
+<connection t1="Bight Sea Zone" t2="Pacific Sea Zone 1"/>
+<connection t1="Bight Sea Zone" t2="South Australia"/>
+<connection t1="Bight Sea Zone" t2="Tasman Sea Zone"/>
+<connection t1="Bight Sea Zone" t2="Tasmania"/>
+<connection t1="Bight Sea Zone" t2="West Australia"/>
+<connection t1="Biscay Sea Zone" t2="Bordeaux"/>
+<connection t1="Biscay Sea Zone" t2="English Channel Sea Zone"/>
+<connection t1="Biscay Sea Zone" t2="Irish Sea Zone"/>
+<connection t1="Biscay Sea Zone" t2="Normandy"/>
+<connection t1="Biscay Sea Zone" t2="Spain"/>
+<connection t1="Biscay Sea Zone" t2="West England"/>
+<connection t1="Bismarck" t2="Coral Sea Zone"/>
+<connection t1="Bismarck" t2="Pacific Sea Zone 4"/>
+<connection t1="Bolivia" t2="Brazil"/>
+<connection t1="Bolivia" t2="Chile"/>
+<connection t1="Bordeaux" t2="Normandy"/>
+<connection t1="Bordeaux" t2="Paris"/>
+<connection t1="Bordeaux" t2="South France"/>
+<connection t1="Bordeaux" t2="Spain"/>
+<connection t1="Borneo" t2="Malacca Sea Zone"/>
+<connection t1="Borneo" t2="Sulu Sea Zone"/>
+<connection t1="Brazil" t2="Guyana"/>
+<connection t1="Brazil" t2="Venezuela"/>
+<connection t1="British Columbia" t2="Central Canada"/>
+<connection t1="British Columbia" t2="Midwest USA"/>
+<connection t1="British Columbia" t2="Oregon"/>
+<connection t1="British Columbia" t2="Pacific Sea Zone 9"/>
+<connection t1="British Columbia" t2="Yukon"/>
+<connection t1="Bulgaria" t2="Greece"/>
+<connection t1="Bulgaria" t2="Romania"/>
+<connection t1="Bulgaria" t2="Turkey"/>
+<connection t1="Bulgaria" t2="West Black Sea Zone"/>
+<connection t1="Bulgaria" t2="Yugoslavia"/>
+<connection t1="Burma" t2="East India"/>
+<connection t1="Burma" t2="Indochina"/>
+<connection t1="Burma" t2="Siam"/>
+<connection t1="Burma" t2="Yunnan"/>
+<connection t1="Buryatia" t2="Heilongjiang"/>
+<connection t1="Buryatia" t2="Korea"/>
+<connection t1="Buryatia" t2="Kuril Sea Zone"/>
+<connection t1="Buryatia" t2="Magadan"/>
+<connection t1="Buryatia" t2="Okhotsk Sea Zone"/>
+<connection t1="Buryatia" t2="Tsushima Sea Zone"/>
+<connection t1="Cairo" t2="Egypt"/>
+<connection t1="Cairo" t2="Mediterranean Sea Zone 6"/>
+<connection t1="Cairo" t2="Mediterranean Sea Zone 8"/>
+<connection t1="Calcutta" t2="East India"/>
+<connection t1="Calcutta" t2="Himalayan Mountains"/>
+<connection t1="Calcutta" t2="South India"/>
+<connection t1="Calcutta" t2="West India"/>
+<connection t1="California" t2="Mexico"/>
+<connection t1="California" t2="Oregon"/>
+<connection t1="California" t2="Pacific Sea Zone 10"/>
+<connection t1="California" t2="Pacific Sea Zone 13"/>
+<connection t1="California" t2="Rocky Mountains"/>
+<connection t1="California" t2="Southwest USA"/>
+<connection t1="Canton" t2="Fujian"/>
+<connection t1="Canton" t2="Hunan"/>
+<connection t1="Canton" t2="South China Sea Zone"/>
+<connection t1="Capetown" t2="South Africa"/>
+<connection t1="Capetown" t2="South African Sea Zone"/>
+<connection t1="Caribbean Sea Zone" t2="Colombia"/>
+<connection t1="Caribbean Sea Zone" t2="Cuba"/>
+<connection t1="Caribbean Sea Zone" t2="Gulf of Mexico Sea Zone"/>
+<connection t1="Caribbean Sea Zone" t2="Haiti"/>
+<connection t1="Caribbean Sea Zone" t2="Mexico"/>
+<connection t1="Caribbean Sea Zone" t2="Pacific Sea Zone 19"/>
+<connection t1="Caribbean Sea Zone" t2="Panama"/>
+<connection t1="Caribbean Sea Zone" t2="Venezuela"/>
+<connection t1="Caribbean Sea Zone" t2="Yucatan"/>
+<connection t1="Caspian Sea Zone" t2="Caucasus"/>
+<connection t1="Caspian Sea Zone" t2="Central Asia"/>
+<connection t1="Caspian Sea Zone" t2="Kazakh"/>
+<connection t1="Caspian Sea Zone" t2="Persia"/>
+<connection t1="Caspian Sea Zone" t2="South Russia"/>
+<connection t1="Caucasus" t2="East Black Sea Zone"/>
+<connection t1="Caucasus" t2="East Ukraine"/>
+<connection t1="Caucasus" t2="Georgia"/>
+<connection t1="Caucasus" t2="South Russia"/>
+<connection t1="Caucasus" t2="South Ukraine"/>
+<connection t1="Celebes" t2="Leyte Gulf Sea Zone"/>
+<connection t1="Celebes" t2="Sulu Sea Zone"/>
+<connection t1="Central Africa" t2="Gold Coast"/>
+<connection t1="Central Africa" t2="Lower Congo"/>
+<connection t1="Central Africa" t2="Sahara Desert"/>
+<connection t1="Central Africa" t2="West Africa"/>
+<connection t1="Central Asia" t2="Kazakh"/>
+<connection t1="Central Asia" t2="Persia"/>
+<connection t1="Central Asia" t2="Qinghai"/>
+<connection t1="Central Asia" t2="Taklomak Desert"/>
+<connection t1="Central Asia" t2="Tibet"/>
+<connection t1="Central Bering Sea Zone" t2="Chukchi Sea Zone"/>
+<connection t1="Central Bering Sea Zone" t2="East Bering Sea Zone"/>
+<connection t1="Central Bering Sea Zone" t2="Pacific Sea Zone 7"/>
+<connection t1="Central Bering Sea Zone" t2="Pacific Sea Zone 8"/>
+<connection t1="Central Bering Sea Zone" t2="West Bering Sea Zone"/>
+<connection t1="Central Canada" t2="Manitoba"/>
+<connection t1="Central Canada" t2="Midwest USA"/>
+<connection t1="Central Canada" t2="Yukon"/>
+<connection t1="Central Russia" t2="Karelia"/>
+<connection t1="Central Russia" t2="North Russia"/>
+<connection t1="Central Russia" t2="South Russia"/>
+<connection t1="Central Russia" t2="Stalingrad"/>
+<connection t1="Central Russia" t2="Urals"/>
+<connection t1="Central Russia" t2="Volga"/>
+<connection t1="Central Russia" t2="West Russia"/>
+<connection t1="Ceylon" t2="Indian Sea Zone 3"/>
+<connection t1="Ceylon" t2="Indian Sea Zone 4"/>
+<connection t1="Chile" t2="Pacific Sea Zone 17"/>
+<connection t1="Chile" t2="Pacific Sea Zone 18"/>
+<connection t1="Chongqing" t2="Henan"/>
+<connection t1="Chongqing" t2="Himalayan Mountains"/>
+<connection t1="Chongqing" t2="Szechuan"/>
+<connection t1="Chongqing" t2="Yunnan"/>
+<connection t1="Chukchi Sea Zone" t2="Kamchatka"/>
+<connection t1="Chukchi Sea Zone" t2="Laptev Sea Zone"/>
+<connection t1="Chukchi Sea Zone" t2="West Bering Sea Zone"/>
+<connection t1="Colombia" t2="Pacific Sea Zone 19"/>
+<connection t1="Colombia" t2="Panama"/>
+<connection t1="Colombia" t2="Venezuela"/>
+<connection t1="Coral Sea Zone" t2="New Guinea"/>
+<connection t1="Coral Sea Zone" t2="New South Wales"/>
+<connection t1="Coral Sea Zone" t2="North New Zealand"/>
+<connection t1="Coral Sea Zone" t2="Pacific Sea Zone 1"/>
+<connection t1="Coral Sea Zone" t2="Pacific Sea Zone 2"/>
+<connection t1="Coral Sea Zone" t2="Pacific Sea Zone 3"/>
+<connection t1="Coral Sea Zone" t2="Pacific Sea Zone 4"/>
+<connection t1="Coral Sea Zone" t2="Queensland"/>
+<connection t1="Coral Sea Zone" t2="Solomon Islands"/>
+<connection t1="Coral Sea Zone" t2="Tasman Sea Zone"/>
+<connection t1="Coral Sea Zone" t2="Timor Sea Zone"/>
+<connection t1="Corsica" t2="Mediterranean Sea Zone 2"/>
+<connection t1="Corsica" t2="Mediterranean Sea Zone 3"/>
+<connection t1="Crete" t2="Mediterranean Sea Zone 5"/>
+<connection t1="Crete" t2="Mediterranean Sea Zone 6"/>
+<connection t1="Crete" t2="Mediterranean Sea Zone 7"/>
+<connection t1="Crete" t2="Mediterranean Sea Zone 8"/>
+<connection t1="Cuba" t2="Gulf of Mexico Sea Zone"/>
+<connection t1="Cyrenaica" t2="Egypt"/>
+<connection t1="Cyrenaica" t2="Equatorial Africa"/>
+<connection t1="Cyrenaica" t2="Mediterranean Sea Zone 4"/>
+<connection t1="Cyrenaica" t2="Mediterranean Sea Zone 6"/>
+<connection t1="Cyrenaica" t2="Sahara Desert"/>
+<connection t1="Cyrenaica" t2="Sudan"/>
+<connection t1="Cyrenaica" t2="Tripolitania"/>
+<connection t1="Denmark" t2="North Sea Zone"/>
+<connection t1="Denmark" t2="Prussia"/>
+<connection t1="Denmark" t2="Ruhr"/>
+<connection t1="Denmark" t2="West Baltic Sea Zone"/>
+<connection t1="East Baltic Sea Zone" t2="Finland"/>
+<connection t1="East Baltic Sea Zone" t2="Leningrad"/>
+<connection t1="East Baltic Sea Zone" t2="Lithuania"/>
+<connection t1="East Baltic Sea Zone" t2="Sweden"/>
+<connection t1="East Baltic Sea Zone" t2="West Baltic Sea Zone"/>
+<connection t1="East Baltic Sea Zone" t2="West Poland"/>
+<connection t1="East Bering Sea Zone" t2="Pacific Sea Zone 8"/>
+<connection t1="East Black Sea Zone" t2="Georgia"/>
+<connection t1="East Black Sea Zone" t2="South Ukraine"/>
+<connection t1="East Black Sea Zone" t2="Turkey"/>
+<connection t1="East Black Sea Zone" t2="West Black Sea Zone"/>
+<connection t1="East India" t2="Himalayan Mountains"/>
+<connection t1="East India" t2="South India"/>
+<connection t1="East India" t2="Yunnan"/>
+<connection t1="East Poland" t2="Hungary"/>
+<connection t1="East Poland" t2="West Poland"/>
+<connection t1="East Poland" t2="West Ukraine"/>
+<connection t1="East Ukraine" t2="Priepet Marsh"/>
+<connection t1="East Ukraine" t2="South Russia"/>
+<connection t1="East Ukraine" t2="South Ukraine"/>
+<connection t1="East Ukraine" t2="West Russia"/>
+<connection t1="Egypt" t2="Mediterranean Sea Zone 6"/>
+<connection t1="Egypt" t2="Mediterranean Sea Zone 8"/>
+<connection t1="Egypt" t2="Red Sea Zone"/>
+<connection t1="Egypt" t2="Sudan"/>
+<connection t1="Egypt" t2="Palestine"/>
+<connection t1="English Channel Sea Zone" t2="Normandy"/>
+<connection t1="English Channel Sea Zone" t2="North Sea Zone"/>
+<connection t1="English Channel Sea Zone" t2="Norwegian Sea Zone"/>
+<connection t1="English Channel Sea Zone" t2="West England"/>
+<connection t1="Equatorial Africa" t2="Lower Congo"/>
+<connection t1="Equatorial Africa" t2="Rift Valley Sea Zone"/>
+<connection t1="Equatorial Africa" t2="Sahara Desert"/>
+<connection t1="Equatorial Africa" t2="Sudan"/>
+<connection t1="Equatorial Africa" t2="Upper Congo"/>
+<connection t1="Ethiopia" t2="Indian Sea Zone 2"/>
+<connection t1="Ethiopia" t2="Red Sea Zone"/>
+<connection t1="Ethiopia" t2="Sudan"/>
+<connection t1="Ethiopia" t2="Tanganyika"/>
+<connection t1="Falkland" t2="Pacific Sea Zone 17"/>
+<connection t1="Finland" t2="Leningrad"/>
+<connection t1="Finland" t2="Murmansk"/>
+<connection t1="Finland" t2="Norway"/>
+<connection t1="Formosa" t2="Philippine Sea Zone"/>
+<connection t1="Formosa" t2="South China Sea Zone"/>
+<connection t1="Fujian" t2="Hubei"/>
+<connection t1="Fujian" t2="Hunan"/>
+<connection t1="Fujian" t2="Shandong"/>
+<connection t1="Fujian" t2="Shanghai"/>
+<connection t1="Fujian" t2="South China Sea Zone"/>
+<connection t1="Georgia" t2="Turkey"/>
+<connection t1="Gibraltar" t2="Atlantic Sea Zone 3"/>
+<connection t1="Gibraltar" t2="Mediterranean Sea Zone 1"/>
+<connection t1="Gibraltar" t2="Spain"/>
+<connection t1="Gobi Desert" t2="Irkutsk"/>
+<connection t1="Gobi Desert" t2="Kazakh"/>
+<connection t1="Gobi Desert" t2="Mongolia"/>
+<connection t1="Gobi Desert" t2="Qinghai"/>
+<connection t1="Gobi Desert" t2="Siberia"/>
+<connection t1="Gold Coast" t2="West Africa"/>
+<connection t1="Great Lakes Sea Zone" t2="Midwest USA"/>
+<connection t1="Great Lakes Sea Zone" t2="Northeast USA"/>
+<connection t1="Great Lakes Sea Zone" t2="Ontario"/>
+<connection t1="Greece" t2="Mediterranean Sea Zone 5"/>
+<connection t1="Greece" t2="Mediterranean Sea Zone 7"/>
+<connection t1="Greece" t2="Turkey"/>
+<connection t1="Greece" t2="Yugoslavia"/>
+<connection t1="Greenland" t2="Labrador Sea Zone"/>
+<connection t1="Gulf of Mexico Sea Zone" t2="Mexico"/>
+<connection t1="Gulf of Mexico Sea Zone" t2="Southeast USA"/>
+<connection t1="Gulf of Mexico Sea Zone" t2="Southwest USA"/>
+<connection t1="Guyana" t2="Venezuela"/>
+<connection t1="Hainan" t2="South China Sea Zone"/>
+<connection t1="Hainan" t2="Sulu Sea Zone"/>
+<connection t1="Hawaii" t2="Honolulu"/>
+<connection t1="Hawaii" t2="Pacific Sea Zone 12"/>
+<connection t1="Hawaii" t2="Pacific Sea Zone 13"/>
+<connection t1="Hawaii" t2="Pacific Sea Zone 14"/>
+<connection t1="Heilongjiang" t2="Korea"/>
+<connection t1="Heilongjiang" t2="Manchuria"/>
+<connection t1="Heilongjiang" t2="Mongolia"/>
+<connection t1="Henan" t2="Hubei"/>
+<connection t1="Henan" t2="Ningxia"/>
+<connection t1="Henan" t2="Shandong"/>
+<connection t1="Henan" t2="Shanxi"/>
+<connection t1="Henan" t2="Szechuan"/>
+<connection t1="Henan" t2="Yunnan"/>
+<connection t1="Himalayan Mountains" t2="Szechuan"/>
+<connection t1="Himalayan Mountains" t2="Tibet"/>
+<connection t1="Himalayan Mountains" t2="West India"/>
+<connection t1="Himalayan Mountains" t2="Yunnan"/>
+<connection t1="Hokkaido" t2="Kuril Sea Zone"/>
+<connection t1="Hokkaido" t2="Sendai Sea Zone"/>
+<connection t1="Honolulu" t2="Pacific Sea Zone 12"/>
+<connection t1="Honolulu" t2="Pacific Sea Zone 13"/>
+<connection t1="Hubei" t2="Hunan"/>
+<connection t1="Hubei" t2="Shandong"/>
+<connection t1="Hubei" t2="Yunnan"/>
+<connection t1="Hudson Sea Zone" t2="Labrador Sea Zone"/>
+<connection t1="Hudson Sea Zone" t2="Manitoba"/>
+<connection t1="Hudson Sea Zone" t2="Nunavut"/>
+<connection t1="Hudson Sea Zone" t2="Ontario"/>
+<connection t1="Hudson Sea Zone" t2="Ottawa"/>
+<connection t1="Hudson Sea Zone" t2="Quebec"/>
+<connection t1="Hunan" t2="Indochina"/>
+<connection t1="Hunan" t2="South China Sea Zone"/>
+<connection t1="Hunan" t2="Yunnan"/>
+<connection t1="Hungary" t2="Romania"/>
+<connection t1="Hungary" t2="West Poland"/>
+<connection t1="Hungary" t2="West Ukraine"/>
+<connection t1="Hungary" t2="Yugoslavia"/>
+<connection t1="Indian Sea Zone 1" t2="Indian Sea Zone 2"/>
+<connection t1="Indian Sea Zone 1" t2="Indian Sea Zone 5"/>
+<connection t1="Indian Sea Zone 1" t2="Madagascar"/>
+<connection t1="Indian Sea Zone 1" t2="South African Sea Zone"/>
+<connection t1="Indian Sea Zone 2" t2="Indian Sea Zone 3"/>
+<connection t1="Indian Sea Zone 2" t2="Indian Sea Zone 4"/>
+<connection t1="Indian Sea Zone 2" t2="Indian Sea Zone 5"/>
+<connection t1="Indian Sea Zone 2" t2="Madagascar"/>
+<connection t1="Indian Sea Zone 2" t2="Mozambique"/>
+<connection t1="Indian Sea Zone 2" t2="South African Sea Zone"/>
+<connection t1="Indian Sea Zone 2" t2="Tanganyika"/>
+<connection t1="Indian Sea Zone 3" t2="Indian Sea Zone 4"/>
+<connection t1="Indian Sea Zone 3" t2="South India"/>
+<connection t1="Indian Sea Zone 4" t2="Indian Sea Zone 5"/>
+<connection t1="Indian Sea Zone 4" t2="Java"/>
+<connection t1="Indian Sea Zone 4" t2="Sumatra"/>
+<connection t1="Indian Sea Zone 5" t2="West Australia"/>
+<connection t1="Indochina" t2="Malacca Sea Zone"/>
+<connection t1="Indochina" t2="Siam"/>
+<connection t1="Indochina" t2="Sulu Sea Zone"/>
+<connection t1="Indochina" t2="Yunnan"/>
+<connection t1="Iraq" t2="Palestine"/>
+<connection t1="Iraq" t2="Persia"/>
+<connection t1="Iraq" t2="Persian Gulf Sea Zone"/>
+<connection t1="Iraq" t2="Syria"/>
+<connection t1="Iraq" t2="Turkey"/>
+<connection t1="Ireland" t2="Irish Sea Zone"/>
+<connection t1="Irish Sea Zone" t2="North England"/>
+<connection t1="Irish Sea Zone" t2="Scotland"/>
+<connection t1="Irish Sea Zone" t2="Wales"/>
+<connection t1="Irish Sea Zone" t2="West England"/>
+<connection t1="Irkutsk" t2="Mongolia"/>
+<connection t1="Irkutsk" t2="Omsk"/>
+<connection t1="Irkutsk" t2="Siberia"/>
+<connection t1="Irkutsk" t2="Yakutsk"/>
+<connection t1="Iwo Jima" t2="Osaka Sea Zone"/>
+<connection t1="Iwo Jima" t2="Pacific Sea Zone 5"/>
+<connection t1="Iwo Jima" t2="Philippine Sea Zone"/>
+<connection t1="Java" t2="Banda Sea Zone"/>
+<connection t1="Java" t2="Malacca Sea Zone"/>
+<connection t1="Kamchatka" t2="Kuril Sea Zone"/>
+<connection t1="Kamchatka" t2="Laptev Sea Zone"/>
+<connection t1="Kamchatka" t2="Okhotsk Sea Zone"/>
+<connection t1="Kamchatka" t2="West Bering Sea Zone"/>
+<connection t1="Kamchatka" t2="Yakutsk"/>
+<connection t1="Karelia" t2="Leningrad"/>
+<connection t1="Karelia" t2="Murmansk"/>
+<connection t1="Karelia" t2="North Russia"/>
+<connection t1="Karelia" t2="White Sea Zone"/>
+<connection t1="Kazakh" t2="Qinghai"/>
+<connection t1="Kazakh" t2="Siberia"/>
+<connection t1="Kazakh" t2="Volga"/>
+<connection t1="Kiev" t2="East Ukraine"/>
+<connection t1="Kiev" t2="Priepet Marsh"/>
+<connection t1="Kiev" t2="South Ukraine"/>
+<connection t1="Kiev" t2="West Ukraine"/>
+<connection t1="Korea" t2="Manchuria"/>
+<connection t1="Korea" t2="Tsushima Sea Zone"/>
+<connection t1="Korea" t2="Yellow Sea Zone"/>
+<connection t1="Kuril Sea Zone" t2="North Japan"/>
+<connection t1="Kuril Sea Zone" t2="Okhotsk Sea Zone"/>
+<connection t1="Kuril Sea Zone" t2="Sakhalin"/>
+<connection t1="Kuril Sea Zone" t2="Sendai Sea Zone"/>
+<connection t1="Kuril Sea Zone" t2="Tsushima Sea Zone"/>
+<connection t1="Kuril Sea Zone" t2="West Bering Sea Zone"/>
+<connection t1="Labrador Sea Zone" t2="Newfoundland"/>
+<connection t1="Labrador Sea Zone" t2="Nunavut"/>
+<connection t1="Labrador Sea Zone" t2="Quebec"/>
+<connection t1="Labrador Sea Zone" t2="St. Lawrence Sea Zone"/>
+<connection t1="Lake Victoria Sea Zone" t2="Sudan"/>
+<connection t1="Lake Victoria Sea Zone" t2="Tanganyika"/>
+<connection t1="Lake Victoria Sea Zone" t2="Uganda"/>
+<connection t1="Laptev Sea Zone" t2="Yakutsk"/>
+<connection t1="Leningrad" t2="Lithuania"/>
+<connection t1="Leningrad" t2="Murmansk"/>
+<connection t1="Leningrad" t2="North Russia"/>
+<connection t1="Leyte Gulf Sea Zone" t2="Mindanao"/>
+<connection t1="Leyte Gulf Sea Zone" t2="Pacific Sea Zone 4"/>
+<connection t1="Leyte Gulf Sea Zone" t2="Pacific Sea Zone 5"/>
+<connection t1="Leyte Gulf Sea Zone" t2="Papua"/>
+<connection t1="Leyte Gulf Sea Zone" t2="Philippine Sea Zone"/>
+<connection t1="Leyte Gulf Sea Zone" t2="Sulu Sea Zone"/>
+<connection t1="Leyte Gulf Sea Zone" t2="Timor Sea Zone"/>
+<connection t1="Leyte Gulf Sea Zone" t2="Visayas"/>
+<connection t1="Lithuania" t2="North Russia"/>
+<connection t1="Lithuania" t2="Warsaw"/>
+<connection t1="Lithuania" t2="West Poland"/>
+<connection t1="London" t2="English Channel Sea Zone"/>
+<connection t1="London" t2="North England"/>
+<connection t1="London" t2="Wales"/>
+<connection t1="London" t2="West England"/>
+<connection t1="Lower Congo" t2="Sahara Desert"/>
+<connection t1="Lower Congo" t2="Upper Congo"/>
+<connection t1="Luzon" t2="Philippine Sea Zone"/>
+<connection t1="Luzon" t2="Sulu Sea Zone"/>
+<connection t1="Magadan" t2="Kamchatka"/>
+<connection t1="Magadan" t2="Okhotsk Sea Zone"/>
+<connection t1="Magadan" t2="Yakutsk"/>
+<connection t1="Maginot" t2="Paris"/>
+<connection t1="Maginot" t2="Ruhr"/>
+<connection t1="Maginot" t2="South France"/>
+<connection t1="Maginot" t2="Swiss Alps"/>
+<connection t1="Malacca Sea Zone" t2="Malaya"/>
+<connection t1="Malacca Sea Zone" t2="Siam"/>
+<connection t1="Malacca Sea Zone" t2="Sulu Sea Zone"/>
+<connection t1="Malacca Sea Zone" t2="Sumatra"/>
+<connection t1="Malaya" t2="Siam"/>
+<connection t1="Malta" t2="Mediterranean Sea Zone 4"/>
+<connection t1="Malta" t2="Mediterranean Sea Zone 5"/>
+<connection t1="Malta" t2="Mediterranean Sea Zone 6"/>
+<connection t1="Manchuria" t2="Mongolia"/>
+<connection t1="Manchuria" t2="Shanxi"/>
+<connection t1="Manchuria" t2="Yellow Sea Zone"/>
+<connection t1="Manitoba" t2="Great Lakes Sea Zone"/>
+<connection t1="Manitoba" t2="Midwest USA"/>
+<connection t1="Manitoba" t2="Nunavut"/>
+<connection t1="Manitoba" t2="Yukon"/>
+<connection t1="Maritime Canada" t2="Ontario"/>
+<connection t1="Maritime Canada" t2="Ottawa"/>
+<connection t1="Maritime Canada" t2="St. Lawrence Sea Zone"/>
+<connection t1="Mediterranean Sea Zone 1" t2="Mediterranean Sea Zone 2"/>
+<connection t1="Mediterranean Sea Zone 1" t2="Mediterranean Sea Zone 4"/>
+<connection t1="Mediterranean Sea Zone 1" t2="Morocco"/>
+<connection t1="Mediterranean Sea Zone 1" t2="Sardinia"/>
+<connection t1="Mediterranean Sea Zone 1" t2="Spain"/>
+<connection t1="Mediterranean Sea Zone 2" t2="Mediterranean Sea Zone 3"/>
+<connection t1="Mediterranean Sea Zone 2" t2="North Italy"/>
+<connection t1="Mediterranean Sea Zone 2" t2="Sardinia"/>
+<connection t1="Mediterranean Sea Zone 2" t2="South France"/>
+<connection t1="Mediterranean Sea Zone 2" t2="Spain"/>
+<connection t1="Mediterranean Sea Zone 3" t2="Mediterranean Sea Zone 4"/>
+<connection t1="Mediterranean Sea Zone 3" t2="Mediterranean Sea Zone 5"/>
+<connection t1="Mediterranean Sea Zone 3" t2="North Italy"/>
+<connection t1="Mediterranean Sea Zone 3" t2="Sardinia"/>
+<connection t1="Mediterranean Sea Zone 3" t2="Sicily"/>
+<connection t1="Mediterranean Sea Zone 3" t2="South Italy"/>
+<connection t1="Mediterranean Sea Zone 4" t2="Mediterranean Sea Zone 5"/>
+<connection t1="Mediterranean Sea Zone 4" t2="Mediterranean Sea Zone 6"/>
+<connection t1="Mediterranean Sea Zone 4" t2="Sardinia"/>
+<connection t1="Mediterranean Sea Zone 4" t2="Sicily"/>
+<connection t1="Mediterranean Sea Zone 4" t2="Tripolitania"/>
+<connection t1="Mediterranean Sea Zone 5" t2="Mediterranean Sea Zone 6"/>
+<connection t1="Mediterranean Sea Zone 5" t2="Mediterranean Sea Zone 7"/>
+<connection t1="Mediterranean Sea Zone 5" t2="Sicily"/>
+<connection t1="Mediterranean Sea Zone 5" t2="South Italy"/>
+<connection t1="Mediterranean Sea Zone 6" t2="Mediterranean Sea Zone 8"/>
+<connection t1="Mediterranean Sea Zone 7" t2="Mediterranean Sea Zone 8"/>
+<connection t1="Mediterranean Sea Zone 7" t2="Turkey"/>
+<connection t1="Mediterranean Sea Zone 7" t2="West Black Sea Zone"/>
+<connection t1="Mediterranean Sea Zone 8" t2="Palestine"/>
+<connection t1="Mediterranean Sea Zone 8" t2="Red Sea Zone"/>
+<connection t1="Mediterranean Sea Zone 8" t2="Syria"/>
+<connection t1="Mediterranean Sea Zone 8" t2="Turkey"/>
+<connection t1="Mexico" t2="Pacific Sea Zone 13"/>
+<connection t1="Mexico" t2="Pacific Sea Zone 14"/>
+<connection t1="Mexico" t2="Pacific Sea Zone 19"/>
+<connection t1="Mexico" t2="Southwest USA"/>
+<connection t1="Mexico" t2="Yucatan"/>
+<connection t1="Midway" t2="Pacific Sea Zone 6"/>
+<connection t1="Midway" t2="Pacific Sea Zone 7"/>
+<connection t1="Midway" t2="Pacific Sea Zone 11"/>
+<connection t1="Midway" t2="Pacific Sea Zone 12"/>
+<connection t1="Midwest USA" t2="Northeast USA"/>
+<connection t1="Midwest USA" t2="Oregon"/>
+<connection t1="Midwest USA" t2="Rocky Mountains"/>
+<connection t1="Midwest USA" t2="Southeast USA"/>
+<connection t1="Mindanao" t2="Sulu Sea Zone"/>
+<connection t1="Mongolia" t2="Ningxia"/>
+<connection t1="Mongolia" t2="Qinghai"/>
+<connection t1="Mongolia" t2="Shanxi"/>
+<connection t1="Morocco" t2="Atlantic Sea Zone 4"/>
+<connection t1="Morocco" t2="Sahara Desert"/>
+<connection t1="Morocco" t2="West Africa"/>
+<connection t1="Moscow" t2="Central Russia"/>
+<connection t1="Moscow" t2="Urals"/>
+<connection t1="Mozambique" t2="Rhodesia"/>
+<connection t1="Mozambique" t2="South Africa"/>
+<connection t1="Mozambique" t2="South African Sea Zone"/>
+<connection t1="Mozambique" t2="Tanganyika"/>
+<connection t1="Murmansk" t2="Norway"/>
+<connection t1="Murmansk" t2="White Sea Zone"/>
+<connection t1="New Guinea" t2="Pacific Sea Zone 4"/>
+<connection t1="New Guinea" t2="Papua"/>
+<connection t1="New Guinea" t2="Timor Sea Zone"/>
+<connection t1="New South Wales" t2="Queensland"/>
+<connection t1="New South Wales" t2="South Australia"/>
+<connection t1="New South Wales" t2="Tasman Sea Zone"/>
+<connection t1="Newfoundland" t2="St. Lawrence Sea Zone"/>
+<connection t1="Ningxia" t2="Qinghai"/>
+<connection t1="Ningxia" t2="Shanxi"/>
+<connection t1="Ningxia" t2="Szechuan"/>
+<connection t1="Ningxia" t2="Tibet"/>
+<connection t1="North Australia" t2="Queensland"/>
+<connection t1="North Australia" t2="South Australia"/>
+<connection t1="North Australia" t2="Timor Sea Zone"/>
+<connection t1="North Australia" t2="West Australia"/>
+<connection t1="North England" t2="English Channel Sea Zone"/>
+<connection t1="North England" t2="Norwegian Sea Zone"/>
+<connection t1="North England" t2="Scotland"/>
+<connection t1="North England" t2="Wales"/>
+<connection t1="North Italy" t2="Rome"/>
+<connection t1="North Italy" t2="South France"/>
+<connection t1="North Italy" t2="Swiss Alps"/>
+<connection t1="North Italy" t2="Yugoslavia"/>
+<connection t1="North Japan" t2="Sendai Sea Zone"/>
+<connection t1="North Japan" t2="Tokyo"/>
+<connection t1="North Japan" t2="Tsushima Sea Zone"/>
+<connection t1="North New Zealand" t2="Pacific Sea Zone 1"/>
+<connection t1="North New Zealand" t2="Tasman Sea Zone"/>
+<connection t1="North Russia" t2="West Russia"/>
+<connection t1="North Sea Zone" t2="Norway"/>
+<connection t1="North Sea Zone" t2="Norwegian Sea Zone"/>
+<connection t1="North Sea Zone" t2="Ruhr"/>
+<connection t1="North Sea Zone" t2="West Baltic Sea Zone"/>
+<connection t1="Northeast USA" t2="Maritime Canada"/>
+<connection t1="Northeast USA" t2="Ontario"/>
+<connection t1="Northeast USA" t2="Southeast USA"/>
+<connection t1="Northeast USA" t2="St. Lawrence Sea Zone"/>
+<connection t1="Northeast USA" t2="Washington DC"/>
+<connection t1="Norway" t2="Norwegian Sea Zone"/>
+<connection t1="Norway" t2="Sweden"/>
+<connection t1="Norway" t2="West Baltic Sea Zone"/>
+<connection t1="Norway" t2="White Sea Zone"/>
+<connection t1="Norwegian Sea Zone" t2="Scotland"/>
+<connection t1="Nunavut" t2="Yukon"/>
+<connection t1="Okhotsk Sea Zone" t2="Sakhalin"/>
+<connection t1="Okinawa" t2="Osaka Sea Zone"/>
+<connection t1="Okinawa" t2="Philippine Sea Zone"/>
+<connection t1="Okinawa" t2="Yellow Sea Zone"/>
+<connection t1="Oman" t2="Persian Gulf Sea Zone"/>
+<connection t1="Oman" t2="Yemen"/>
+<connection t1="Omsk" t2="Siberia"/>
+<connection t1="Omsk" t2="Yakutsk"/>
+<connection t1="Ontario" t2="Manitoba"/>
+<connection t1="Ontario" t2="Ottawa"/>
+<connection t1="Oregon" t2="Pacific Sea Zone 9"/>
+<connection t1="Oregon" t2="Pacific Sea Zone 10"/>
+<connection t1="Oregon" t2="Rocky Mountains"/>
+<connection t1="Osaka Sea Zone" t2="Pacific Sea Zone 5"/>
+<connection t1="Osaka Sea Zone" t2="Philippine Sea Zone"/>
+<connection t1="Osaka Sea Zone" t2="Sendai Sea Zone"/>
+<connection t1="Osaka Sea Zone" t2="South Japan"/>
+<connection t1="Osaka Sea Zone" t2="Tokyo"/>
+<connection t1="Osaka Sea Zone" t2="Yellow Sea Zone"/>
+<connection t1="Ottawa" t2="Quebec"/>
+<connection t1="Ottawa" t2="St. Lawrence Sea Zone"/>
+<connection t1="Pacific Sea Zone 1" t2="Pacific Sea Zone 2"/>
+<connection t1="Pacific Sea Zone 1" t2="Pacific Sea Zone 15"/>
+<connection t1="Pacific Sea Zone 1" t2="Pacific Sea Zone 16"/>
+<connection t1="Pacific Sea Zone 1" t2="South New Zealand"/>
+<connection t1="Pacific Sea Zone 1" t2="Tasman Sea Zone"/>
+<connection t1="Pacific Sea Zone 2" t2="Pacific Sea Zone 3"/>
+<connection t1="Pacific Sea Zone 2" t2="Pacific Sea Zone 6"/>
+<connection t1="Pacific Sea Zone 2" t2="Pacific Sea Zone 12"/>
+<connection t1="Pacific Sea Zone 2" t2="Pacific Sea Zone 14"/>
+<connection t1="Pacific Sea Zone 2" t2="Pacific Sea Zone 15"/>
+<connection t1="Pacific Sea Zone 2" t2="Solomon Islands"/>
+<connection t1="Pacific Sea Zone 3" t2="Pacific Sea Zone 4"/>
+<connection t1="Pacific Sea Zone 3" t2="Pacific Sea Zone 5"/>
+<connection t1="Pacific Sea Zone 3" t2="Pacific Sea Zone 6"/>
+<connection t1="Pacific Sea Zone 3" t2="Solomon Islands"/>
+<connection t1="Pacific Sea Zone 3" t2="Truk"/>
+<connection t1="Pacific Sea Zone 3" t2="Wake"/>
+<connection t1="Pacific Sea Zone 4" t2="Pacific Sea Zone 5"/>
+<connection t1="Pacific Sea Zone 4" t2="Papua"/>
+<connection t1="Pacific Sea Zone 4" t2="Solomon Islands"/>
+<connection t1="Pacific Sea Zone 4" t2="Truk"/>
+<connection t1="Pacific Sea Zone 5" t2="Pacific Sea Zone 6"/>
+<connection t1="Pacific Sea Zone 5" t2="Pacific Sea Zone 7"/>
+<connection t1="Pacific Sea Zone 5" t2="Philippine Sea Zone"/>
+<connection t1="Pacific Sea Zone 5" t2="Sendai Sea Zone"/>
+<connection t1="Pacific Sea Zone 5" t2="Truk"/>
+<connection t1="Pacific Sea Zone 6" t2="Pacific Sea Zone 7"/>
+<connection t1="Pacific Sea Zone 6" t2="Pacific Sea Zone 12"/>
+<connection t1="Pacific Sea Zone 6" t2="Wake"/>
+<connection t1="Pacific Sea Zone 7" t2="Pacific Sea Zone 8"/>
+<connection t1="Pacific Sea Zone 7" t2="Pacific Sea Zone 11"/>
+<connection t1="Pacific Sea Zone 7" t2="Sendai Sea Zone"/>
+<connection t1="Pacific Sea Zone 7" t2="West Bering Sea Zone"/>
+<connection t1="Pacific Sea Zone 8" t2="Pacific Sea Zone 9"/>
+<connection t1="Pacific Sea Zone 8" t2="Pacific Sea Zone 10"/>
+<connection t1="Pacific Sea Zone 8" t2="Pacific Sea Zone 11"/>
+<connection t1="Pacific Sea Zone 9" t2="Pacific Sea Zone 10"/>
+<connection t1="Pacific Sea Zone 10" t2="Pacific Sea Zone 11"/>
+<connection t1="Pacific Sea Zone 10" t2="Pacific Sea Zone 13"/>
+<connection t1="Pacific Sea Zone 11" t2="Pacific Sea Zone 12"/>
+<connection t1="Pacific Sea Zone 11" t2="Pacific Sea Zone 13"/>
+<connection t1="Pacific Sea Zone 12" t2="Pacific Sea Zone 13"/>
+<connection t1="Pacific Sea Zone 12" t2="Pacific Sea Zone 14"/>
+<connection t1="Pacific Sea Zone 13" t2="Pacific Sea Zone 14"/>
+<connection t1="Pacific Sea Zone 14" t2="Pacific Sea Zone 15"/>
+<connection t1="Pacific Sea Zone 14" t2="Pacific Sea Zone 19"/>
+<connection t1="Pacific Sea Zone 15" t2="Pacific Sea Zone 16"/>
+<connection t1="Pacific Sea Zone 15" t2="Pacific Sea Zone 18"/>
+<connection t1="Pacific Sea Zone 15" t2="Pacific Sea Zone 19"/>
+<connection t1="Pacific Sea Zone 16" t2="Pacific Sea Zone 17"/>
+<connection t1="Pacific Sea Zone 16" t2="Pacific Sea Zone 18"/>
+<connection t1="Pacific Sea Zone 17" t2="Atlantic Sea Zone 14"/>
+<connection t1="Pacific Sea Zone 17" t2="Pacific Sea Zone 18"/>
+<connection t1="Pacific Sea Zone 18" t2="Pacific Sea Zone 19"/>
+<connection t1="Pacific Sea Zone 19" t2="Panama"/>
+<connection t1="Pacific Sea Zone 19" t2="Yucatan"/>
+<connection t1="Palestine" t2="Red Sea Zone"/>
+<connection t1="Palestine" t2="Syria"/>
+<connection t1="Panama" t2="Yucatan"/>
+<connection t1="Papua" t2="Timor Sea Zone"/>
+<connection t1="Paris" t2="Normandy"/>
+<connection t1="Paris" t2="South France"/>
+<connection t1="Persia" t2="Persian Gulf Sea Zone"/>
+<connection t1="Persia" t2="Turkey"/>
+<connection t1="Persia" t2="West India"/>
+<connection t1="Persian Gulf Sea Zone" t2="Arabian Sea Zone"/>
+<connection t1="Persian Gulf Sea Zone" t2="West India"/>
+<connection t1="Philippine Sea Zone" t2="South China Sea Zone"/>
+<connection t1="Philippine Sea Zone" t2="Sulu Sea Zone"/>
+<connection t1="Philippine Sea Zone" t2="Visayas"/>
+<connection t1="Philippine Sea Zone" t2="Yellow Sea Zone"/>
+<connection t1="Portugal" t2="Spain"/>
+<connection t1="Priepet Marsh" t2="West Russia"/>
+<connection t1="Priepet Marsh" t2="West Ukraine"/>
+<connection t1="Prussia" t2="West Baltic Sea Zone"/>
+<connection t1="Prussia" t2="West Poland"/>
+<connection t1="Qinghai" t2="Tibet"/>
+<connection t1="Quebec" t2="St. Lawrence Sea Zone"/>
+<connection t1="Queensland" t2="Timor Sea Zone"/>
+<connection t1="Red Sea Zone" t2="Sudan"/>
+<connection t1="Red Sea Zone" t2="Yemen"/>
+<connection t1="Rhodesia" t2="South Africa"/>
+<connection t1="Rhodesia" t2="Tanganyika"/>
+<connection t1="Rhodesia" t2="Uganda"/>
+<connection t1="Rhodesia" t2="Upper Congo"/>
+<connection t1="Rift Valley Sea Zone" t2="Sudan"/>
+<connection t1="Rift Valley Sea Zone" t2="Uganda"/>
+<connection t1="Rift Valley Sea Zone" t2="Upper Congo"/>
+<connection t1="Rio" t2="Atlantic Sea Zone 13"/>
+<connection t1="Rio" t2="Brazil"/>
+<connection t1="Rocky Mountains" t2="Southeast USA"/>
+<connection t1="Rocky Mountains" t2="Southwest USA"/>
+<connection t1="Romania" t2="South Ukraine"/>
+<connection t1="Romania" t2="West Black Sea Zone"/>
+<connection t1="Romania" t2="West Ukraine"/>
+<connection t1="Romania" t2="Yugoslavia"/>
+<connection t1="Rome" t2="Adriatic Sea Zone"/>
+<connection t1="Rome" t2="Mediterranean Sea Zone 3"/>
+<connection t1="Rome" t2="South Italy"/>
+<connection t1="Sahara Desert" t2="Tripolitania"/>
+<connection t1="Sahara Desert" t2="West Africa"/>
+<connection t1="San Francisco" t2="California"/>
+<connection t1="San Francisco" t2="Pacific Sea Zone 10"/>
+<connection t1="Sendai Sea Zone" t2="Tokyo"/>
+<connection t1="Shandong" t2="Shanghai"/>
+<connection t1="Shandong" t2="Shanxi"/>
+<connection t1="Shandong" t2="Yellow Sea Zone"/>
+<connection t1="Shanghai" t2="South China Sea Zone"/>
+<connection t1="Shanghai" t2="Yellow Sea Zone"/>
+<connection t1="Shanxi" t2="Yellow Sea Zone"/>
+<connection t1="Siberia" t2="Urals"/>
+<connection t1="Siberia" t2="Volga"/>
+<connection t1="Siberia" t2="Yakutsk"/>
+<connection t1="South Africa" t2="South African Sea Zone"/>
+<connection t1="South Africa" t2="Upper Congo"/>
+<connection t1="South Australia" t2="Queensland"/>
+<connection t1="South Australia" t2="Tasman Sea Zone"/>
+<connection t1="South Australia" t2="West Australia"/>
+<connection t1="South China Sea Zone" t2="Indochina"/>
+<connection t1="South China Sea Zone" t2="Sulu Sea Zone"/>
+<connection t1="South China Sea Zone" t2="Yellow Sea Zone"/>
+<connection t1="South France" t2="Spain"/>
+<connection t1="South France" t2="Swiss Alps"/>
+<connection t1="South India" t2="West India"/>
+<connection t1="South Japan" t2="Tokyo"/>
+<connection t1="South Japan" t2="Tsushima Sea Zone"/>
+<connection t1="South Japan" t2="Yellow Sea Zone"/>
+<connection t1="South New Zealand" t2="Tasman Sea Zone"/>
+<connection t1="South Russia" t2="Volga"/>
+<connection t1="South Russia" t2="West Russia"/>
+<connection t1="South Ukraine" t2="West Black Sea Zone"/>
+<connection t1="South Ukraine" t2="West Ukraine"/>
+<connection t1="Southeast USA" t2="Southwest USA"/>
+<connection t1="Southeast USA" t2="Washington DC"/>
+<connection t1="Stalingrad" t2="South Russia"/>
+<connection t1="Stalingrad" t2="Volga"/>
+<connection t1="Sudan" t2="Uganda"/>
+<connection t1="Sulu Sea Zone" t2="Visayas"/>
+<connection t1="Sweden" t2="Finland"/>
+<connection t1="Sweden" t2="West Baltic Sea Zone"/>
+<connection t1="Sydney" t2="New South Wales"/>
+<connection t1="Sydney" t2="Tasman Sea Zone"/>
+<connection t1="Syria" t2="Turkey"/>
+<connection t1="Szechuan" t2="Tibet"/>
+<connection t1="Taklomak Desert" t2="Tibet"/>
+<connection t1="Taklomak Desert" t2="West India"/>
+<connection t1="Tanganyika" t2="Uganda"/>
+<connection t1="Tasman Sea Zone" t2="Tasmania"/>
+<connection t1="Tibet" t2="West India"/>
+<connection t1="Tokyo" t2="Tsushima Sea Zone"/>
+<connection t1="Tripolitania" t2="Tunis"/>
+<connection t1="Tsushima Sea Zone" t2="Yellow Sea Zone"/>
+<connection t1="Tunis" t2="Mediterranean Sea Zone 4"/>
+<connection t1="Turkey" t2="West Black Sea Zone"/>
+<connection t1="Uganda" t2="Upper Congo"/>
+<connection t1="Urals" t2="Volga"/>
+<connection t1="Volga" t2="Caspian Sea Zone"/>
+<connection t1="Wales" t2="West England"/>
+<connection t1="Warsaw" t2="East Poland"/>
+<connection t1="Warsaw" t2="West Poland"/>
+<connection t1="Washington DC" t2="Atlantic Sea Zone 10"/>
+<connection t1="West Baltic Sea Zone" t2="West Poland"/>

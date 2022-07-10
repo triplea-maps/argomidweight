@@ -1,0 +1,4 @@
+map_name: argomidweight
+games:
+- {game_name: 'Argothair's_Middleweight_Map_1939', file_name: argo1939.xml}
+- {game_name: 'Argothair's_Middleweight_Map_1942', file_name: argo1942.xml}
