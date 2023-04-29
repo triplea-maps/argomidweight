@@ -1305,32 +1305,32 @@
     </playerList>
 
     <unitList>
-        <unit name="infantry"/>
-        <unit name="artillery"/>
-        <unit name="commando"/>
-		<unit name="jeep"/>
-        <unit name="halftrack"/>
-        <unit name="tank"/>
-        <unit name="flak"/>
+        <unit name="Infantry"/>
+        <unit name="Artillery"/>
+        <unit name="Commando"/>
+		<unit name="Jeep"/>
+        <unit name="Halftrack"/>
+        <unit name="Tank"/>
+        <unit name="Flak"/>
         
-		<unit name="cutter"/>
-		<unit name="submersible"/>
-		<unit name="destroyer"/>
-		<unit name="transport"/>
-		<unit name="cruiser"/>
-        <unit name="carrier"/>
-        <unit name="battleship"/>
+		<unit name="Cutter"/>
+		<unit name="Submersible"/>
+		<unit name="Destroyer"/>
+		<unit name="Transport"/>
+		<unit name="Cruiser"/>
+        <unit name="Carrier"/>
+        <unit name="Battleship"/>
 
-        <unit name="biplane"/>
-		<unit name="fighter"/>
-        <unit name="interceptor"/>
-        <unit name="glider"/>
-        <unit name="stratbomber"/>
-        <unit name="divebomber"/>
+        <unit name="Biplane"/>
+		<unit name="Fighter"/>
+        <unit name="Interceptor"/>
+        <unit name="Glider"/>
+        <unit name="Stratbomber"/>
+        <unit name="Divebomber"/>
 
-		<unit name="bunker"/> 
-        <unit name="barracks"/>        
-        <unit name="factory"/>
+		<unit name="Bunker"/> 
+        <unit name="Barracks"/>        
+        <unit name="Factory"/>
     </unitList>
 
     <gamePlay>
@@ -1444,98 +1444,98 @@
 
         <productionRule name="buyInfantry">
             <cost resource="PUs" quantity="3"/>
-            <result resourceOrUnit="infantry" quantity="1"/>
+            <result resourceOrUnit="Infantry" quantity="1"/>
         </productionRule>
         <productionRule name="buyArtillery">
             <cost resource="PUs" quantity="4"/>
-            <result resourceOrUnit="artillery" quantity="1"/>
+            <result resourceOrUnit="Artillery" quantity="1"/>
         </productionRule>
         <productionRule name="buyCommando">
             <cost resource="PUs" quantity="5"/>
-            <result resourceOrUnit="commando" quantity="1"/>
+            <result resourceOrUnit="Commando" quantity="1"/>
         </productionRule>
         <productionRule name="buyJeep">
             <cost resource="PUs" quantity="5"/>
-            <result resourceOrUnit="jeep" quantity="1"/>
+            <result resourceOrUnit="Jeep" quantity="1"/>
         </productionRule>
         <productionRule name="buyHalftrack">
             <cost resource="PUs" quantity="5"/>
-            <result resourceOrUnit="halftrack" quantity="1"/>
+            <result resourceOrUnit="Halftrack" quantity="1"/>
         </productionRule>
         <productionRule name="buyTank">
             <cost resource="PUs" quantity="6"/>
-            <result resourceOrUnit="tank" quantity="1"/>
+            <result resourceOrUnit="Tank" quantity="1"/>
         </productionRule>
         <productionRule name="buyFlak">
             <cost resource="PUs" quantity="4"/>
-            <result resourceOrUnit="flak" quantity="1"/>
+            <result resourceOrUnit="Flak" quantity="1"/>
         </productionRule>
 
 		<productionRule name="buyCutter">
             <cost resource="PUs" quantity="4"/>
-            <result resourceOrUnit="cutter" quantity="1"/>
+            <result resourceOrUnit="Cutter" quantity="1"/>
         </productionRule>
         <productionRule name="buySubmersible">
             <cost resource="PUs" quantity="5"/>
-            <result resourceOrUnit="submersible" quantity="1"/>
+            <result resourceOrUnit="Submersible" quantity="1"/>
         </productionRule>
 		<productionRule name="buyDestroyer">
             <cost resource="PUs" quantity="6"/>
-            <result resourceOrUnit="destroyer" quantity="1"/>
+            <result resourceOrUnit="Destroyer" quantity="1"/>
         </productionRule>
 		<productionRule name="buyTransport">
             <cost resource="PUs" quantity="7"/>
-            <result resourceOrUnit="transport" quantity="1"/>
+            <result resourceOrUnit="Transport" quantity="1"/>
         </productionRule>
 		<productionRule name="buyCruiser">
             <cost resource="PUs" quantity="9"/>
-            <result resourceOrUnit="cruiser" quantity="1"/>
+            <result resourceOrUnit="Cruiser" quantity="1"/>
         </productionRule>
 		<productionRule name="buyCarrier">
             <cost resource="PUs" quantity="11"/>
-            <result resourceOrUnit="carrier" quantity="1"/>
+            <result resourceOrUnit="Carrier" quantity="1"/>
         </productionRule>
 		<productionRule name="buyBattleship">
             <cost resource="PUs" quantity="13"/>
-            <result resourceOrUnit="battleship" quantity="1"/>
+            <result resourceOrUnit="Battleship" quantity="1"/>
         </productionRule>		
 
 		<productionRule name="buyBiplane">
             <cost resource="PUs" quantity="8"/>
-            <result resourceOrUnit="biplane" quantity="1"/>
+            <result resourceOrUnit="Biplane" quantity="1"/>
         </productionRule>
 		<productionRule name="buyFighter">
             <cost resource="PUs" quantity="12"/>
-            <result resourceOrUnit="fighter" quantity="1"/>
+            <result resourceOrUnit="Fighter" quantity="1"/>
         </productionRule>
         <productionRule name="buyGlider">
             <cost resource="PUs" quantity="8"/>
-            <result resourceOrUnit="glider" quantity="1"/>
+            <result resourceOrUnit="Glider" quantity="1"/>
         </productionRule>			
 		<productionRule name="buyInterceptor">
             <cost resource="PUs" quantity="10"/>
-            <result resourceOrUnit="interceptor" quantity="1"/>
+            <result resourceOrUnit="Interceptor" quantity="1"/>
         </productionRule>	
         <productionRule name="buyStratbomber">
             <cost resource="PUs" quantity="12"/>
-            <result resourceOrUnit="stratbomber" quantity="1"/>
+            <result resourceOrUnit="Stratbomber" quantity="1"/>
         </productionRule>
         <productionRule name="buyDivebomber">
             <cost resource="PUs" quantity="14"/>
-            <result resourceOrUnit="divebomber" quantity="1"/>
+            <result resourceOrUnit="Divebomber" quantity="1"/>
         </productionRule>		
 		
         <productionRule name="buyBarracks">
             <cost resource="PUs" quantity="10"/>
-            <result resourceOrUnit="barracks" quantity="1"/>
+            <result resourceOrUnit="Barracks" quantity="1"/>
         </productionRule>
         <productionRule name="buyBunker">
             <cost resource="PUs" quantity="5"/>
-            <result resourceOrUnit="bunker" quantity="1"/>
+            <result resourceOrUnit="Bunker" quantity="1"/>
         </productionRule>
 		<productionRule name="buyFactory">
             <cost resource="PUs" quantity="20"/>
-            <result resourceOrUnit="factory" quantity="1"/>
+            <result resourceOrUnit="Factory" quantity="1"/>
         </productionRule>
 
 
@@ -1714,21 +1714,21 @@
 		
 		
 		<!--Land Units-->
-        <attachment name="unitAttachment" attachTo="infantry" javaClass="games.strategy.triplea.attachments.UnitAttachment" type="unitType">
+        <attachment name="unitAttachment" attachTo="Infantry" javaClass="games.strategy.triplea.attachments.UnitAttachment" type="unitType">
             <option name="movement" value="1"/>
             <option name="transportCost" value="6"/>
             <option name="attack" value="1"/>
             <option name="defense" value="3"/>
         </attachment>
-        <attachment name="unitAttachment" attachTo="artillery" javaClass="games.strategy.triplea.attachments.UnitAttachment" type="unitType">
+        <attachment name="unitAttachment" attachTo="Artillery" javaClass="games.strategy.triplea.attachments.UnitAttachment" type="unitType">
             <option name="movement" value="1"/>
             <option name="transportCost" value="7"/>
             <option name="attack" value="3"/>
             <option name="defense" value="2"/>
-            <option name="artillery" value="true"/>
+            <option name="Artillery" value="true"/>
 			<option name="isMarine" value="-2"/>
         </attachment>
-		<attachment name="unitAttachment" attachTo="flak" javaClass="games.strategy.triplea.attachments.UnitAttachment" type="unitType">
+		<attachment name="unitAttachment" attachTo="Flak" javaClass="games.strategy.triplea.attachments.UnitAttachment" type="unitType">
             <option name="movement" value="2"/>
             <option name="transportCost" value="7"/>
             <option name="canAirBattle" value="true"/>
@@ -1739,7 +1739,7 @@
             <option name="defense" value="1"/>
 			<option name="requiresAirbaseToIntercept" value="false"/>
         </attachment>
-		<attachment name="unitAttachment" attachTo="commando" javaClass="games.strategy.triplea.attachments.UnitAttachment" type="unitType">
+		<attachment name="unitAttachment" attachTo="Commando" javaClass="games.strategy.triplea.attachments.UnitAttachment" type="unitType">
             <option name="movement" value="1"/>
             <option name="transportCost" value="5"/>
             <option name="canBlitz" value="true"/>
@@ -1747,7 +1747,7 @@
             <option name="defense" value="2"/>
 			<option name="isAirTransportable" value="true"/>			
         </attachment>
-        <attachment name="unitAttachment" attachTo="jeep" javaClass="games.strategy.triplea.attachments.UnitAttachment" type="unitType">
+        <attachment name="unitAttachment" attachTo="Jeep" javaClass="games.strategy.triplea.attachments.UnitAttachment" type="unitType">
             <option name="movement" value="3"/>
             <option name="transportCost" value="7"/>
             <option name="canBlitz" value="true"/>
@@ -1755,84 +1755,84 @@
             <option name="defense" value="1"/>
 			<option name="isMarine" value="-1"/>			
         </attachment>
-		<attachment name="unitAttachment" attachTo="halftrack" javaClass="games.strategy.triplea.attachments.UnitAttachment" type="unitType">
+		<attachment name="unitAttachment" attachTo="Halftrack" javaClass="games.strategy.triplea.attachments.UnitAttachment" type="unitType">
             <option name="movement" value="2"/>
             <option name="transportCost" value="7"/>
             <option name="canBlitz" value="true"/>
             <option name="attack" value="2"/>
             <option name="defense" value="3"/>
-			<option name="requiresUnits" value="factory"/>
+			<option name="requiresUnits" value="Factory"/>
 			<option name="isMarine" value="-1"/>
         </attachment>
-		        <attachment name="unitAttachment" attachTo="tank" javaClass="games.strategy.triplea.attachments.UnitAttachment" type="unitType">
+		        <attachment name="unitAttachment" attachTo="Tank" javaClass="games.strategy.triplea.attachments.UnitAttachment" type="unitType">
             <option name="movement" value="2"/>
             <option name="transportCost" value="7"/>
             <option name="canBlitz" value="true"/>
             <option name="attack" value="4"/>
             <option name="defense" value="2"/>
 			<option name="isMarine" value="-3"/>			
-			<option name="requiresUnits" value="factory"/>
+			<option name="requiresUnits" value="Factory"/>
         </attachment>
 		
 		
 		<!--Sea Units-->
-		<attachment name="unitAttachment" attachTo="cutter" javaClass="games.strategy.triplea.attachments.UnitAttachment" type="unitType">
+		<attachment name="unitAttachment" attachTo="Cutter" javaClass="games.strategy.triplea.attachments.UnitAttachment" type="unitType">
             <option name="movement" value="1"/>
             <option name="isSea" value="true"/>
             <option name="transportCapacity" value="6"/>
             <option name="attack" value="1"/>
             <option name="defense" value="1"/>
         </attachment>
-		<attachment name="unitAttachment" attachTo="submersible" javaClass="games.strategy.triplea.attachments.UnitAttachment" type="unitType">
+		<attachment name="unitAttachment" attachTo="Submersible" javaClass="games.strategy.triplea.attachments.UnitAttachment" type="unitType">
             <option name="movement" value="2"/>
             <option name="isSea" value="true"/>
             <option name="attack" value="2"/>
             <option name="defense" value="1"/>
 			<option name="blockade" value="2"/>
         </attachment>
-        <attachment name="unitAttachment" attachTo="destroyer" javaClass="games.strategy.triplea.attachments.UnitAttachment" type="unitType">
+        <attachment name="unitAttachment" attachTo="Destroyer" javaClass="games.strategy.triplea.attachments.UnitAttachment" type="unitType">
             <option name="movement" value="2"/>
             <option name="isSea" value="true"/>
             <option name="attack" value="2"/>
             <option name="defense" value="3"/>
             <option name="isDestroyer" value="false"/>
         </attachment>
-		<attachment name="unitAttachment" attachTo="transport" javaClass="games.strategy.triplea.attachments.UnitAttachment" type="unitType">
+		<attachment name="unitAttachment" attachTo="Transport" javaClass="games.strategy.triplea.attachments.UnitAttachment" type="unitType">
             <option name="movement" value="2"/>
             <option name="isSea" value="true"/>
             <option name="transportCapacity" value="13"/>
             <option name="attack" value="0"/>
             <option name="defense" value="1"/>
         </attachment>
-        <attachment name="unitAttachment" attachTo="cruiser" javaClass="games.strategy.triplea.attachments.UnitAttachment" type="unitType">
+        <attachment name="unitAttachment" attachTo="Cruiser" javaClass="games.strategy.triplea.attachments.UnitAttachment" type="unitType">
             <option name="movement" value="3"/>
             <option name="isSea" value="true"/>
             <option name="attack" value="3"/>
             <option name="defense" value="3"/>
             <option name="canBombard" value="true"/>
             <option name="transportCapacity" value="5"/>
-			<option name="requiresUnits" value="factory"/>
+			<option name="requiresUnits" value="Factory"/>
         </attachment>
-        <attachment name="unitAttachment" attachTo="carrier" javaClass="games.strategy.triplea.attachments.UnitAttachment" type="unitType">
+        <attachment name="unitAttachment" attachTo="Carrier" javaClass="games.strategy.triplea.attachments.UnitAttachment" type="unitType">
             <option name="carrierCapacity" value="2"/>
             <option name="movement" value="2"/>
             <option name="isSea" value="true"/>
             <option name="attack" value="1"/>
             <option name="defense" value="2"/>
-			<option name="requiresUnits" value="factory"/>
+			<option name="requiresUnits" value="Factory"/>
         </attachment>		
-        <attachment name="unitAttachment" attachTo="battleship" javaClass="games.strategy.triplea.attachments.UnitAttachment" type="unitType">
+        <attachment name="unitAttachment" attachTo="Battleship" javaClass="games.strategy.triplea.attachments.UnitAttachment" type="unitType">
             <option name="movement" value="2"/>
             <option name="isSea" value="true"/>
             <option name="attack" value="5"/>
             <option name="defense" value="4"/>
             <option name="canBombard" value="true"/>
-			<option name="requiresUnits" value="factory"/>
+			<option name="requiresUnits" value="Factory"/>
         </attachment>
 		
 		
 		<!--Air Units-->
-        <attachment name="unitAttachment" attachTo="biplane" javaClass="games.strategy.triplea.attachments.UnitAttachment" type="unitType">
+        <attachment name="unitAttachment" attachTo="Biplane" javaClass="games.strategy.triplea.attachments.UnitAttachment" type="unitType">
             <option name="movement" value="3"/>
             <option name="carrierCost" value="1"/>
             <option name="isAir" value="true"/>
@@ -1847,7 +1847,7 @@
 			<option name="canScramble" value="true"/>
 			<option name="maxScrambleDistance" value="1"/>			
         </attachment>
-		<attachment name="unitAttachment" attachTo="fighter" javaClass="games.strategy.triplea.attachments.UnitAttachment" type="unitType">
+		<attachment name="unitAttachment" attachTo="Fighter" javaClass="games.strategy.triplea.attachments.UnitAttachment" type="unitType">
             <option name="movement" value="4"/>
             <option name="carrierCost" value="1"/>
             <option name="isAir" value="true"/>
@@ -1858,12 +1858,12 @@
 			<option name="canEscort" value="true"/>
 			<option name="airDefense" value="1"/>
 			<option name="airAttack" value="2"/>
-			<option name="requiresUnits" value="factory"/>
+			<option name="requiresUnits" value="Factory"/>
 			<option name="isAirBase" value="true"/>
 			<option name="canScramble" value="true"/>
 			<option name="maxScrambleDistance" value="1"/>			
         </attachment>
-        <attachment name="unitAttachment" attachTo="interceptor" javaClass="games.strategy.triplea.attachments.UnitAttachment" type="unitType">
+        <attachment name="unitAttachment" attachTo="Interceptor" javaClass="games.strategy.triplea.attachments.UnitAttachment" type="unitType">
             <option name="movement" value="3"/>
             <option name="carrierCost" value="1"/>
             <option name="isAir" value="true"/>
@@ -1874,12 +1874,12 @@
 			<option name="airDefense" value="4"/>
             <option name="attack" value="1"/>
             <option name="defense" value="2"/>
-			<option name="requiresUnits" value="factory"/>
+			<option name="requiresUnits" value="Factory"/>
 			<option name="isAirBase" value="true"/>
 			<option name="canScramble" value="true"/>
 			<option name="maxScrambleDistance" value="1"/>			
         </attachment>
-        <attachment name="unitAttachment" attachTo="glider" javaClass="games.strategy.triplea.attachments.UnitAttachment" type="unitType">
+        <attachment name="unitAttachment" attachTo="Glider" javaClass="games.strategy.triplea.attachments.UnitAttachment" type="unitType">
             <option name="movement" value="5"/>
             <option name="carrierCost" value="1"/>
             <option name="isAir" value="true"/>
@@ -1890,9 +1890,9 @@
 			<option name="airDefense" value="0"/>
 			<option name="isAirTransport" value="true"/>
 			<option name="transportCapacity" value="5"/>
-			<option name="requiresUnits" value="factory"/>
+			<option name="requiresUnits" value="Factory"/>
         </attachment>		
-        <attachment name="unitAttachment" attachTo="stratbomber" javaClass="games.strategy.triplea.attachments.UnitAttachment" type="unitType">
+        <attachment name="unitAttachment" attachTo="Stratbomber" javaClass="games.strategy.triplea.attachments.UnitAttachment" type="unitType">
             <option name="movement" value="6"/>
             <option name="carrierCost" value="1"/>
             <option name="isAir" value="true"/>
@@ -1902,9 +1902,9 @@
             <option name="attack" value="2"/>
             <option name="defense" value="1"/>
             <option name="isStrategicBomber" value="true"/>
-			<option name="requiresUnits" value="factory"/>
+			<option name="requiresUnits" value="Factory"/>
         </attachment>
-        <attachment name="unitAttachment" attachTo="divebomber" javaClass="games.strategy.triplea.attachments.UnitAttachment" type="unitType">
+        <attachment name="unitAttachment" attachTo="Divebomber" javaClass="games.strategy.triplea.attachments.UnitAttachment" type="unitType">
             <option name="carrierCost" value="1"/>
             <option name="movement" value="3"/>
             <option name="isAir" value="true"/>
@@ -1913,22 +1913,22 @@
             <option name="canAirBattle" value="true"/>
 			<option name="airAttack" value="0"/>
 			<option name="airDefense" value="0"/>
-			<option name="requiresUnits" value="factory"/>
+			<option name="requiresUnits" value="Factory"/>
         </attachment>
         
 		
 		<!--Other Units-->
-		<attachment name="unitAttachment" attachTo="bunker" javaClass="games.strategy.triplea.attachments.UnitAttachment" type="unitType">
+		<attachment name="unitAttachment" attachTo="Bunker" javaClass="games.strategy.triplea.attachments.UnitAttachment" type="unitType">
             <option name="movement" value="0"/>
             <option name="attack" value="0"/>
             <option name="defense" value="4"/>
         </attachment>
-        <attachment name="unitAttachment" attachTo="factory" javaClass="games.strategy.triplea.attachments.UnitAttachment" type="unitType">
+        <attachment name="unitAttachment" attachTo="Factory" javaClass="games.strategy.triplea.attachments.UnitAttachment" type="unitType">
             <option name="isFactory" value="true"/>
 			<option name="canBeDamaged" value="true"/>
 			<option name="whenCapturedChangesInto" value="any:any:true:barracks:1"/>			
         </attachment>
-		<attachment name="unitAttachment" attachTo="barracks" javaClass="games.strategy.triplea.attachments.UnitAttachment" type="unitType">
+		<attachment name="unitAttachment" attachTo="Barracks" javaClass="games.strategy.triplea.attachments.UnitAttachment" type="unitType">
 			<option name="isFactory" value="true"/>
 			<option name="isInfrastructure" value="true"/>
 			<option name="canBeDamaged" value="true"/>
@@ -3834,360 +3834,360 @@
             <territoryOwner territory="Yunnan" owner="Chinese"/>
         </ownerInitialize>
        <unitInitialize>
-            <unitPlacement unitType="infantry" territory="Addis Ababa" quantity="2" owner="Italians"/>
-            <unitPlacement unitType="infantry" territory="Samoa" quantity="1" owner="Americans"/>         
-            <unitPlacement unitType="artillery" territory="Addis Ababa" quantity="1" owner="Italians"/>
-            <unitPlacement unitType="battleship" territory="Adriatic Sea Zone" quantity="1" owner="Italians"/>
-            <unitPlacement unitType="submersible" territory="Adriatic Sea Zone" quantity="1" owner="Italians"/>
-            <unitPlacement unitType="transport" territory="Adriatic Sea Zone" quantity="1" owner="Italians"/>
-            <unitPlacement unitType="infantry" territory="Afghanistan" quantity="4"/>
-            <unitPlacement unitType="infantry" territory="Albania" quantity="1" owner="Italians"/>
-            <unitPlacement unitType="infantry" territory="Algeria" quantity="2" owner="French"/>
-            <unitPlacement unitType="infantry" territory="Amur" quantity="1" owner="Russians"/>
-            <unitPlacement unitType="infantry" territory="Angola" quantity="1"/>
-            <unitPlacement unitType="infantry" territory="Arabia" quantity="3"/>
-            <unitPlacement unitType="bunker" territory="Argentina" quantity="1" owner="Germans"/>
-            <unitPlacement unitType="submersible" territory="1 Atlantic Sea Zone" quantity="3" owner="Germans"/>
-            <unitPlacement unitType="cruiser" territory="Atlantic Sea Zone 3" quantity="1" owner="British"/>
-            <unitPlacement unitType="destroyer" territory="Atlantic Sea Zone 3" quantity="1" owner="British"/>
-            <unitPlacement unitType="cutter" territory="Atlantic Sea Zone 8" quantity="1" owner="French"/>
-            <unitPlacement unitType="cruiser" territory="Atlantic Sea Zone 10" quantity="1" owner="Americans"/>
-            <unitPlacement unitType="submersible" territory="Atlantic Sea Zone 14" quantity="1" owner="Germans"/>
-            <unitPlacement unitType="cruiser" territory="Atlantic Sea Zone 14" quantity="1" owner="Germans"/>
-            <unitPlacement unitType="infantry" territory="Austria" quantity="3" owner="Germans"/>
-            <unitPlacement unitType="factory" territory="Austria" quantity="1" owner="Germans"/>
-            <unitPlacement unitType="biplane" territory="Austria" quantity="1" owner="Germans"/>
-            <unitPlacement unitType="artillery" territory="Austria" quantity="1" owner="Germans"/>
-            <unitPlacement unitType="halftrack" territory="Austria" quantity="1" owner="Germans"/>
-            <unitPlacement unitType="cutter" territory="Banda Sea Zone" quantity="1"/>
-            <unitPlacement unitType="carrier" territory="Barents Sea Zone" quantity="1" owner="British"/>
-            <unitPlacement unitType="biplane" territory="Barents Sea Zone" quantity="1" owner="British"/>
-            <unitPlacement unitType="flak" territory="Batavia" quantity="1"/>
-            <unitPlacement unitType="infantry" territory="Batavia" quantity="2"/>
-            <unitPlacement unitType="infantry" territory="Bavaria" quantity="3" owner="Germans"/>
-            <unitPlacement unitType="infantry" territory="Belarus" quantity="2" owner="Russians"/>
-            <unitPlacement unitType="artillery" territory="Belarus" quantity="1" owner="Russians"/>
-            <unitPlacement unitType="infantry" territory="Belgrade" quantity="3"/>
-            <unitPlacement unitType="flak" territory="Belgrade" quantity="1"/>
-            <unitPlacement unitType="flak" territory="Benelux" quantity="1"/>
-            <unitPlacement unitType="infantry" territory="Benelux" quantity="3"/>
-            <unitPlacement unitType="infantry" territory="Berlin" quantity="8" owner="Germans"/>
-            <unitPlacement unitType="tank" territory="Berlin" quantity="2" owner="Germans"/>
-            <unitPlacement unitType="artillery" territory="Berlin" quantity="1" owner="Germans"/>
-            <unitPlacement unitType="factory" territory="Berlin" quantity="1" owner="Germans"/>
-            <unitPlacement unitType="stratbomber" territory="Berlin" quantity="1" owner="Germans"/>
-            <unitPlacement unitType="divebomber" territory="Berlin" quantity="2" owner="Germans"/>
-            <unitPlacement unitType="fighter" territory="Berlin" quantity="1" owner="Germans"/>
-            <unitPlacement unitType="transport" territory="Biscay Sea Zone" quantity="1" owner="French"/>
-            <unitPlacement unitType="cruiser" territory="Biscay Sea Zone" quantity="1" owner="French"/>
-            <unitPlacement unitType="destroyer" territory="East Black Sea Zone" quantity="1" owner="Russians"/>
-            <unitPlacement unitType="cutter" territory="East Black Sea Zone" quantity="1" owner="Russians"/>
-            <unitPlacement unitType="infantry" territory="Bordeaux" quantity="1" owner="French"/>
-            <unitPlacement unitType="infantry" territory="Borneo" quantity="1"/>
-            <unitPlacement unitType="infantry" territory="British Columbia" quantity="1" owner="British"/>
-            <unitPlacement unitType="flak" territory="Buryatia" quantity="1" owner="Russians"/>
-            <unitPlacement unitType="infantry" territory="Buryatia" quantity="2" owner="Russians"/>
-            <unitPlacement unitType="infantry" territory="Cairo" quantity="1" owner="British"/>
-            <unitPlacement unitType="infantry" territory="Calcutta" quantity="3" owner="British"/>
-            <unitPlacement unitType="barracks" territory="Calcutta" quantity="1" owner="British"/>
-            <unitPlacement unitType="infantry" territory="California" quantity="1" owner="Americans"/>
-            <unitPlacement unitType="bunker" territory="California" quantity="1" owner="Americans"/>
-            <unitPlacement unitType="infantry" territory="Canton" quantity="1" owner="British"/>
-            <unitPlacement unitType="infantry" territory="Capetown" quantity="2" owner="British"/>
-            <unitPlacement unitType="transport" territory="Caspian Sea Zone" quantity="1" owner="Russians"/>
-            <unitPlacement unitType="infantry" territory="Chile" quantity="1"/>
-            <unitPlacement unitType="infantry" territory="Chongqing" quantity="1" owner="Chinese"/>
-            <unitPlacement unitType="barracks" territory="Chongqing" quantity="1" owner="Chinese"/>
-            <unitPlacement unitType="biplane" territory="Chongqing" quantity="1" owner="Chinese"/>
-            <unitPlacement unitType="bunker" territory="Chongqing" quantity="2" owner="Chinese"/>
-            <unitPlacement unitType="infantry" territory="Colombia" quantity="1"/>
-            <unitPlacement unitType="infantry" territory="Upper Congo" quantity="2"/>
-            <unitPlacement unitType="halftrack" territory="Cyrenaica" quantity="1" owner="Italians"/>
-            <unitPlacement unitType="infantry" territory="Cyrenaica" quantity="3" owner="Italians"/>
-            <unitPlacement unitType="infantry" territory="Denmark" quantity="1"/>
-            <unitPlacement unitType="transport" territory="East Baltic Sea Zone" quantity="1" owner="Russians"/>
-            <unitPlacement unitType="cruiser" territory="East Baltic Sea Zone" quantity="1" owner="Russians"/>
-            <unitPlacement unitType="infantry" territory="East India" quantity="1" owner="British"/>
-            <unitPlacement unitType="infantry" territory="East Poland" quantity="1"/>
-            <unitPlacement unitType="infantry" territory="East Ukraine" quantity="2" owner="Russians"/>
-            <unitPlacement unitType="infantry" territory="Egypt" quantity="3" owner="British"/>
-            <unitPlacement unitType="biplane" territory="Egypt" quantity="1" owner="British"/>
-            <unitPlacement unitType="tank" territory="Egypt" quantity="1" owner="British"/>
-            <unitPlacement unitType="destroyer" territory="English Channel Sea Zone" quantity="1" owner="British"/>
-            <unitPlacement unitType="cutter" territory="English Channel Sea Zone" quantity="1" owner="British"/>
-            <unitPlacement unitType="infantry" territory="Equatorial Africa" quantity="1" owner="French"/>
-            <unitPlacement unitType="infantry" territory="Ethiopia" quantity="2" owner="Italians"/>
-            <unitPlacement unitType="biplane" territory="Ethiopia" quantity="1" owner="Italians"/>
-            <unitPlacement unitType="infantry" territory="Finland" quantity="3" owner="Germans"/>
-            <unitPlacement unitType="flak" territory="Finland" quantity="1" owner="Germans"/>
-            <unitPlacement unitType="bunker" territory="Finland" quantity="1" owner="Germans"/>
-            <unitPlacement unitType="commando" territory="Formosa" quantity="2" owner="Japanese"/>
-            <unitPlacement unitType="infantry" territory="Fujian" quantity="1" owner="Chinese"/>
-            <unitPlacement unitType="infantry" territory="Gibraltar" quantity="1" owner="British"/>
-            <unitPlacement unitType="flak" territory="Gibraltar" quantity="1" owner="British"/>
-            <unitPlacement unitType="bunker" territory="Gibraltar" quantity="2" owner="British"/>
-            <unitPlacement unitType="infantry" territory="Gold Coast" quantity="1" owner="British"/>
-            <unitPlacement unitType="infantry" territory="Greece" quantity="3"/>
-            <unitPlacement unitType="flak" territory="Greece" quantity="1"/>
-            <unitPlacement unitType="cutter" territory="Gulf of Mexico Sea Zone" quantity="1" owner="Americans"/>
-            <unitPlacement unitType="commando" territory="Hainan" quantity="2" owner="Japanese"/>
-            <unitPlacement unitType="infantry" territory="Heilongjiang" quantity="3" owner="Japanese"/>
-            <unitPlacement unitType="infantry" territory="Henan" quantity="1" owner="Chinese"/>
-            <unitPlacement unitType="infantry" territory="Hokkaido" quantity="2" owner="Japanese"/>
-            <unitPlacement unitType="flak" territory="Hokkaido" quantity="1" owner="Japanese"/>
-            <unitPlacement unitType="infantry" territory="Honolulu" quantity="1" owner="Americans"/>
-            <unitPlacement unitType="flak" territory="Honolulu" quantity="1" owner="Americans"/>
-            <unitPlacement unitType="barracks" territory="Honolulu" quantity="1" owner="Americans"/>
-            <unitPlacement unitType="bunker" territory="Honolulu" quantity="1" owner="Americans"/>
-            <unitPlacement unitType="infantry" territory="Hubei" quantity="2" owner="Chinese"/>
-            <unitPlacement unitType="transport" territory="Hudson Sea Zone" quantity="1" owner="British"/>
-            <unitPlacement unitType="cruiser" territory="Hudson Sea Zone" quantity="1" owner="British"/>
-            <unitPlacement unitType="infantry" territory="Hunan" quantity="1" owner="Chinese"/>
-            <unitPlacement unitType="submersible" territory="Indian Sea Zone 2" quantity="1" owner="Italians"/>
-            <unitPlacement unitType="cutter" territory="Indian Sea Zone 2" quantity="1" owner="Italians"/>
-            <unitPlacement unitType="infantry" territory="Indochina" quantity="1" owner="French"/>
-            <unitPlacement unitType="infantry" territory="Iraq" quantity="1"/>
-            <unitPlacement unitType="flak" territory="Ireland" quantity="1"/>
-            <unitPlacement unitType="infantry" territory="Ireland" quantity="3"/>
-            <unitPlacement unitType="battleship" territory="Irish Sea Zone" quantity="2" owner="British"/>
-            <unitPlacement unitType="transport" territory="Irish Sea Zone" quantity="1" owner="British"/>
-            <unitPlacement unitType="cutter" territory="Irish Sea Zone" quantity="1" owner="British"/>
-            <unitPlacement unitType="halftrack" territory="Irkutsk" quantity="1" owner="Russians"/>
-            <unitPlacement unitType="infantry" territory="Irkutsk" quantity="1" owner="Russians"/>
-            <unitPlacement unitType="infantry" territory="Iwo Jima" quantity="1" owner="Japanese"/>
-            <unitPlacement unitType="bunker" territory="Iwo Jima" quantity="1" owner="Japanese"/>
-            <unitPlacement unitType="infantry" territory="Java" quantity="1"/>
-            <unitPlacement unitType="infantry" territory="Kamchatka" quantity="1" owner="Russians"/>
-            <unitPlacement unitType="infantry" territory="Karelia" quantity="2" owner="Russians"/>
-            <unitPlacement unitType="infantry" territory="Kazakh" quantity="1" owner="Russians"/>
-            <unitPlacement unitType="infantry" territory="Kiev" quantity="2" owner="Russians"/>
-            <unitPlacement unitType="infantry" territory="Korea" quantity="3" owner="Japanese"/>
-            <unitPlacement unitType="flak" territory="Korea" quantity="1" owner="Japanese"/>
-            <unitPlacement unitType="bunker" territory="Korea" quantity="1" owner="Japanese"/>
-            <unitPlacement unitType="flak" territory="Leningrad" quantity="1" owner="Russians"/>
-            <unitPlacement unitType="infantry" territory="Leningrad" quantity="3" owner="Russians"/>
-            <unitPlacement unitType="factory" territory="Leningrad" quantity="1" owner="Russians"/>
-            <unitPlacement unitType="bunker" territory="Leningrad" quantity="2" owner="Russians"/>
-            <unitPlacement unitType="infantry" territory="Lithuania" quantity="1"/>
-            <unitPlacement unitType="infantry" territory="London" quantity="3" owner="British"/>
-            <unitPlacement unitType="factory" territory="London" quantity="1" owner="British"/>
-            <unitPlacement unitType="flak" territory="London" quantity="1" owner="British"/>
-            <unitPlacement unitType="interceptor" territory="London" quantity="1" owner="British"/>
-            <unitPlacement unitType="halftrack" territory="London" quantity="1" owner="British"/>
-			<unitPlacement unitType="infantry" territory="Lower Congo" quantity="1" owner="French"/>
-            <unitPlacement unitType="infantry" territory="Luzon" quantity="2" owner="Americans"/>
-            <unitPlacement unitType="infantry" territory="Magadan" quantity="1" owner="Russians"/>
-            <unitPlacement unitType="infantry" territory="Maginot" quantity="1" owner="French"/>
-            <unitPlacement unitType="flak" territory="Maginot" quantity="1" owner="French"/>
-            <unitPlacement unitType="bunker" territory="Maginot" quantity="5" owner="French"/>
-            <unitPlacement unitType="destroyer" territory="Malacca Sea Zone" quantity="1"/>
-            <unitPlacement unitType="submersible" territory="Malacca Sea Zone" quantity="1"/>
-            <unitPlacement unitType="infantry" territory="Malaya" quantity="1" owner="British"/>
-            <unitPlacement unitType="bunker" territory="Malaya" quantity="1" owner="British"/>
-            <unitPlacement unitType="biplane" territory="Malta" quantity="1" owner="British"/>
-            <unitPlacement unitType="infantry" territory="Malta" quantity="1" owner="British"/>
-            <unitPlacement unitType="bunker" territory="Malta" quantity="1" owner="British"/>
-            <unitPlacement unitType="artillery" territory="Manchuria" quantity="1" owner="Japanese"/>
-            <unitPlacement unitType="halftrack" territory="Manchuria" quantity="1" owner="Japanese"/>
-            <unitPlacement unitType="commando" territory="Manchuria" quantity="1" owner="Japanese"/>
-            <unitPlacement unitType="infantry" territory="Manchuria" quantity="2" owner="Japanese"/>
-            <unitPlacement unitType="jeep" territory="Manitoba" quantity="1" owner="British"/>
-            <unitPlacement unitType="cruiser" territory="Mediterranean Sea Zone 1" quantity="1" owner="French"/>
-            <unitPlacement unitType="transport" territory="Mediterranean Sea Zone 2" quantity="1" owner="French"/>
-            <unitPlacement unitType="destroyer" territory="Mediterranean Sea Zone 2" quantity="1" owner="French"/>
-            <unitPlacement unitType="battleship" territory="Mediterranean Sea Zone 2" quantity="1" owner="French"/>
-            <unitPlacement unitType="transport" territory="Mediterranean Sea Zone 3" quantity="1" owner="Italians"/>
-            <unitPlacement unitType="submersible" territory="Mediterranean Sea Zone 3" quantity="1" owner="Italians"/>
-            <unitPlacement unitType="destroyer" territory="Mediterranean Sea Zone 3" quantity="1" owner="Italians"/>
-            <unitPlacement unitType="battleship" territory="Mediterranean Sea Zone 3" quantity="1" owner="Italians"/>
-            <unitPlacement unitType="transport" territory="Mediterranean Sea Zone 4" quantity="1" owner="Italians"/>
-            <unitPlacement unitType="cruiser" territory="Mediterranean Sea Zone 4" quantity="1" owner="Italians"/>
-            <unitPlacement unitType="destroyer" territory="Mediterranean Sea Zone 5" quantity="1" owner="Italians"/>
-            <unitPlacement unitType="submersible" territory="Mediterranean Sea Zone 6" quantity="1" owner="British"/>
-            <unitPlacement unitType="cruiser" territory="Mediterranean Sea Zone 7" quantity="1"/>
-            <unitPlacement unitType="cutter" territory="Mediterranean Sea Zone 7" quantity="1"/>
-            <unitPlacement unitType="biplane" territory="Mediterranean Sea Zone 8" quantity="1" owner="British"/>
-            <unitPlacement unitType="transport" territory="Mediterranean Sea Zone 8" quantity="1" owner="British"/>
-            <unitPlacement unitType="destroyer" territory="Mediterranean Sea Zone 8" quantity="1" owner="British"/>
-            <unitPlacement unitType="carrier" territory="Mediterranean Sea Zone 8" quantity="1" owner="British"/>
-            <unitPlacement unitType="infantry" territory="Mexico" quantity="2"/>
-            <unitPlacement unitType="jeep" territory="Midwest USA" quantity="1" owner="Americans"/>
-            <unitPlacement unitType="infantry" territory="Mindanao" quantity="1" owner="Americans"/>
-			<unitPlacement unitType="biplane" territory="Mindanao" quantity="1" owner="Americans"/>
-            <unitPlacement unitType="infantry" territory="Mongolia" quantity="5"/>
-            <unitPlacement unitType="infantry" territory="Morocco" quantity="1" owner="French"/>
-            <unitPlacement unitType="infantry" territory="Moscow" quantity="2" owner="Russians"/>
-            <unitPlacement unitType="flak" territory="Moscow" quantity="1" owner="Russians"/>
-            <unitPlacement unitType="biplane" territory="Moscow" quantity="1" owner="Russians"/>
-            <unitPlacement unitType="factory" territory="Moscow" quantity="1" owner="Russians"/>
-            <unitPlacement unitType="bunker" territory="Moscow" quantity="1" owner="Russians"/>
-            <unitPlacement unitType="infantry" territory="Mozambique" quantity="1"/>
-            <unitPlacement unitType="infantry" territory="Murmansk" quantity="1" owner="Russians"/>
-            <unitPlacement unitType="artillery" territory="New South Wales" quantity="1" owner="British"/>
-            <unitPlacement unitType="infantry" territory="New South Wales" quantity="1" owner="British"/>
-            <unitPlacement unitType="infantry" territory="Normandy" quantity="1" owner="French"/>
-            <unitPlacement unitType="factory" territory="North England" quantity="1" owner="British"/>
-            <unitPlacement unitType="flak" territory="North England" quantity="1" owner="British"/>
-            <unitPlacement unitType="infantry" territory="North England" quantity="2" owner="British"/>
-            <unitPlacement unitType="biplane" territory="North England" quantity="1" owner="British"/>
-            <unitPlacement unitType="infantry" territory="North Italy" quantity="2" owner="Italians"/>
-            <unitPlacement unitType="commando" territory="North Italy" quantity="1" owner="Italians"/>
-            <unitPlacement unitType="factory" territory="North Italy" quantity="1" owner="Italians"/>
-            <unitPlacement unitType="jeep" territory="North Italy" quantity="1" owner="Italians"/>
-            <unitPlacement unitType="bunker" territory="North Italy" quantity="1" owner="Italians"/>
-            <unitPlacement unitType="flak" territory="North Italy" quantity="1" owner="Italians"/>
-            <unitPlacement unitType="infantry" territory="North Japan" quantity="3" owner="Japanese"/>
-            <unitPlacement unitType="artillery" territory="North Japan" quantity="1" owner="Japanese"/>
-            <unitPlacement unitType="infantry" territory="North New Zealand" quantity="1" owner="British"/>
-            <unitPlacement unitType="submersible" territory="North Sea Zone" quantity="4" owner="Germans"/>
-            <unitPlacement unitType="infantry" territory="Northeast USA" quantity="1" owner="Americans"/>
-            <unitPlacement unitType="biplane" territory="Northeast USA" quantity="1" owner="Americans"/>
-            <unitPlacement unitType="bunker" territory="Northeast USA" quantity="2" owner="Americans"/>
-            <unitPlacement unitType="infantry" territory="Norway" quantity="2"/>
-            <unitPlacement unitType="destroyer" territory="Norwegian Sea Zone" quantity="1" owner="British"/>
-            <unitPlacement unitType="cutter" territory="Okhotsk Sea Zone" quantity="1" owner="Russians"/>
-            <unitPlacement unitType="infantry" territory="Okinawa" quantity="1" owner="Japanese"/>
-            <unitPlacement unitType="infantry" territory="Omsk" quantity="3" owner="Russians"/>
-            <unitPlacement unitType="tank" territory="Omsk" quantity="1" owner="Russians"/>
-            <unitPlacement unitType="artillery" territory="Omsk" quantity="1" owner="Russians"/>
-            <unitPlacement unitType="commando" territory="Ontario" quantity="1" owner="British"/>
-            <unitPlacement unitType="fighter" territory="Osaka Sea Zone" quantity="4" owner="Japanese"/>
-            <unitPlacement unitType="transport" territory="Osaka Sea Zone" quantity="1" owner="Japanese"/>
-            <unitPlacement unitType="carrier" territory="Osaka Sea Zone" quantity="2" owner="Japanese"/>
-            <unitPlacement unitType="battleship" territory="Osaka Sea Zone" quantity="1" owner="Japanese"/>
-            <unitPlacement unitType="destroyer" territory="Osaka Sea Zone" quantity="1" owner="Japanese"/>
-            <unitPlacement unitType="factory" territory="Ottawa" quantity="1" owner="British"/>
-            <unitPlacement unitType="infantry" territory="Ottawa" quantity="1" owner="British"/>
-            <unitPlacement unitType="biplane" territory="Ottawa" quantity="1" owner="British"/>
-            <unitPlacement unitType="submersible" territory="Pacific Sea Zone 5" quantity="2" owner="Japanese"/>
-            <unitPlacement unitType="destroyer" territory="Pacific Sea Zone 5" quantity="1" owner="Japanese"/>
-            <unitPlacement unitType="cutter" territory="Pacific Sea Zone 5" quantity="1" owner="Japanese"/>
-            <unitPlacement unitType="cutter" territory="Pacific Sea Zone 9" quantity="1" owner="British"/>
-			<unitPlacement unitType="cutter" territory="Pacific Sea Zone 10" quantity="1" owner="Americans"/>
-            <unitPlacement unitType="battleship" territory="Pacific Sea Zone 12" quantity="1" owner="Americans"/>
-            <unitPlacement unitType="carrier" territory="Pacific Sea Zone 13" quantity="1" owner="Americans"/>
-            <unitPlacement unitType="biplane" territory="Pacific Sea Zone 13" quantity="1" owner="Americans"/>
-            <unitPlacement unitType="transport" territory="Pacific Sea Zone 19" quantity="1" owner="Americans"/>
-            <unitPlacement unitType="destroyer" territory="Pacific Sea Zone 19" quantity="1" owner="Americans"/>
-            <unitPlacement unitType="infantry" territory="Panama" quantity="1" owner="Americans"/>
-            <unitPlacement unitType="infantry" territory="Paris" quantity="3" owner="French"/>
-            <unitPlacement unitType="tank" territory="Paris" quantity="1" owner="French"/>
-            <unitPlacement unitType="factory" territory="Paris" quantity="1" owner="French"/>
-            <unitPlacement unitType="biplane" territory="Paris" quantity="1" owner="French"/>
-            <unitPlacement unitType="infantry" territory="Persia" quantity="2"/>
-            <unitPlacement unitType="transport" territory="Persian Gulf Sea Zone" quantity="1" owner="British"/>
-            <unitPlacement unitType="battleship" territory="Persian Gulf Sea Zone" quantity="1" owner="British"/>
-            <unitPlacement unitType="cutter" territory="Philippine Sea Zone" quantity="1" owner="Japanese"/>
-            <unitPlacement unitType="infantry" territory="Portugal" quantity="2"/>
-            <unitPlacement unitType="infantry" territory="Prussia" quantity="6" owner="Germans"/>
-            <unitPlacement unitType="commando" territory="Prussia" quantity="2" owner="Germans"/>
-            <unitPlacement unitType="factory" territory="Prussia" quantity="1" owner="Germans"/>
-            <unitPlacement unitType="tank" territory="Prussia" quantity="2" owner="Germans"/>
-            <unitPlacement unitType="biplane" territory="Prussia" quantity="2" owner="Germans"/>
-            <unitPlacement unitType="infantry" territory="Quebec" quantity="1" owner="British"/>
-            <unitPlacement unitType="infantry" territory="Queensland" quantity="1" owner="British"/>
-            <unitPlacement unitType="cutter" territory="Red Sea Zone" quantity="1" owner="British"/>
-            <unitPlacement unitType="infantry" territory="Rhodesia" quantity="1" owner="British"/>
-            <unitPlacement unitType="factory" territory="Romania" quantity="1"/>
-            <unitPlacement unitType="infantry" territory="Rome" quantity="4" owner="Italians"/>
-            <unitPlacement unitType="artillery" territory="Rome" quantity="1" owner="Italians"/>
-            <unitPlacement unitType="factory" territory="Rome" quantity="1" owner="Italians"/>
-            <unitPlacement unitType="biplane" territory="Rome" quantity="2" owner="Italians"/>
-            <unitPlacement unitType="factory" territory="Ruhr" quantity="1" owner="Germans"/>
-            <unitPlacement unitType="infantry" territory="Ruhr" quantity="4" owner="Germans"/>
-            <unitPlacement unitType="biplane" territory="Ruhr" quantity="1" owner="Germans"/>
-            <unitPlacement unitType="artillery" territory="Ruhr" quantity="1" owner="Germans"/>
-            <unitPlacement unitType="halftrack" territory="Ruhr" quantity="1" owner="Germans"/>
-            <unitPlacement unitType="bunker" territory="Ruhr" quantity="2" owner="Germans"/>
-			<unitPlacement unitType="jeep" territory="Ruhr" quantity="1" owner="Germans"/>
-            <unitPlacement unitType="factory" territory="San Francisco" quantity="1" owner="Americans"/>
-            <unitPlacement unitType="infantry" territory="San Francisco" quantity="1" owner="Americans"/>
-            <unitPlacement unitType="biplane" territory="San Francisco" quantity="1" owner="Americans"/>
-            <unitPlacement unitType="bunker" territory="San Francisco" quantity="1" owner="Americans"/>
-            <unitPlacement unitType="infantry" territory="Sardinia" quantity="1" owner="Italians"/>
-            <unitPlacement unitType="infantry" territory="Scotland" quantity="1" owner="British"/>
-            <unitPlacement unitType="jeep" territory="Shandong" quantity="1" owner="Japanese"/>
-            <unitPlacement unitType="infantry" territory="Shandong" quantity="2" owner="Japanese"/>
-            <unitPlacement unitType="artillery" territory="Shanghai" quantity="1" owner="Japanese"/>
-            <unitPlacement unitType="biplane" territory="Shanghai" quantity="1" owner="Japanese"/>
-            <unitPlacement unitType="infantry" territory="Shanghai" quantity="2" owner="Japanese"/>
-            <unitPlacement unitType="infantry" territory="Shanxi" quantity="2" owner="Chinese"/>
-            <unitPlacement unitType="infantry" territory="Siam" quantity="1"/>
-            <unitPlacement unitType="infantry" territory="Siberia" quantity="1" owner="Russians"/>
-            <unitPlacement unitType="infantry" territory="Sicily" quantity="2" owner="Italians"/>
-            <unitPlacement unitType="cutter" territory="South African Sea Zone" quantity="1" owner="British"/>
-            <unitPlacement unitType="cutter" territory="South China Sea Zone" quantity="1" owner="Japanese"/>
-            <unitPlacement unitType="infantry" territory="South France" quantity="2" owner="French"/>
-            <unitPlacement unitType="factory" territory="South France" quantity="1" owner="French"/>
-            <unitPlacement unitType="infantry" territory="South Italy" quantity="2" owner="Italians"/>
-            <unitPlacement unitType="infantry" territory="South Japan" quantity="3" owner="Japanese"/>
-            <unitPlacement unitType="artillery" territory="South Japan" quantity="1" owner="Japanese"/>
-			<unitPlacement unitType="commando" territory="South Japan" quantity="1" owner="Japanese"/>
-            <unitPlacement unitType="bunker" territory="South Ukraine" quantity="1" owner="Russians"/>
-            <unitPlacement unitType="infantry" territory="Southeast USA" quantity="1" owner="Americans"/>
-            <unitPlacement unitType="bunker" territory="Southeast USA" quantity="1" owner="Americans"/>
-            <unitPlacement unitType="artillery" territory="Southwest USA" quantity="1" owner="Americans"/>
-            <unitPlacement unitType="infantry" territory="Spain" quantity="6"/>
-            <unitPlacement unitType="flak" territory="Spain" quantity="1"/>
-            <unitPlacement unitType="destroyer" territory="St. Lawrence Sea Zone" quantity="1" owner="British"/>
-            <unitPlacement unitType="infantry" territory="Stalingrad" quantity="1" owner="Russians"/>
-            <unitPlacement unitType="infantry" territory="Sudan" quantity="1" owner="British"/>
-            <unitPlacement unitType="destroyer" territory="Sulu Sea Zone" quantity="1" owner="Americans"/>
-            <unitPlacement unitType="cutter" territory="Sulu Sea Zone" quantity="1" owner="Americans"/>
-            <unitPlacement unitType="infantry" territory="Sweden" quantity="4"/>
-            <unitPlacement unitType="flak" territory="Sweden" quantity="1"/>
-            <unitPlacement unitType="infantry" territory="Sydney" quantity="2" owner="British"/>
-            <unitPlacement unitType="biplane" territory="Sydney" quantity="1" owner="British"/>
-            <unitPlacement unitType="infantry" territory="Szechuan" quantity="1" owner="Chinese"/>
-			<unitPlacement unitType="infantry" territory="Tanganyika" quantity="1" owner="British"/>
-            <unitPlacement unitType="transport" territory="Tasman Sea Zone" quantity="1" owner="British"/>
-            <unitPlacement unitType="submersible" territory="Tasman Sea Zone" quantity="1" owner="British"/>
-            <unitPlacement unitType="destroyer" territory="Tasman Sea Zone" quantity="1" owner="British"/>
-            <unitPlacement unitType="cruiser" territory="Tasman Sea Zone" quantity="1" owner="British"/>
-            <unitPlacement unitType="infantry" territory="Tibet" quantity="1"/>
-            <unitPlacement unitType="infantry" territory="Tokyo" quantity="3" owner="Japanese"/>
-			<unitPlacement unitType="commando" territory="Tokyo" quantity="1" owner="Japanese"/>
-            <unitPlacement unitType="biplane" territory="Tokyo" quantity="1" owner="Japanese"/>
-            <unitPlacement unitType="factory" territory="Tokyo" quantity="1" owner="Japanese"/>
-            <unitPlacement unitType="divebomber" territory="Tokyo" quantity="1" owner="Japanese"/>
-            <unitPlacement unitType="artillery" territory="Tripolitania" quantity="1" owner="Italians"/>
-            <unitPlacement unitType="infantry" territory="Tripolitania" quantity="3" owner="Italians"/>
-            <unitPlacement unitType="infantry" territory="Truk" quantity="2" owner="Japanese"/>
-            <unitPlacement unitType="biplane" territory="Truk" quantity="1" owner="Japanese"/>
-            <unitPlacement unitType="flak" territory="Truk" quantity="1" owner="Japanese"/>
-            <unitPlacement unitType="bunker" territory="Truk" quantity="2" owner="Japanese"/>
-            <unitPlacement unitType="cruiser" territory="Tsushima Sea Zone" quantity="1" owner="Japanese"/>
-            <unitPlacement unitType="infantry" territory="Tunis" quantity="1" owner="French"/>
-            <unitPlacement unitType="flak" territory="Turkey" quantity="1"/>
-            <unitPlacement unitType="infantry" territory="Turkey" quantity="8"/>
-            <unitPlacement unitType="tank" territory="Volga" quantity="1" owner="Russians"/>
-            <unitPlacement unitType="artillery" territory="Wales" quantity="1" owner="British"/>
-            <unitPlacement unitType="infantry" territory="Wales" quantity="1" owner="British"/>
-            <unitPlacement unitType="infantry" territory="Warsaw" quantity="2"/>
-            <unitPlacement unitType="flak" territory="Warsaw" quantity="1"/>
-            <unitPlacement unitType="infantry" territory="Washington DC" quantity="2" owner="Americans"/>
-            <unitPlacement unitType="factory" territory="Washington DC" quantity="1" owner="Americans"/>
-            <unitPlacement unitType="bunker" territory="Washington DC" quantity="2" owner="Americans"/>
-            <unitPlacement unitType="infantry" territory="West Australia" quantity="1" owner="British"/>
-            <unitPlacement unitType="transport" territory="West Baltic Sea Zone" quantity="1" owner="Germans"/>
-            <unitPlacement unitType="cruiser" territory="West Baltic Sea Zone" quantity="1" owner="Germans"/>
-            <unitPlacement unitType="destroyer" territory="West Baltic Sea Zone" quantity="1" owner="Germans"/>
-            <unitPlacement unitType="cutter" territory="West Baltic Sea Zone" quantity="1" owner="Germans"/>
-            <unitPlacement unitType="infantry" territory="West England" quantity="1" owner="British"/>
-            <unitPlacement unitType="infantry" territory="West India" quantity="1" owner="British"/>
-            <unitPlacement unitType="infantry" territory="West Poland" quantity="2"/>
-            <unitPlacement unitType="biplane" territory="West Poland" quantity="1"/>
-            <unitPlacement unitType="submersible" territory="White Sea Zone" quantity="1" owner="Russians"/>
-            <unitPlacement unitType="infantry" territory="Yakutsk" quantity="1" owner="Russians"/>
-            <unitPlacement unitType="destroyer" territory="Yellow Sea Zone" quantity="1" owner="Japanese"/>
-            <unitPlacement unitType="cruiser" territory="Yellow Sea Zone" quantity="1" owner="Japanese"/>
-			<unitPlacement unitType="carrier" territory="Yellow Sea Zone" quantity="1" owner="Japanese"/>
-			<unitPlacement unitType="biplane" territory="Yellow Sea Zone" quantity="1" owner="Japanese"/>
-            <unitPlacement unitType="transport" territory="Yellow Sea Zone" quantity="1" owner="Japanese"/>
-            <unitPlacement unitType="battleship" territory="Yellow Sea Zone" quantity="1" owner="Japanese"/>
-            <unitPlacement unitType="infantry" territory="Yugoslavia" quantity="2"/>
-            <unitPlacement unitType="infantry" territory="Yunnan" quantity="2" owner="Chinese"/>
-            <unitPlacement unitType="artillery" territory="Yunnan" quantity="1" owner="Chinese"/>
+            <unitPlacement unitType="Infantry" territory="Addis Ababa" quantity="2" owner="Italians"/>
+            <unitPlacement unitType="Infantry" territory="Samoa" quantity="1" owner="Americans"/>         
+            <unitPlacement unitType="Artillery" territory="Addis Ababa" quantity="1" owner="Italians"/>
+            <unitPlacement unitType="Battleship" territory="Adriatic Sea Zone" quantity="1" owner="Italians"/>
+            <unitPlacement unitType="Submersible" territory="Adriatic Sea Zone" quantity="1" owner="Italians"/>
+            <unitPlacement unitType="Transport" territory="Adriatic Sea Zone" quantity="1" owner="Italians"/>
+            <unitPlacement unitType="Infantry" territory="Afghanistan" quantity="4"/>
+            <unitPlacement unitType="Infantry" territory="Albania" quantity="1" owner="Italians"/>
+            <unitPlacement unitType="Infantry" territory="Algeria" quantity="2" owner="French"/>
+            <unitPlacement unitType="Infantry" territory="Amur" quantity="1" owner="Russians"/>
+            <unitPlacement unitType="Infantry" territory="Angola" quantity="1"/>
+            <unitPlacement unitType="Infantry" territory="Arabia" quantity="3"/>
+            <unitPlacement unitType="Bunker" territory="Argentina" quantity="1" owner="Germans"/>
+            <unitPlacement unitType="Submersible" territory="1 Atlantic Sea Zone" quantity="3" owner="Germans"/>
+            <unitPlacement unitType="Cruiser" territory="Atlantic Sea Zone 3" quantity="1" owner="British"/>
+            <unitPlacement unitType="Destroyer" territory="Atlantic Sea Zone 3" quantity="1" owner="British"/>
+            <unitPlacement unitType="Cutter" territory="Atlantic Sea Zone 8" quantity="1" owner="French"/>
+            <unitPlacement unitType="Cruiser" territory="Atlantic Sea Zone 10" quantity="1" owner="Americans"/>
+            <unitPlacement unitType="Submersible" territory="Atlantic Sea Zone 14" quantity="1" owner="Germans"/>
+            <unitPlacement unitType="Cruiser" territory="Atlantic Sea Zone 14" quantity="1" owner="Germans"/>
+            <unitPlacement unitType="Infantry" territory="Austria" quantity="3" owner="Germans"/>
+            <unitPlacement unitType="Factory" territory="Austria" quantity="1" owner="Germans"/>
+            <unitPlacement unitType="Biplane" territory="Austria" quantity="1" owner="Germans"/>
+            <unitPlacement unitType="Artillery" territory="Austria" quantity="1" owner="Germans"/>
+            <unitPlacement unitType="Halftrack" territory="Austria" quantity="1" owner="Germans"/>
+            <unitPlacement unitType="Cutter" territory="Banda Sea Zone" quantity="1"/>
+            <unitPlacement unitType="Carrier" territory="Barents Sea Zone" quantity="1" owner="British"/>
+            <unitPlacement unitType="Biplane" territory="Barents Sea Zone" quantity="1" owner="British"/>
+            <unitPlacement unitType="Flak" territory="Batavia" quantity="1"/>
+            <unitPlacement unitType="Infantry" territory="Batavia" quantity="2"/>
+            <unitPlacement unitType="Infantry" territory="Bavaria" quantity="3" owner="Germans"/>
+            <unitPlacement unitType="Infantry" territory="Belarus" quantity="2" owner="Russians"/>
+            <unitPlacement unitType="Artillery" territory="Belarus" quantity="1" owner="Russians"/>
+            <unitPlacement unitType="Infantry" territory="Belgrade" quantity="3"/>
+            <unitPlacement unitType="Flak" territory="Belgrade" quantity="1"/>
+            <unitPlacement unitType="Flak" territory="Benelux" quantity="1"/>
+            <unitPlacement unitType="Infantry" territory="Benelux" quantity="3"/>
+            <unitPlacement unitType="Infantry" territory="Berlin" quantity="8" owner="Germans"/>
+            <unitPlacement unitType="Tank" territory="Berlin" quantity="2" owner="Germans"/>
+            <unitPlacement unitType="Artillery" territory="Berlin" quantity="1" owner="Germans"/>
+            <unitPlacement unitType="Factory" territory="Berlin" quantity="1" owner="Germans"/>
+            <unitPlacement unitType="Stratbomber" territory="Berlin" quantity="1" owner="Germans"/>
+            <unitPlacement unitType="Divebomber" territory="Berlin" quantity="2" owner="Germans"/>
+            <unitPlacement unitType="Fighter" territory="Berlin" quantity="1" owner="Germans"/>
+            <unitPlacement unitType="Transport" territory="Biscay Sea Zone" quantity="1" owner="French"/>
+            <unitPlacement unitType="Cruiser" territory="Biscay Sea Zone" quantity="1" owner="French"/>
+            <unitPlacement unitType="Destroyer" territory="East Black Sea Zone" quantity="1" owner="Russians"/>
+            <unitPlacement unitType="Cutter" territory="East Black Sea Zone" quantity="1" owner="Russians"/>
+            <unitPlacement unitType="Infantry" territory="Bordeaux" quantity="1" owner="French"/>
+            <unitPlacement unitType="Infantry" territory="Borneo" quantity="1"/>
+            <unitPlacement unitType="Infantry" territory="British Columbia" quantity="1" owner="British"/>
+            <unitPlacement unitType="Flak" territory="Buryatia" quantity="1" owner="Russians"/>
+            <unitPlacement unitType="Infantry" territory="Buryatia" quantity="2" owner="Russians"/>
+            <unitPlacement unitType="Infantry" territory="Cairo" quantity="1" owner="British"/>
+            <unitPlacement unitType="Infantry" territory="Calcutta" quantity="3" owner="British"/>
+            <unitPlacement unitType="Barracks" territory="Calcutta" quantity="1" owner="British"/>
+            <unitPlacement unitType="Infantry" territory="California" quantity="1" owner="Americans"/>
+            <unitPlacement unitType="Bunker" territory="California" quantity="1" owner="Americans"/>
+            <unitPlacement unitType="Infantry" territory="Canton" quantity="1" owner="British"/>
+            <unitPlacement unitType="Infantry" territory="Capetown" quantity="2" owner="British"/>
+            <unitPlacement unitType="Transport" territory="Caspian Sea Zone" quantity="1" owner="Russians"/>
+            <unitPlacement unitType="Infantry" territory="Chile" quantity="1"/>
+            <unitPlacement unitType="Infantry" territory="Chongqing" quantity="1" owner="Chinese"/>
+            <unitPlacement unitType="Barracks" territory="Chongqing" quantity="1" owner="Chinese"/>
+            <unitPlacement unitType="Biplane" territory="Chongqing" quantity="1" owner="Chinese"/>
+            <unitPlacement unitType="Bunker" territory="Chongqing" quantity="2" owner="Chinese"/>
+            <unitPlacement unitType="Infantry" territory="Colombia" quantity="1"/>
+            <unitPlacement unitType="Infantry" territory="Upper Congo" quantity="2"/>
+            <unitPlacement unitType="Halftrack" territory="Cyrenaica" quantity="1" owner="Italians"/>
+            <unitPlacement unitType="Infantry" territory="Cyrenaica" quantity="3" owner="Italians"/>
+            <unitPlacement unitType="Infantry" territory="Denmark" quantity="1"/>
+            <unitPlacement unitType="Transport" territory="East Baltic Sea Zone" quantity="1" owner="Russians"/>
+            <unitPlacement unitType="Cruiser" territory="East Baltic Sea Zone" quantity="1" owner="Russians"/>
+            <unitPlacement unitType="Infantry" territory="East India" quantity="1" owner="British"/>
+            <unitPlacement unitType="Infantry" territory="East Poland" quantity="1"/>
+            <unitPlacement unitType="Infantry" territory="East Ukraine" quantity="2" owner="Russians"/>
+            <unitPlacement unitType="Infantry" territory="Egypt" quantity="3" owner="British"/>
+            <unitPlacement unitType="Biplane" territory="Egypt" quantity="1" owner="British"/>
+            <unitPlacement unitType="Tank" territory="Egypt" quantity="1" owner="British"/>
+            <unitPlacement unitType="Destroyer" territory="English Channel Sea Zone" quantity="1" owner="British"/>
+            <unitPlacement unitType="Cutter" territory="English Channel Sea Zone" quantity="1" owner="British"/>
+            <unitPlacement unitType="Infantry" territory="Equatorial Africa" quantity="1" owner="French"/>
+            <unitPlacement unitType="Infantry" territory="Ethiopia" quantity="2" owner="Italians"/>
+            <unitPlacement unitType="Biplane" territory="Ethiopia" quantity="1" owner="Italians"/>
+            <unitPlacement unitType="Infantry" territory="Finland" quantity="3" owner="Germans"/>
+            <unitPlacement unitType="Flak" territory="Finland" quantity="1" owner="Germans"/>
+            <unitPlacement unitType="Bunker" territory="Finland" quantity="1" owner="Germans"/>
+            <unitPlacement unitType="Commando" territory="Formosa" quantity="2" owner="Japanese"/>
+            <unitPlacement unitType="Infantry" territory="Fujian" quantity="1" owner="Chinese"/>
+            <unitPlacement unitType="Infantry" territory="Gibraltar" quantity="1" owner="British"/>
+            <unitPlacement unitType="Flak" territory="Gibraltar" quantity="1" owner="British"/>
+            <unitPlacement unitType="Bunker" territory="Gibraltar" quantity="2" owner="British"/>
+            <unitPlacement unitType="Infantry" territory="Gold Coast" quantity="1" owner="British"/>
+            <unitPlacement unitType="Infantry" territory="Greece" quantity="3"/>
+            <unitPlacement unitType="Flak" territory="Greece" quantity="1"/>
+            <unitPlacement unitType="Cutter" territory="Gulf of Mexico Sea Zone" quantity="1" owner="Americans"/>
+            <unitPlacement unitType="Commando" territory="Hainan" quantity="2" owner="Japanese"/>
+            <unitPlacement unitType="Infantry" territory="Heilongjiang" quantity="3" owner="Japanese"/>
+            <unitPlacement unitType="Infantry" territory="Henan" quantity="1" owner="Chinese"/>
+            <unitPlacement unitType="Infantry" territory="Hokkaido" quantity="2" owner="Japanese"/>
+            <unitPlacement unitType="Flak" territory="Hokkaido" quantity="1" owner="Japanese"/>
+            <unitPlacement unitType="Infantry" territory="Honolulu" quantity="1" owner="Americans"/>
+            <unitPlacement unitType="Flak" territory="Honolulu" quantity="1" owner="Americans"/>
+            <unitPlacement unitType="Barracks" territory="Honolulu" quantity="1" owner="Americans"/>
+            <unitPlacement unitType="Bunker" territory="Honolulu" quantity="1" owner="Americans"/>
+            <unitPlacement unitType="Infantry" territory="Hubei" quantity="2" owner="Chinese"/>
+            <unitPlacement unitType="Transport" territory="Hudson Sea Zone" quantity="1" owner="British"/>
+            <unitPlacement unitType="Cruiser" territory="Hudson Sea Zone" quantity="1" owner="British"/>
+            <unitPlacement unitType="Infantry" territory="Hunan" quantity="1" owner="Chinese"/>
+            <unitPlacement unitType="Submersible" territory="Indian Sea Zone 2" quantity="1" owner="Italians"/>
+            <unitPlacement unitType="Cutter" territory="Indian Sea Zone 2" quantity="1" owner="Italians"/>
+            <unitPlacement unitType="Infantry" territory="Indochina" quantity="1" owner="French"/>
+            <unitPlacement unitType="Infantry" territory="Iraq" quantity="1"/>
+            <unitPlacement unitType="Flak" territory="Ireland" quantity="1"/>
+            <unitPlacement unitType="Infantry" territory="Ireland" quantity="3"/>
+            <unitPlacement unitType="Battleship" territory="Irish Sea Zone" quantity="2" owner="British"/>
+            <unitPlacement unitType="Transport" territory="Irish Sea Zone" quantity="1" owner="British"/>
+            <unitPlacement unitType="Cutter" territory="Irish Sea Zone" quantity="1" owner="British"/>
+            <unitPlacement unitType="Halftrack" territory="Irkutsk" quantity="1" owner="Russians"/>
+            <unitPlacement unitType="Infantry" territory="Irkutsk" quantity="1" owner="Russians"/>
+            <unitPlacement unitType="Infantry" territory="Iwo Jima" quantity="1" owner="Japanese"/>
+            <unitPlacement unitType="Bunker" territory="Iwo Jima" quantity="1" owner="Japanese"/>
+            <unitPlacement unitType="Infantry" territory="Java" quantity="1"/>
+            <unitPlacement unitType="Infantry" territory="Kamchatka" quantity="1" owner="Russians"/>
+            <unitPlacement unitType="Infantry" territory="Karelia" quantity="2" owner="Russians"/>
+            <unitPlacement unitType="Infantry" territory="Kazakh" quantity="1" owner="Russians"/>
+            <unitPlacement unitType="Infantry" territory="Kiev" quantity="2" owner="Russians"/>
+            <unitPlacement unitType="Infantry" territory="Korea" quantity="3" owner="Japanese"/>
+            <unitPlacement unitType="Flak" territory="Korea" quantity="1" owner="Japanese"/>
+            <unitPlacement unitType="Bunker" territory="Korea" quantity="1" owner="Japanese"/>
+            <unitPlacement unitType="Flak" territory="Leningrad" quantity="1" owner="Russians"/>
+            <unitPlacement unitType="Infantry" territory="Leningrad" quantity="3" owner="Russians"/>
+            <unitPlacement unitType="Factory" territory="Leningrad" quantity="1" owner="Russians"/>
+            <unitPlacement unitType="Bunker" territory="Leningrad" quantity="2" owner="Russians"/>
+            <unitPlacement unitType="Infantry" territory="Lithuania" quantity="1"/>
+            <unitPlacement unitType="Infantry" territory="London" quantity="3" owner="British"/>
+            <unitPlacement unitType="Factory" territory="London" quantity="1" owner="British"/>
+            <unitPlacement unitType="Flak" territory="London" quantity="1" owner="British"/>
+            <unitPlacement unitType="Interceptor" territory="London" quantity="1" owner="British"/>
+            <unitPlacement unitType="Halftrack" territory="London" quantity="1" owner="British"/>
+			<unitPlacement unitType="Infantry" territory="Lower Congo" quantity="1" owner="French"/>
+            <unitPlacement unitType="Infantry" territory="Luzon" quantity="2" owner="Americans"/>
+            <unitPlacement unitType="Infantry" territory="Magadan" quantity="1" owner="Russians"/>
+            <unitPlacement unitType="Infantry" territory="Maginot" quantity="1" owner="French"/>
+            <unitPlacement unitType="Flak" territory="Maginot" quantity="1" owner="French"/>
+            <unitPlacement unitType="Bunker" territory="Maginot" quantity="5" owner="French"/>
+            <unitPlacement unitType="Destroyer" territory="Malacca Sea Zone" quantity="1"/>
+            <unitPlacement unitType="Submersible" territory="Malacca Sea Zone" quantity="1"/>
+            <unitPlacement unitType="Infantry" territory="Malaya" quantity="1" owner="British"/>
+            <unitPlacement unitType="Bunker" territory="Malaya" quantity="1" owner="British"/>
+            <unitPlacement unitType="Biplane" territory="Malta" quantity="1" owner="British"/>
+            <unitPlacement unitType="Infantry" territory="Malta" quantity="1" owner="British"/>
+            <unitPlacement unitType="Bunker" territory="Malta" quantity="1" owner="British"/>
+            <unitPlacement unitType="Artillery" territory="Manchuria" quantity="1" owner="Japanese"/>
+            <unitPlacement unitType="Halftrack" territory="Manchuria" quantity="1" owner="Japanese"/>
+            <unitPlacement unitType="Commando" territory="Manchuria" quantity="1" owner="Japanese"/>
+            <unitPlacement unitType="Infantry" territory="Manchuria" quantity="2" owner="Japanese"/>
+            <unitPlacement unitType="Jeep" territory="Manitoba" quantity="1" owner="British"/>
+            <unitPlacement unitType="Cruiser" territory="Mediterranean Sea Zone 1" quantity="1" owner="French"/>
+            <unitPlacement unitType="Transport" territory="Mediterranean Sea Zone 2" quantity="1" owner="French"/>
+            <unitPlacement unitType="Destroyer" territory="Mediterranean Sea Zone 2" quantity="1" owner="French"/>
+            <unitPlacement unitType="Battleship" territory="Mediterranean Sea Zone 2" quantity="1" owner="French"/>
+            <unitPlacement unitType="Transport" territory="Mediterranean Sea Zone 3" quantity="1" owner="Italians"/>
+            <unitPlacement unitType="Submersible" territory="Mediterranean Sea Zone 3" quantity="1" owner="Italians"/>
+            <unitPlacement unitType="Destroyer" territory="Mediterranean Sea Zone 3" quantity="1" owner="Italians"/>
+            <unitPlacement unitType="Battleship" territory="Mediterranean Sea Zone 3" quantity="1" owner="Italians"/>
+            <unitPlacement unitType="Transport" territory="Mediterranean Sea Zone 4" quantity="1" owner="Italians"/>
+            <unitPlacement unitType="Cruiser" territory="Mediterranean Sea Zone 4" quantity="1" owner="Italians"/>
+            <unitPlacement unitType="Destroyer" territory="Mediterranean Sea Zone 5" quantity="1" owner="Italians"/>
+            <unitPlacement unitType="Submersible" territory="Mediterranean Sea Zone 6" quantity="1" owner="British"/>
+            <unitPlacement unitType="Cruiser" territory="Mediterranean Sea Zone 7" quantity="1"/>
+            <unitPlacement unitType="Cutter" territory="Mediterranean Sea Zone 7" quantity="1"/>
+            <unitPlacement unitType="Biplane" territory="Mediterranean Sea Zone 8" quantity="1" owner="British"/>
+            <unitPlacement unitType="Transport" territory="Mediterranean Sea Zone 8" quantity="1" owner="British"/>
+            <unitPlacement unitType="Destroyer" territory="Mediterranean Sea Zone 8" quantity="1" owner="British"/>
+            <unitPlacement unitType="Carrier" territory="Mediterranean Sea Zone 8" quantity="1" owner="British"/>
+            <unitPlacement unitType="Infantry" territory="Mexico" quantity="2"/>
+            <unitPlacement unitType="Jeep" territory="Midwest USA" quantity="1" owner="Americans"/>
+            <unitPlacement unitType="Infantry" territory="Mindanao" quantity="1" owner="Americans"/>
+			<unitPlacement unitType="Biplane" territory="Mindanao" quantity="1" owner="Americans"/>
+            <unitPlacement unitType="Infantry" territory="Mongolia" quantity="5"/>
+            <unitPlacement unitType="Infantry" territory="Morocco" quantity="1" owner="French"/>
+            <unitPlacement unitType="Infantry" territory="Moscow" quantity="2" owner="Russians"/>
+            <unitPlacement unitType="Flak" territory="Moscow" quantity="1" owner="Russians"/>
+            <unitPlacement unitType="Biplane" territory="Moscow" quantity="1" owner="Russians"/>
+            <unitPlacement unitType="Factory" territory="Moscow" quantity="1" owner="Russians"/>
+            <unitPlacement unitType="Bunker" territory="Moscow" quantity="1" owner="Russians"/>
+            <unitPlacement unitType="Infantry" territory="Mozambique" quantity="1"/>
+            <unitPlacement unitType="Infantry" territory="Murmansk" quantity="1" owner="Russians"/>
+            <unitPlacement unitType="Artillery" territory="New South Wales" quantity="1" owner="British"/>
+            <unitPlacement unitType="Infantry" territory="New South Wales" quantity="1" owner="British"/>
+            <unitPlacement unitType="Infantry" territory="Normandy" quantity="1" owner="French"/>
+            <unitPlacement unitType="Factory" territory="North England" quantity="1" owner="British"/>
+            <unitPlacement unitType="Flak" territory="North England" quantity="1" owner="British"/>
+            <unitPlacement unitType="Infantry" territory="North England" quantity="2" owner="British"/>
+            <unitPlacement unitType="Biplane" territory="North England" quantity="1" owner="British"/>
+            <unitPlacement unitType="Infantry" territory="North Italy" quantity="2" owner="Italians"/>
+            <unitPlacement unitType="Commando" territory="North Italy" quantity="1" owner="Italians"/>
+            <unitPlacement unitType="Factory" territory="North Italy" quantity="1" owner="Italians"/>
+            <unitPlacement unitType="Jeep" territory="North Italy" quantity="1" owner="Italians"/>
+            <unitPlacement unitType="Bunker" territory="North Italy" quantity="1" owner="Italians"/>
+            <unitPlacement unitType="Flak" territory="North Italy" quantity="1" owner="Italians"/>
+            <unitPlacement unitType="Infantry" territory="North Japan" quantity="3" owner="Japanese"/>
+            <unitPlacement unitType="Artillery" territory="North Japan" quantity="1" owner="Japanese"/>
+            <unitPlacement unitType="Infantry" territory="North New Zealand" quantity="1" owner="British"/>
+            <unitPlacement unitType="Submersible" territory="North Sea Zone" quantity="4" owner="Germans"/>
+            <unitPlacement unitType="Infantry" territory="Northeast USA" quantity="1" owner="Americans"/>
+            <unitPlacement unitType="Biplane" territory="Northeast USA" quantity="1" owner="Americans"/>
+            <unitPlacement unitType="Bunker" territory="Northeast USA" quantity="2" owner="Americans"/>
+            <unitPlacement unitType="Infantry" territory="Norway" quantity="2"/>
+            <unitPlacement unitType="Destroyer" territory="Norwegian Sea Zone" quantity="1" owner="British"/>
+            <unitPlacement unitType="Cutter" territory="Okhotsk Sea Zone" quantity="1" owner="Russians"/>
+            <unitPlacement unitType="Infantry" territory="Okinawa" quantity="1" owner="Japanese"/>
+            <unitPlacement unitType="Infantry" territory="Omsk" quantity="3" owner="Russians"/>
+            <unitPlacement unitType="Tank" territory="Omsk" quantity="1" owner="Russians"/>
+            <unitPlacement unitType="Artillery" territory="Omsk" quantity="1" owner="Russians"/>
+            <unitPlacement unitType="Commando" territory="Ontario" quantity="1" owner="British"/>
+            <unitPlacement unitType="Fighter" territory="Osaka Sea Zone" quantity="4" owner="Japanese"/>
+            <unitPlacement unitType="Transport" territory="Osaka Sea Zone" quantity="1" owner="Japanese"/>
+            <unitPlacement unitType="Carrier" territory="Osaka Sea Zone" quantity="2" owner="Japanese"/>
+            <unitPlacement unitType="Battleship" territory="Osaka Sea Zone" quantity="1" owner="Japanese"/>
+            <unitPlacement unitType="Destroyer" territory="Osaka Sea Zone" quantity="1" owner="Japanese"/>
+            <unitPlacement unitType="Factory" territory="Ottawa" quantity="1" owner="British"/>
+            <unitPlacement unitType="Infantry" territory="Ottawa" quantity="1" owner="British"/>
+            <unitPlacement unitType="Biplane" territory="Ottawa" quantity="1" owner="British"/>
+            <unitPlacement unitType="Submersible" territory="Pacific Sea Zone 5" quantity="2" owner="Japanese"/>
+            <unitPlacement unitType="Destroyer" territory="Pacific Sea Zone 5" quantity="1" owner="Japanese"/>
+            <unitPlacement unitType="Cutter" territory="Pacific Sea Zone 5" quantity="1" owner="Japanese"/>
+            <unitPlacement unitType="Cutter" territory="Pacific Sea Zone 9" quantity="1" owner="British"/>
+			<unitPlacement unitType="Cutter" territory="Pacific Sea Zone 10" quantity="1" owner="Americans"/>
+            <unitPlacement unitType="Battleship" territory="Pacific Sea Zone 12" quantity="1" owner="Americans"/>
+            <unitPlacement unitType="Carrier" territory="Pacific Sea Zone 13" quantity="1" owner="Americans"/>
+            <unitPlacement unitType="Biplane" territory="Pacific Sea Zone 13" quantity="1" owner="Americans"/>
+            <unitPlacement unitType="Transport" territory="Pacific Sea Zone 19" quantity="1" owner="Americans"/>
+            <unitPlacement unitType="Destroyer" territory="Pacific Sea Zone 19" quantity="1" owner="Americans"/>
+            <unitPlacement unitType="Infantry" territory="Panama" quantity="1" owner="Americans"/>
+            <unitPlacement unitType="Infantry" territory="Paris" quantity="3" owner="French"/>
+            <unitPlacement unitType="Tank" territory="Paris" quantity="1" owner="French"/>
+            <unitPlacement unitType="Factory" territory="Paris" quantity="1" owner="French"/>
+            <unitPlacement unitType="Biplane" territory="Paris" quantity="1" owner="French"/>
+            <unitPlacement unitType="Infantry" territory="Persia" quantity="2"/>
+            <unitPlacement unitType="Transport" territory="Persian Gulf Sea Zone" quantity="1" owner="British"/>
+            <unitPlacement unitType="Battleship" territory="Persian Gulf Sea Zone" quantity="1" owner="British"/>
+            <unitPlacement unitType="Cutter" territory="Philippine Sea Zone" quantity="1" owner="Japanese"/>
+            <unitPlacement unitType="Infantry" territory="Portugal" quantity="2"/>
+            <unitPlacement unitType="Infantry" territory="Prussia" quantity="6" owner="Germans"/>
+            <unitPlacement unitType="Commando" territory="Prussia" quantity="2" owner="Germans"/>
+            <unitPlacement unitType="Factory" territory="Prussia" quantity="1" owner="Germans"/>
+            <unitPlacement unitType="Tank" territory="Prussia" quantity="2" owner="Germans"/>
+            <unitPlacement unitType="Biplane" territory="Prussia" quantity="2" owner="Germans"/>
+            <unitPlacement unitType="Infantry" territory="Quebec" quantity="1" owner="British"/>
+            <unitPlacement unitType="Infantry" territory="Queensland" quantity="1" owner="British"/>
+            <unitPlacement unitType="Cutter" territory="Red Sea Zone" quantity="1" owner="British"/>
+            <unitPlacement unitType="Infantry" territory="Rhodesia" quantity="1" owner="British"/>
+            <unitPlacement unitType="Factory" territory="Romania" quantity="1"/>
+            <unitPlacement unitType="Infantry" territory="Rome" quantity="4" owner="Italians"/>
+            <unitPlacement unitType="Artillery" territory="Rome" quantity="1" owner="Italians"/>
+            <unitPlacement unitType="Factory" territory="Rome" quantity="1" owner="Italians"/>
+            <unitPlacement unitType="Biplane" territory="Rome" quantity="2" owner="Italians"/>
+            <unitPlacement unitType="Factory" territory="Ruhr" quantity="1" owner="Germans"/>
+            <unitPlacement unitType="Infantry" territory="Ruhr" quantity="4" owner="Germans"/>
+            <unitPlacement unitType="Biplane" territory="Ruhr" quantity="1" owner="Germans"/>
+            <unitPlacement unitType="Artillery" territory="Ruhr" quantity="1" owner="Germans"/>
+            <unitPlacement unitType="Halftrack" territory="Ruhr" quantity="1" owner="Germans"/>
+            <unitPlacement unitType="Bunker" territory="Ruhr" quantity="2" owner="Germans"/>
+			<unitPlacement unitType="Jeep" territory="Ruhr" quantity="1" owner="Germans"/>
+            <unitPlacement unitType="Factory" territory="San Francisco" quantity="1" owner="Americans"/>
+            <unitPlacement unitType="Infantry" territory="San Francisco" quantity="1" owner="Americans"/>
+            <unitPlacement unitType="Biplane" territory="San Francisco" quantity="1" owner="Americans"/>
+            <unitPlacement unitType="Bunker" territory="San Francisco" quantity="1" owner="Americans"/>
+            <unitPlacement unitType="Infantry" territory="Sardinia" quantity="1" owner="Italians"/>
+            <unitPlacement unitType="Infantry" territory="Scotland" quantity="1" owner="British"/>
+            <unitPlacement unitType="Jeep" territory="Shandong" quantity="1" owner="Japanese"/>
+            <unitPlacement unitType="Infantry" territory="Shandong" quantity="2" owner="Japanese"/>
+            <unitPlacement unitType="Artillery" territory="Shanghai" quantity="1" owner="Japanese"/>
+            <unitPlacement unitType="Biplane" territory="Shanghai" quantity="1" owner="Japanese"/>
+            <unitPlacement unitType="Infantry" territory="Shanghai" quantity="2" owner="Japanese"/>
+            <unitPlacement unitType="Infantry" territory="Shanxi" quantity="2" owner="Chinese"/>
+            <unitPlacement unitType="Infantry" territory="Siam" quantity="1"/>
+            <unitPlacement unitType="Infantry" territory="Siberia" quantity="1" owner="Russians"/>
+            <unitPlacement unitType="Infantry" territory="Sicily" quantity="2" owner="Italians"/>
+            <unitPlacement unitType="Cutter" territory="South African Sea Zone" quantity="1" owner="British"/>
+            <unitPlacement unitType="Cutter" territory="South China Sea Zone" quantity="1" owner="Japanese"/>
+            <unitPlacement unitType="Infantry" territory="South France" quantity="2" owner="French"/>
+            <unitPlacement unitType="Factory" territory="South France" quantity="1" owner="French"/>
+            <unitPlacement unitType="Infantry" territory="South Italy" quantity="2" owner="Italians"/>
+            <unitPlacement unitType="Infantry" territory="South Japan" quantity="3" owner="Japanese"/>
+            <unitPlacement unitType="Artillery" territory="South Japan" quantity="1" owner="Japanese"/>
+			<unitPlacement unitType="Commando" territory="South Japan" quantity="1" owner="Japanese"/>
+            <unitPlacement unitType="Bunker" territory="South Ukraine" quantity="1" owner="Russians"/>
+            <unitPlacement unitType="Infantry" territory="Southeast USA" quantity="1" owner="Americans"/>
+            <unitPlacement unitType="Bunker" territory="Southeast USA" quantity="1" owner="Americans"/>
+            <unitPlacement unitType="Artillery" territory="Southwest USA" quantity="1" owner="Americans"/>
+            <unitPlacement unitType="Infantry" territory="Spain" quantity="6"/>
+            <unitPlacement unitType="Flak" territory="Spain" quantity="1"/>
+            <unitPlacement unitType="Destroyer" territory="St. Lawrence Sea Zone" quantity="1" owner="British"/>
+            <unitPlacement unitType="Infantry" territory="Stalingrad" quantity="1" owner="Russians"/>
+            <unitPlacement unitType="Infantry" territory="Sudan" quantity="1" owner="British"/>
+            <unitPlacement unitType="Destroyer" territory="Sulu Sea Zone" quantity="1" owner="Americans"/>
+            <unitPlacement unitType="Cutter" territory="Sulu Sea Zone" quantity="1" owner="Americans"/>
+            <unitPlacement unitType="Infantry" territory="Sweden" quantity="4"/>
+            <unitPlacement unitType="Flak" territory="Sweden" quantity="1"/>
+            <unitPlacement unitType="Infantry" territory="Sydney" quantity="2" owner="British"/>
+            <unitPlacement unitType="Biplane" territory="Sydney" quantity="1" owner="British"/>
+            <unitPlacement unitType="Infantry" territory="Szechuan" quantity="1" owner="Chinese"/>
+			<unitPlacement unitType="Infantry" territory="Tanganyika" quantity="1" owner="British"/>
+            <unitPlacement unitType="Transport" territory="Tasman Sea Zone" quantity="1" owner="British"/>
+            <unitPlacement unitType="Submersible" territory="Tasman Sea Zone" quantity="1" owner="British"/>
+            <unitPlacement unitType="Destroyer" territory="Tasman Sea Zone" quantity="1" owner="British"/>
+            <unitPlacement unitType="Cruiser" territory="Tasman Sea Zone" quantity="1" owner="British"/>
+            <unitPlacement unitType="Infantry" territory="Tibet" quantity="1"/>
+            <unitPlacement unitType="Infantry" territory="Tokyo" quantity="3" owner="Japanese"/>
+			<unitPlacement unitType="Commando" territory="Tokyo" quantity="1" owner="Japanese"/>
+            <unitPlacement unitType="Biplane" territory="Tokyo" quantity="1" owner="Japanese"/>
+            <unitPlacement unitType="Factory" territory="Tokyo" quantity="1" owner="Japanese"/>
+            <unitPlacement unitType="Divebomber" territory="Tokyo" quantity="1" owner="Japanese"/>
+            <unitPlacement unitType="Artillery" territory="Tripolitania" quantity="1" owner="Italians"/>
+            <unitPlacement unitType="Infantry" territory="Tripolitania" quantity="3" owner="Italians"/>
+            <unitPlacement unitType="Infantry" territory="Truk" quantity="2" owner="Japanese"/>
+            <unitPlacement unitType="Biplane" territory="Truk" quantity="1" owner="Japanese"/>
+            <unitPlacement unitType="Flak" territory="Truk" quantity="1" owner="Japanese"/>
+            <unitPlacement unitType="Bunker" territory="Truk" quantity="2" owner="Japanese"/>
+            <unitPlacement unitType="Cruiser" territory="Tsushima Sea Zone" quantity="1" owner="Japanese"/>
+            <unitPlacement unitType="Infantry" territory="Tunis" quantity="1" owner="French"/>
+            <unitPlacement unitType="Flak" territory="Turkey" quantity="1"/>
+            <unitPlacement unitType="Infantry" territory="Turkey" quantity="8"/>
+            <unitPlacement unitType="Tank" territory="Volga" quantity="1" owner="Russians"/>
+            <unitPlacement unitType="Artillery" territory="Wales" quantity="1" owner="British"/>
+            <unitPlacement unitType="Infantry" territory="Wales" quantity="1" owner="British"/>
+            <unitPlacement unitType="Infantry" territory="Warsaw" quantity="2"/>
+            <unitPlacement unitType="Flak" territory="Warsaw" quantity="1"/>
+            <unitPlacement unitType="Infantry" territory="Washington DC" quantity="2" owner="Americans"/>
+            <unitPlacement unitType="Factory" territory="Washington DC" quantity="1" owner="Americans"/>
+            <unitPlacement unitType="Bunker" territory="Washington DC" quantity="2" owner="Americans"/>
+            <unitPlacement unitType="Infantry" territory="West Australia" quantity="1" owner="British"/>
+            <unitPlacement unitType="Transport" territory="West Baltic Sea Zone" quantity="1" owner="Germans"/>
+            <unitPlacement unitType="Cruiser" territory="West Baltic Sea Zone" quantity="1" owner="Germans"/>
+            <unitPlacement unitType="Destroyer" territory="West Baltic Sea Zone" quantity="1" owner="Germans"/>
+            <unitPlacement unitType="Cutter" territory="West Baltic Sea Zone" quantity="1" owner="Germans"/>
+            <unitPlacement unitType="Infantry" territory="West England" quantity="1" owner="British"/>
+            <unitPlacement unitType="Infantry" territory="West India" quantity="1" owner="British"/>
+            <unitPlacement unitType="Infantry" territory="West Poland" quantity="2"/>
+            <unitPlacement unitType="Biplane" territory="West Poland" quantity="1"/>
+            <unitPlacement unitType="Submersible" territory="White Sea Zone" quantity="1" owner="Russians"/>
+            <unitPlacement unitType="Infantry" territory="Yakutsk" quantity="1" owner="Russians"/>
+            <unitPlacement unitType="Destroyer" territory="Yellow Sea Zone" quantity="1" owner="Japanese"/>
+            <unitPlacement unitType="Cruiser" territory="Yellow Sea Zone" quantity="1" owner="Japanese"/>
+			<unitPlacement unitType="Carrier" territory="Yellow Sea Zone" quantity="1" owner="Japanese"/>
+			<unitPlacement unitType="Biplane" territory="Yellow Sea Zone" quantity="1" owner="Japanese"/>
+            <unitPlacement unitType="Transport" territory="Yellow Sea Zone" quantity="1" owner="Japanese"/>
+            <unitPlacement unitType="Battleship" territory="Yellow Sea Zone" quantity="1" owner="Japanese"/>
+            <unitPlacement unitType="Infantry" territory="Yugoslavia" quantity="2"/>
+            <unitPlacement unitType="Infantry" territory="Yunnan" quantity="2" owner="Chinese"/>
+            <unitPlacement unitType="Artillery" territory="Yunnan" quantity="1" owner="Chinese"/>
         </unitInitialize>
         <resourceInitialize>
             <resourceGiven player="Germans" resource="PUs" quantity="41"/>
