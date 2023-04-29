@@ -3085,67 +3085,67 @@
         <attachment name="canalAttachment" attachTo="West Baltic Sea Zone" javaClass="games.strategy.triplea.attachments.CanalAttachment" type="territory">
             <option name="canalName" value="Kiel Canal"/>
             <option name="landTerritories" value="Norway:Denmark"/>
-			<option name="excludedUnits" value="submersible:biplane:stratbomber:fighter:glider:interceptor:divebomber"/>						
+			<option name="excludedUnits" value="Submersible:Biplane:Stratbomber:Fighter:Glider:Interceptor:Divebomber"/>						
         </attachment>
         <attachment name="canalAttachment" attachTo="North Sea Zone" javaClass="games.strategy.triplea.attachments.CanalAttachment" type="territory">
             <option name="canalName" value="Kiel Canal"/>
             <option name="landTerritories" value="Norway:Denmark"/>
-			<option name="excludedUnits" value="submersible:biplane:stratbomber:fighter:glider:interceptor:divebomber"/>						
+			<option name="excludedUnits" value="Submersible:Biplane:Stratbomber:Fighter:Glider:Interceptor:Divebomber"/>						
         </attachment>
 
         <attachment name="canalAttachment" attachTo="Atlantic Sea Zone 3" javaClass="games.strategy.triplea.attachments.CanalAttachment" type="territory">
             <option name="canalName" value="Straits of Gibraltar"/>
             <option name="landTerritories" value="Gibraltar:Morocco"/>
-			<option name="excludedUnits" value="submersible:biplane:stratbomber:fighter:glider:interceptor:divebomber"/>			
+			<option name="excludedUnits" value="Submersible:Biplane:Stratbomber:Fighter:Glider:Interceptor:Divebomber"/>						
         </attachment>
         <attachment name="canalAttachment" attachTo="Mediterranean Sea Zone 1" javaClass="games.strategy.triplea.attachments.CanalAttachment" type="territory">
             <option name="canalName" value="Straits of Gibraltar"/>
             <option name="landTerritories" value="Gibraltar:Morocco"/>
-			<option name="excludedUnits" value="submersible:biplane:stratbomber:fighter:glider:interceptor:divebomber"/>						
+			<option name="excludedUnits" value="Submersible:Biplane:Stratbomber:Fighter:Glider:Interceptor:Divebomber"/>						
         </attachment>
 		
         <attachment name="canalAttachment" attachTo="Mediterranean Sea Zone 3" javaClass="games.strategy.triplea.attachments.CanalAttachment" type="territory">
             <option name="canalName" value="Cliffs of Insanity"/>
             <option name="landTerritories" value="Sicily:South Italy"/>
-			<option name="excludedUnits" value="submersible:biplane:stratbomber:fighter:glider:interceptor:divebomber"/>			
+			<option name="excludedUnits" value="Submersible:Biplane:Stratbomber:Fighter:Glider:Interceptor:Divebomber"/>						
         </attachment>
         <attachment name="canalAttachment" attachTo="Mediterranean Sea Zone 5" javaClass="games.strategy.triplea.attachments.CanalAttachment" type="territory">
             <option name="canalName" value="Cliffs of Insanity"/>
             <option name="landTerritories" value="Sicily:South Italy"/>
-			<option name="excludedUnits" value="submersible:biplane:stratbomber:fighter:glider:interceptor:divebomber"/>						
+			<option name="excludedUnits" value="Submersible:Biplane:Stratbomber:Fighter:Glider:Interceptor:Divebomber"/>						
         </attachment>
 		
         <attachment name="canalAttachment" attachTo="Mediterranean Sea Zone 7" javaClass="games.strategy.triplea.attachments.CanalAttachment" type="territory">
             <option name="canalName" value="Dardanelles"/>
             <option name="landTerritories" value="Turkey"/>
-			<option name="excludedUnits" value="submersible:biplane:stratbomber:fighter:glider:interceptor:divebomber"/>						
+			<option name="excludedUnits" value="Submersible:Biplane:Stratbomber:Fighter:Glider:Interceptor:Divebomber"/>						
         </attachment>
         <attachment name="canalAttachment" attachTo="West Black Sea Zone" javaClass="games.strategy.triplea.attachments.CanalAttachment" type="territory">
             <option name="canalName" value="Dardanelles"/>
             <option name="landTerritories" value="Turkey"/>
-			<option name="excludedUnits" value="submersible:biplane:stratbomber:fighter:glider:interceptor:divebomber"/>						
+			<option name="excludedUnits" value="Submersible:Biplane:Stratbomber:Fighter:Glider:Interceptor:Divebomber"/>						
         </attachment>
 		
 		<attachment name="canalAttachment" attachTo="Mediterranean Sea Zone 8" javaClass="games.strategy.triplea.attachments.CanalAttachment" type="territory">
             <option name="canalName" value="Suez Canal"/>
             <option name="landTerritories" value="Egypt"/>
-			<option name="excludedUnits" value="submersible:biplane:stratbomber:fighter:glider:interceptor:divebomber"/>									
+			<option name="excludedUnits" value="Submersible:Biplane:Stratbomber:Fighter:Glider:Interceptor:Divebomber"/>						
         </attachment>
         <attachment name="canalAttachment" attachTo="Red Sea Zone" javaClass="games.strategy.triplea.attachments.CanalAttachment" type="territory">
             <option name="canalName" value="Suez Canal"/>
             <option name="landTerritories" value="Egypt"/>
-			<option name="excludedUnits" value="submersible:biplane:stratbomber:fighter:glider:interceptor:divebomber"/>									
+			<option name="excludedUnits" value="Submersible:Biplane:Stratbomber:Fighter:Glider:Interceptor:Divebomber"/>						
         </attachment>
 
 		<attachment name="canalAttachment" attachTo="South Russia" javaClass="games.strategy.triplea.attachments.CanalAttachment" type="territory">
             <option name="canalName" value="Volga River"/>
             <option name="landTerritories" value="Stalingrad"/>
-			<option name="excludedUnits" value="submersible:biplane:stratbomber:fighter:glider:interceptor:divebomber"/>									
+			<option name="excludedUnits" value="Submersible:Biplane:Stratbomber:Fighter:Glider:Interceptor:Divebomber"/>						
         </attachment>
         <attachment name="canalAttachment" attachTo="Volga" javaClass="games.strategy.triplea.attachments.CanalAttachment" type="territory">
             <option name="canalName" value="Volga River"/>
             <option name="landTerritories" value="Stalingrad"/>
-			<option name="excludedUnits" value="submersible:biplane:stratbomber:fighter:glider:interceptor:divebomber"/>									
+			<option name="excludedUnits" value="Submersible:Biplane:Stratbomber:Fighter:Glider:Interceptor:Divebomber"/>						
         </attachment>
 
 
@@ -3153,89 +3153,89 @@
 		<attachment name="canalAttachment2" attachTo="Indian Sea Zone 3" javaClass="games.strategy.triplea.attachments.CanalAttachment" type="territory">
             <option name="canalName" value="Straits of Ceylon"/>
             <option name="landTerritories" value="South India:Ceylon"/>
-			<option name="excludedUnits" value="submersible:biplane:stratbomber:fighter:glider:interceptor:divebomber"/>			
+			<option name="excludedUnits" value="Submersible:Biplane:Stratbomber:Fighter:Glider:Interceptor:Divebomber"/>						
         </attachment>
         <attachment name="canalAttachment2" attachTo="Bengal Sea Zone" javaClass="games.strategy.triplea.attachments.CanalAttachment" type="territory">
             <option name="canalName" value="Straits of Ceylon"/>
             <option name="landTerritories" value="South India:Ceylon"/>
-			<option name="excludedUnits" value="submersible:biplane:stratbomber:fighter:glider:interceptor:divebomber"/>						
+			<option name="excludedUnits" value="Submersible:Biplane:Stratbomber:Fighter:Glider:Interceptor:Divebomber"/>						
         </attachment>
 
         <attachment name="canalAttachment" attachTo="Malacca Sea Zone" javaClass="games.strategy.triplea.attachments.CanalAttachment" type="territory">
             <option name="canalName" value="Straits of Malacca"/>
             <option name="landTerritories" value="Malaya:Sumatra"/>
-			<option name="excludedUnits" value="submersible:biplane:stratbomber:fighter:glider:interceptor:divebomber"/>									
+			<option name="excludedUnits" value="Submersible:Biplane:Stratbomber:Fighter:Glider:Interceptor:Divebomber"/>						
         </attachment>
         <attachment name="canalAttachment" attachTo="Bengal Sea Zone" javaClass="games.strategy.triplea.attachments.CanalAttachment" type="territory">
             <option name="canalName" value="Straits of Malacca"/>
             <option name="landTerritories" value="Malaya:Sumatra"/>
-			<option name="excludedUnits" value="submersible:biplane:stratbomber:fighter:glider:interceptor:divebomber"/>									
+			<option name="excludedUnits" value="Submersible:Biplane:Stratbomber:Fighter:Glider:Interceptor:Divebomber"/>						
         </attachment>
 
 		<attachment name="canalAttachment" attachTo="Kuril Sea Zone" javaClass="games.strategy.triplea.attachments.CanalAttachment" type="territory">
             <option name="canalName" value="Hokkaido Straits"/>
             <option name="landTerritories" value="Hokkaido:North Japan"/>
-			<option name="excludedUnits" value="submersible:biplane:stratbomber:fighter:glider:interceptor:divebomber"/>			
+			<option name="excludedUnits" value="Submersible:Biplane:Stratbomber:Fighter:Glider:Interceptor:Divebomber"/>						
         </attachment>
         <attachment name="canalAttachment" attachTo="Sendai Sea Zone" javaClass="games.strategy.triplea.attachments.CanalAttachment" type="territory">
             <option name="canalName" value="Hokkaido Straits"/>
             <option name="landTerritories" value="Hokkaido:North Japan"/>
-			<option name="excludedUnits" value="submersible:biplane:stratbomber:fighter:glider:interceptor:divebomber"/>						
+			<option name="excludedUnits" value="Submersible:Biplane:Stratbomber:Fighter:Glider:Interceptor:Divebomber"/>						
         </attachment>
       
 		<attachment name="canalAttachment" attachTo="Tasman Sea Zone" javaClass="games.strategy.triplea.attachments.CanalAttachment" type="territory">
             <option name="canalName" value="New Zealand Straits"/>
             <option name="landTerritories" value="North New Zealand:South New Zealand"/>
-			<option name="excludedUnits" value="submersible:biplane:stratbomber:fighter:glider:interceptor:divebomber"/>			
+			<option name="excludedUnits" value="Submersible:Biplane:Stratbomber:Fighter:Glider:Interceptor:Divebomber"/>						
         </attachment>
         <attachment name="canalAttachment" attachTo="Pacific Sea Zone 1" javaClass="games.strategy.triplea.attachments.CanalAttachment" type="territory">
             <option name="canalName" value="New Zealand Straits"/>
             <option name="landTerritories" value="North New Zealand:South New Zealand"/>
-			<option name="excludedUnits" value="submersible:biplane:stratbomber:fighter:glider:interceptor:divebomber"/>						
+			<option name="excludedUnits" value="Submersible:Biplane:Stratbomber:Fighter:Glider:Interceptor:Divebomber"/>						
         </attachment>      
 		
         <attachment name="canalAttachment" attachTo="Pacific Sea Zone 12" javaClass="games.strategy.triplea.attachments.CanalAttachment" type="territory">
             <option name="canalName" value="Maui Straits"/>
             <option name="landTerritories" value="Hawaii"/>
-			<option name="excludedUnits" value="submersible:biplane:stratbomber:fighter:glider:interceptor:divebomber"/>			
+			<option name="excludedUnits" value="Submersible:Biplane:Stratbomber:Fighter:Glider:Interceptor:Divebomber"/>						
         </attachment>
         <attachment name="canalAttachment" attachTo="Pacific Sea Zone 13" javaClass="games.strategy.triplea.attachments.CanalAttachment" type="territory">
             <option name="canalName" value="Maui Straits"/>
             <option name="landTerritories" value="Hawaii"/>
-			<option name="excludedUnits" value="submersible:biplane:stratbomber:fighter:glider:interceptor:divebomber"/>						
+			<option name="excludedUnits" value="Submersible:Biplane:Stratbomber:Fighter:Glider:Interceptor:Divebomber"/>						
         </attachment>
 
 		<attachment name="canalAttachment2" attachTo="Pacific Sea Zone 19" javaClass="games.strategy.triplea.attachments.CanalAttachment" type="territory">
             <option name="canalName" value="Panama Canal"/>
             <option name="landTerritories" value="Panama"/>
-			<option name="excludedUnits" value="submersible:biplane:stratbomber:fighter:glider:interceptor:divebomber"/>						
+			<option name="excludedUnits" value="Submersible:Biplane:Stratbomber:Fighter:Glider:Interceptor:Divebomber"/>						
         </attachment>
         <attachment name="canalAttachment2" attachTo="Caribbean Sea Zone" javaClass="games.strategy.triplea.attachments.CanalAttachment" type="territory">
             <option name="canalName" value="Panama Canal"/>
             <option name="landTerritories" value="Panama"/>
-			<option name="excludedUnits" value="submersible:biplane:stratbomber:fighter:glider:interceptor:divebomber"/>						
+			<option name="excludedUnits" value="Submersible:Biplane:Stratbomber:Fighter:Glider:Interceptor:Divebomber"/>						
         </attachment>
 
 		<attachment name="canalAttachment" attachTo="Caribbean Sea Zone" javaClass="games.strategy.triplea.attachments.CanalAttachment" type="territory">
             <option name="canalName" value="Carnival Cruise Lines"/>
             <option name="landTerritories" value="Cuba:Haiti"/>
-			<option name="excludedUnits" value="submersible:biplane:stratbomber:fighter:glider:interceptor:divebomber"/>			
+			<option name="excludedUnits" value="Submersible:Biplane:Stratbomber:Fighter:Glider:Interceptor:Divebomber"/>						
         </attachment>
         <attachment name="canalAttachment" attachTo="Atlantic Sea Zone 11" javaClass="games.strategy.triplea.attachments.CanalAttachment" type="territory">
             <option name="canalName" value="Carnival Cruise Lines"/>
             <option name="landTerritories" value="Cuba:Haiti"/>
-			<option name="excludedUnits" value="submersible:biplane:stratbomber:fighter:glider:interceptor:divebomber"/>						
+			<option name="excludedUnits" value="Submersible:Biplane:Stratbomber:Fighter:Glider:Interceptor:Divebomber"/>						
         </attachment>
 				
 		<attachment name="canalAttachment" attachTo="Hudson Sea Zone" javaClass="games.strategy.triplea.attachments.CanalAttachment" type="territory">
             <option name="canalName" value="Polar Bear Club"/>
             <option name="landTerritories" value="Nunavut:Quebec"/>
-			<option name="excludedUnits" value="submersible:biplane:stratbomber:fighter:glider:interceptor:divebomber"/>			
+			<option name="excludedUnits" value="Submersible:Biplane:Stratbomber:Fighter:Glider:Interceptor:Divebomber"/>						
         </attachment>
         <attachment name="canalAttachment" attachTo="Labrador Sea Zone" javaClass="games.strategy.triplea.attachments.CanalAttachment" type="territory">
             <option name="canalName" value="Polar Bear Club"/>
             <option name="landTerritories" value="Nunavut:Quebec"/>
-			<option name="excludedUnits" value="submersible:biplane:stratbomber:fighter:glider:interceptor:divebomber"/>						
+			<option name="excludedUnits" value="Submersible:Biplane:Stratbomber:Fighter:Glider:Interceptor:Divebomber"/>						
         </attachment>
 		
 
