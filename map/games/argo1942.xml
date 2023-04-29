@@ -14,6 +14,15 @@
 
 <map>
 <!-- Territory Definitions -->
+<territory name="Polynesian Sea Zone" water="true"/>
+<territory name="Solomon Sea Zone" water="true"/>
+<territory name="Moresby Sea Zone" water="true"/>
+<territory name="Antarctic Sea Zone" water="true"/>  
+<territory name="Guam"/>
+<territory name="New Caledonia"/>
+<territory name="Samoa"/>
+  
+  
 <territory name="1 Atlantic Sea Zone" water="true"/>
 <territory name="Addis Ababa"/>
 <territory name="Aden Sea Zone" water="true"/>
@@ -562,7 +571,6 @@
 <connection t1="Berlin" t2="Prussia"/>
 <connection t1="Berlin" t2="Ruhr"/>
 <connection t1="Bight Sea Zone" t2="Indian Sea Zone 5"/>
-<connection t1="Bight Sea Zone" t2="Pacific Sea Zone 1"/>
 <connection t1="Bight Sea Zone" t2="South Australia"/>
 <connection t1="Bight Sea Zone" t2="Tasman Sea Zone"/>
 <connection t1="Bight Sea Zone" t2="Tasmania"/>
@@ -573,7 +581,6 @@
 <connection t1="Biscay Sea Zone" t2="Normandy"/>
 <connection t1="Biscay Sea Zone" t2="Spain"/>
 <connection t1="Biscay Sea Zone" t2="West England"/>
-<connection t1="Bismarck" t2="Coral Sea Zone"/>
 <connection t1="Bismarck" t2="Pacific Sea Zone 4"/>
 <connection t1="Bolivia" t2="Brazil"/>
 <connection t1="Bolivia" t2="Chile"/>
@@ -682,17 +689,12 @@
 <connection t1="Colombia" t2="Pacific Sea Zone 19"/>
 <connection t1="Colombia" t2="Panama"/>
 <connection t1="Colombia" t2="Venezuela"/>
-<connection t1="Coral Sea Zone" t2="New Guinea"/>
 <connection t1="Coral Sea Zone" t2="New South Wales"/>
 <connection t1="Coral Sea Zone" t2="North New Zealand"/>
 <connection t1="Coral Sea Zone" t2="Pacific Sea Zone 1"/>
-<connection t1="Coral Sea Zone" t2="Pacific Sea Zone 2"/>
-<connection t1="Coral Sea Zone" t2="Pacific Sea Zone 3"/>
-<connection t1="Coral Sea Zone" t2="Pacific Sea Zone 4"/>
 <connection t1="Coral Sea Zone" t2="Queensland"/>
 <connection t1="Coral Sea Zone" t2="Solomon Islands"/>
 <connection t1="Coral Sea Zone" t2="Tasman Sea Zone"/>
-<connection t1="Coral Sea Zone" t2="Timor Sea Zone"/>
 <connection t1="Corsica" t2="Mediterranean Sea Zone 2"/>
 <connection t1="Corsica" t2="Mediterranean Sea Zone 3"/>
 <connection t1="Crete" t2="Mediterranean Sea Zone 5"/>
@@ -1069,26 +1071,26 @@
 <connection t1="Ottawa" t2="Quebec"/>
 <connection t1="Ottawa" t2="St. Lawrence Sea Zone"/>
 <connection t1="Pacific Sea Zone 1" t2="Pacific Sea Zone 2"/>
-<connection t1="Pacific Sea Zone 1" t2="Pacific Sea Zone 15"/>
 <connection t1="Pacific Sea Zone 1" t2="Pacific Sea Zone 16"/>
 <connection t1="Pacific Sea Zone 1" t2="South New Zealand"/>
 <connection t1="Pacific Sea Zone 1" t2="Tasman Sea Zone"/>
+<connection t1="Pacific Sea Zone 1" t2="Solomon Islands"/>  
 <connection t1="Pacific Sea Zone 2" t2="Pacific Sea Zone 3"/>
 <connection t1="Pacific Sea Zone 2" t2="Pacific Sea Zone 6"/>
 <connection t1="Pacific Sea Zone 2" t2="Pacific Sea Zone 12"/>
 <connection t1="Pacific Sea Zone 2" t2="Pacific Sea Zone 14"/>
 <connection t1="Pacific Sea Zone 2" t2="Pacific Sea Zone 15"/>
-<connection t1="Pacific Sea Zone 2" t2="Solomon Islands"/>
+<connection t1="Pacific Sea Zone 2" t2="Solomon Islands"/>  
 <connection t1="Pacific Sea Zone 3" t2="Pacific Sea Zone 4"/>
 <connection t1="Pacific Sea Zone 3" t2="Pacific Sea Zone 5"/>
 <connection t1="Pacific Sea Zone 3" t2="Pacific Sea Zone 6"/>
-<connection t1="Pacific Sea Zone 3" t2="Solomon Islands"/>
+<connection t1="Pacific Sea Zone 3" t2="Solomon Islands"/>  
 <connection t1="Pacific Sea Zone 3" t2="Truk"/>
 <connection t1="Pacific Sea Zone 3" t2="Wake"/>
 <connection t1="Pacific Sea Zone 4" t2="Pacific Sea Zone 5"/>
 <connection t1="Pacific Sea Zone 4" t2="Papua"/>
-<connection t1="Pacific Sea Zone 4" t2="Solomon Islands"/>
 <connection t1="Pacific Sea Zone 4" t2="Truk"/>
+<connection t1="Pacific Sea Zone 4" t2="Solomon Islands"/>  
 <connection t1="Pacific Sea Zone 5" t2="Pacific Sea Zone 6"/>
 <connection t1="Pacific Sea Zone 5" t2="Pacific Sea Zone 7"/>
 <connection t1="Pacific Sea Zone 5" t2="Philippine Sea Zone"/>
@@ -1230,6 +1232,43 @@
 <connection t1="Warsaw" t2="West Poland"/>
 <connection t1="Washington DC" t2="Atlantic Sea Zone 10"/>
 <connection t1="West Baltic Sea Zone" t2="West Poland"/>
+
+  
+  
+<connection t1="Moresby Sea Zone" t2="Coral Sea Zone"/>
+<connection t1="Moresby Sea Zone" t2="Timor Sea Zone"/>
+<connection t1="Moresby Sea Zone" t2="Pacific Sea Zone 4"/>
+<connection t1="Moresby Sea Zone" t2="Solomon Sea Zone"/>
+<connection t1="Pacific Sea Zone 1" t2="Solomon Islands"/>  
+<connection t1="Moresby Sea Zone" t2="Queensland"/>
+<connection t1="Moresby Sea Zone" t2="New Guinea"/>
+<connection t1="Moresby Sea Zone" t2="Bismarck"/>
+<connection t1="Moresby Sea Zone" t2="Solomon Islands"/>
+<connection t1="Antarctic Sea Zone" t2="Bight Sea Zone"/>
+<connection t1="Antarctic Sea Zone" t2="Tasman Sea Zone"/>
+<connection t1="Antarctic Sea Zone" t2="Pacific Sea Zone 1"/>
+<connection t1="Antarctic Sea Zone" t2="Pacific Sea Zone 16"/>  
+<connection t1="Antarctic Sea Zone" t2="South New Zealand"/>   
+<connection t1="Polynesian Sea Zone" t2="Pacific Sea Zone 1"/>
+<connection t1="Polynesian Sea Zone" t2="Pacific Sea Zone 16"/>
+<connection t1="Polynesian Sea Zone" t2="Pacific Sea Zone 2"/>
+<connection t1="Polynesian Sea Zone" t2="Pacific Sea Zone 15"/>
+<connection t1="Polynesian Sea Zone" t2="New Caledonia"/>
+<connection t1="Polynesian Sea Zone" t2="Samoa"/>
+<connection t1="Solomon Sea Zone" t2="Coral Sea Zone"/>
+<connection t1="Solomon Sea Zone" t2="Pacific Sea Zone 4"/>
+<connection t1="Solomon Sea Zone" t2="Pacific Sea Zone 3"/>
+<connection t1="Solomon Sea Zone" t2="Pacific Sea Zone 2"/>
+<connection t1="Solomon Sea Zone" t2="Pacific Sea Zone 1"/>
+<connection t1="Solomon Sea Zone" t2="Solomon Islands"/>
+  
+
+  
+
+<connection t1="New Caledonia" t2="Pacific Sea Zone 1"/>
+<connection t1="Samoa" t2="Pacific Sea Zone 15"/>
+<connection t1="Guam" t2="Pacific Sea Zone 5"/>
+<connection t1="Guam" t2="Sendai Sea Zone"/>
 
 
 </map>
@@ -1451,11 +1490,11 @@
             <result resourceOrUnit="Cruiser" quantity="1"/>
         </productionRule>
 		<productionRule name="buyCarrier">
-            <cost resource="PUs" quantity="14"/>
+            <cost resource="PUs" quantity="11"/>
             <result resourceOrUnit="Carrier" quantity="1"/>
         </productionRule>
 		<productionRule name="buyBattleship">
-            <cost resource="PUs" quantity="16"/>
+            <cost resource="PUs" quantity="13"/>
             <result resourceOrUnit="Battleship" quantity="1"/>
         </productionRule>		
 
@@ -1823,7 +1862,7 @@
 			<option name="maxScrambleDistance" value="1"/>			
         </attachment>
         <attachment name="unitAttachment" attachTo="Interceptor" javaClass="games.strategy.triplea.attachments.UnitAttachment" type="unitType">
-            <option name="movement" value="2"/>
+            <option name="movement" value="3"/>
             <option name="CarrierCost" value="1"/>
             <option name="isAir" value="true"/>
             <option name="canAirBattle" value="true"/>
@@ -1897,6 +1936,23 @@
 		
 
 <!-- Territory Characteristics -->
+      
+      
+        <attachment name="territoryAttachment" attachTo="Guam" javaClass="games.strategy.triplea.attachments.TerritoryAttachment" type="territory">
+            <option name="production" value="1"/>
+			<option name="originalOwner" value="Neutral"/>
+        </attachment>
+      
+        <attachment name="territoryAttachment" attachTo="Samoa" javaClass="games.strategy.triplea.attachments.TerritoryAttachment" type="territory">
+            <option name="production" value="1"/>
+			<option name="originalOwner" value="Neutral"/>
+        </attachment>
+      
+      		<attachment name="territoryAttachment" attachTo="New Caledonia" javaClass="games.strategy.triplea.attachments.TerritoryAttachment" type="territory">
+            <option name="production" value="1"/>
+			<option name="originalOwner" value="Neutral"/>
+        </attachment>
+      
 		<attachment name="territoryAttachment" attachTo="Addis Ababa" javaClass="games.strategy.triplea.attachments.TerritoryAttachment" type="territory">
             <option name="production" value="2"/>
 			<option name="victoryCity" value="1"/>
@@ -1941,11 +1997,13 @@
         <attachment name="territoryAttachment" attachTo="Taklomak Desert" javaClass="games.strategy.triplea.attachments.TerritoryAttachment" type="territory">
             <option name="production" value="0"/>
 			<option name="isImpassable" value="true"/>
+			<option name="capital" value="Russians"/>
         </attachment>		
 
         <attachment name="territoryAttachment" attachTo="Priepet Marsh" javaClass="games.strategy.triplea.attachments.TerritoryAttachment" type="territory">
             <option name="production" value="0"/>
 			<option name="isImpassable" value="true"/>
+			<option name="capital" value="Germans"/>          
         </attachment>		
 		
 		<attachment name="territoryAttachment" attachTo="Andes" javaClass="games.strategy.triplea.attachments.TerritoryAttachment" type="territory">
@@ -1961,6 +2019,7 @@
 		<attachment name="territoryAttachment" attachTo="Arctic Ice" javaClass="games.strategy.triplea.attachments.TerritoryAttachment" type="territory">
             <option name="production" value="0"/>
 			<option name="isImpassable" value="true"/>
+			<option name="capital" value="British"/>
         </attachment>
 
         <attachment name="territoryAttachment" attachTo="Arabia" javaClass="games.strategy.triplea.attachments.TerritoryAttachment" type="territory">
@@ -2026,7 +2085,7 @@
         </attachment>
 		
         <attachment name="territoryAttachment" attachTo="Berlin" javaClass="games.strategy.triplea.attachments.TerritoryAttachment" type="territory">
-            <option name="production" value="8"/>
+            <option name="production" value="10"/>
             <option name="capital" value="Germans"/>
             <option name="victoryCity" value="1"/>
             <option name="originalOwner" value="Germans"/>
@@ -2105,6 +2164,7 @@
 		
 		<attachment name="territoryAttachment" attachTo="Central Asia" javaClass="games.strategy.triplea.attachments.TerritoryAttachment" type="territory">
             <option name="production" value="1"/>
+			<option name="originalOwner" value="Neutral"/>
         </attachment>
 	
 		<attachment name="territoryAttachment" attachTo="Central Canada" javaClass="games.strategy.triplea.attachments.TerritoryAttachment" type="territory">
@@ -2231,6 +2291,7 @@
 		<attachment name="territoryAttachment" attachTo="Gobi Desert" javaClass="games.strategy.triplea.attachments.TerritoryAttachment" type="territory">
             <option name="production" value="0"/>
 			<option name="isImpassable" value="true"/>
+			<option name="capital" value="Japanese"/>
         </attachment>
 		
 		<attachment name="territoryAttachment" attachTo="Gold Coast" javaClass="games.strategy.triplea.attachments.TerritoryAttachment" type="territory">
@@ -2266,6 +2327,7 @@
         <attachment name="territoryAttachment" attachTo="Himalayan Mountains" javaClass="games.strategy.triplea.attachments.TerritoryAttachment" type="territory">
             <option name="production" value="0"/>
 			<option name="isImpassable" value="true"/>
+			<option name="capital" value="Chinese"/>
         </attachment>				
 
         <attachment name="territoryAttachment" attachTo="Hawaii" javaClass="games.strategy.triplea.attachments.TerritoryAttachment" type="territory">
@@ -2666,6 +2728,7 @@
 		<attachment name="territoryAttachment" attachTo="Rocky Mountains" javaClass="games.strategy.triplea.attachments.TerritoryAttachment" type="territory">
             <option name="production" value="0"/>
 			<option name="isImpassable" value="true"/>
+			<option name="capital" value="Americans"/>
         </attachment>
 		
         <attachment name="territoryAttachment" attachTo="Romania" javaClass="games.strategy.triplea.attachments.TerritoryAttachment" type="territory">
@@ -2767,7 +2830,8 @@
 		
 		<attachment name="territoryAttachment" attachTo="Sahara Desert" javaClass="games.strategy.triplea.attachments.TerritoryAttachment" type="territory">
             <option name="production" value="0"/>
-	        <option name="isImpassable" value="true"/>		
+	        <option name="isImpassable" value="true"/>
+			<option name="capital" value="French"/>
         </attachment>		
 		
 		<attachment name="territoryAttachment" attachTo="San Francisco" javaClass="games.strategy.triplea.attachments.TerritoryAttachment" type="territory">
@@ -2799,6 +2863,7 @@
 		<attachment name="territoryAttachment" attachTo="Swiss Alps" javaClass="games.strategy.triplea.attachments.TerritoryAttachment" type="territory">
             <option name="production" value="0"/>
   	        <option name="isImpassable" value="true"/>
+			<option name="capital" value="Italians"/>
         </attachment>
 
 		<attachment name="territoryAttachment" attachTo="Syria" javaClass="games.strategy.triplea.attachments.TerritoryAttachment" type="territory">
@@ -2945,12 +3010,12 @@
 		
 		<attachment name="territoryAttachment" attachTo="Azerbaijan" javaClass="games.strategy.triplea.attachments.TerritoryAttachment" type="territory">
             <option name="production" value="2"/>
-            <option name="originalOwner" value="Russians"/>
+            <option name="originalOwner" value="Neutral"/>
         </attachment>
 		
 		<attachment name="territoryAttachment" attachTo="Georgia" javaClass="games.strategy.triplea.attachments.TerritoryAttachment" type="territory">
             <option name="production" value="1"/>
-            <option name="originalOwner" value="Russians"/>
+            <option name="originalOwner" value="Neutral"/>
         </attachment>
 		
         <attachment name="territoryAttachment" attachTo="West Ukraine" javaClass="games.strategy.triplea.attachments.TerritoryAttachment" type="territory">
@@ -3090,16 +3155,16 @@
 			<option name="excludedUnits" value="Submersible:Biplane:Stratbomber:Fighter:Glider:Interceptor:Divebomber"/>						
         </attachment>
 		
-        <attachment name="canalAttachment" attachTo="Coral Sea Zone" javaClass="games.strategy.triplea.attachments.CanalAttachment" type="territory">
-            <option name="canalName" value="Guadalcanal"/>
-            <option name="landTerritories" value="Solomon Islands"/>
-			<option name="excludedUnits" value="Submersible:Biplane:Stratbomber:Fighter:Glider:Interceptor:Divebomber"/>									
+		<attachment name="canalAttachment" attachTo="Tasman Sea Zone" javaClass="games.strategy.triplea.attachments.CanalAttachment" type="territory">
+            <option name="canalName" value="New Zealand Straits"/>
+            <option name="landTerritories" value="North New Zealand:South New Zealand"/>
+			<option name="excludedUnits" value="Submersible:Biplane:Stratbomber:Fighter:Glider:Interceptor:Divebomber"/>			
         </attachment>
-        <attachment name="canalAttachment" attachTo="Pacific Sea Zone 3" javaClass="games.strategy.triplea.attachments.CanalAttachment" type="territory">
-            <option name="canalName" value="Guadalcanal"/>
-            <option name="landTerritories" value="Solomon Islands"/>
-			<option name="excludedUnits" value="Submersible:Biplane:Stratbomber:Fighter:Glider:Interceptor:Divebomber"/>									
-        </attachment>
+        <attachment name="canalAttachment" attachTo="Pacific Sea Zone 1" javaClass="games.strategy.triplea.attachments.CanalAttachment" type="territory">
+            <option name="canalName" value="New Zealand Straits"/>
+            <option name="landTerritories" value="North New Zealand:South New Zealand"/>
+			<option name="excludedUnits" value="Submersible:Biplane:Stratbomber:Fighter:Glider:Interceptor:Divebomber"/>						
+        </attachment>    
 
         <attachment name="canalAttachment" attachTo="Malacca Sea Zone" javaClass="games.strategy.triplea.attachments.CanalAttachment" type="territory">
             <option name="canalName" value="Straits of Malacca"/>
@@ -3168,7 +3233,23 @@
         </attachment>
 		
 		
-
+        <attachment name="territoryAttachment" attachTo="Solomon Sea Zone" javaClass="games.strategy.triplea.attachments.TerritoryAttachment" type="territory">
+			<option name="production" value="0"/>
+			<option name="blockadeZone" value="true"/>
+		</attachment>			
+        <attachment name="territoryAttachment" attachTo="Polynesian Sea Zone" javaClass="games.strategy.triplea.attachments.TerritoryAttachment" type="territory">
+			<option name="production" value="0"/>
+			<option name="blockadeZone" value="true"/>
+		</attachment>			
+        <attachment name="territoryAttachment" attachTo="Antarctic Sea Zone" javaClass="games.strategy.triplea.attachments.TerritoryAttachment" type="territory">
+			<option name="production" value="0"/>
+			<option name="blockadeZone" value="true"/>
+		</attachment>	
+  		<attachment name="territoryAttachment" attachTo="Moresby Sea Zone" javaClass="games.strategy.triplea.attachments.TerritoryAttachment" type="territory">
+			<option name="production" value="0"/>
+			<option name="blockadeZone" value="true"/>
+		</attachment>	
+      
 		<attachment name="territoryAttachment" attachTo="Aden Sea Zone" javaClass="games.strategy.triplea.attachments.TerritoryAttachment" type="territory">
 			<option name="production" value="0"/>
 			<option name="blockadeZone" value="true"/>
@@ -3586,6 +3667,9 @@
 	
 	<initialize>
 		<ownerInitialize>
+             <territoryOwner territory="Guam" owner="Japanese"/>
+            <territoryOwner territory="Samoa" owner="Americans"/>
+            <territoryOwner territory="New Caledonia" owner="French"/>      
             <territoryOwner territory="Addis Ababa" owner="British"/>
             <territoryOwner territory="Alaska" owner="Americans"/>
             <territoryOwner territory="Albania" owner="Italians"/>
@@ -3772,6 +3856,9 @@
             <territoryOwner territory="Yunnan" owner="Chinese"/>
         </ownerInitialize>
        <unitInitialize>
+            <unitPlacement unitType="Infantry" territory="Samoa" quantity="1" owner="Americans"/>         
+            <unitPlacement unitType="Infantry" territory="Guam" quantity="1" owner="Japanese"/>         
+         
             <unitPlacement unitType="Battleship" territory="Adriatic Sea Zone" quantity="1" owner="Italians"/>
             <unitPlacement unitType="Submersible" territory="Adriatic Sea Zone" quantity="1" owner="Italians"/>
             <unitPlacement unitType="Transport" territory="Adriatic Sea Zone" quantity="1" owner="Italians"/>
@@ -3779,6 +3866,7 @@
             <unitPlacement unitType="Infantry" territory="Alaska" quantity="2" owner="Americans"/>
             <unitPlacement unitType="Biplane" territory="Alaska" quantity="1" owner="Americans"/>
             <unitPlacement unitType="Flak" territory="Alaska" quantity="1" owner="Americans"/>
+            <unitPlacement unitType="Bunker" territory="Alaska" quantity="2" owner="Americans"/>          
             <unitPlacement unitType="Infantry" territory="Albania" quantity="2" owner="Italians"/>
             <unitPlacement unitType="Infantry" territory="Aleutian Islands" quantity="1" owner="Americans"/>
             <unitPlacement unitType="Infantry" territory="Algeria" quantity="2" owner="Germans"/>
@@ -3806,7 +3894,8 @@
 			<unitPlacement unitType="Biplane" territory="Atlantic Sea Zone 10" quantity="1" owner="Americans"/>
             <unitPlacement unitType="Submersible" territory="Atlantic Sea Zone 11" quantity="1" owner="Germans"/>
             <unitPlacement unitType="Submersible" territory="Atlantic Sea Zone 12" quantity="2" owner="Germans"/>
-            <unitPlacement unitType="Infantry" territory="Archangel" quantity="2" owner="Russians"/>
+            <unitPlacement unitType="Infantry" territory="Archangel" quantity="3" owner="Russians"/>
+            <unitPlacement unitType="Bunker" territory="Archangel" quantity="1" owner="Russians"/>         
             <unitPlacement unitType="Halftrack" territory="Archangel" quantity="1" owner="Russians"/>
             <unitPlacement unitType="Infantry" territory="Austria" quantity="3" owner="Germans"/>
             <unitPlacement unitType="Factory" territory="Austria" quantity="1" owner="Germans"/>
@@ -3848,6 +3937,7 @@
             <unitPlacement unitType="Infantry" territory="Cairo" quantity="2" owner="British"/>
             <unitPlacement unitType="Infantry" territory="Calcutta" quantity="4" owner="British"/>
             <unitPlacement unitType="Barracks" territory="Calcutta" quantity="1" owner="British"/>
+            <unitPlacement unitType="Bunker" territory="Calcutta" quantity="3" owner="British"/>         
             <unitPlacement unitType="Artillery" territory="Calcutta" quantity="1" owner="British"/>
             <unitPlacement unitType="Biplane" territory="Calcutta" quantity="1" owner="British"/>
             <unitPlacement unitType="Infantry" territory="California" quantity="3" owner="Americans"/>
@@ -3875,11 +3965,11 @@
             <unitPlacement unitType="Infantry" territory="Central Russia" quantity="7" owner="Russians"/>
             <unitPlacement unitType="Flak" territory="Ceylon" quantity="1" owner="British"/>
             <unitPlacement unitType="Infantry" territory="Chile" quantity="1"/>
-            <unitPlacement unitType="Infantry" territory="Chongqing" quantity="3" owner="Chinese"/>
+            <unitPlacement unitType="Infantry" territory="Chongqing" quantity="4" owner="Chinese"/>
             <unitPlacement unitType="Artillery" territory="Chongqing" quantity="1" owner="Chinese"/>
             <unitPlacement unitType="Barracks" territory="Chongqing" quantity="1" owner="Chinese"/>
             <unitPlacement unitType="Biplane" territory="Chongqing" quantity="1" owner="Chinese"/>
-            <unitPlacement unitType="Bunker" territory="Chongqing" quantity="2" owner="Chinese"/>
+            <unitPlacement unitType="Bunker" territory="Chongqing" quantity="3" owner="Chinese"/>
             <unitPlacement unitType="Infantry" territory="Colombia" quantity="1"/>
             <unitPlacement unitType="Destroyer" territory="Coral Sea Zone" quantity="1" owner="British"/>
             <unitPlacement unitType="Fighter" territory="Crete" quantity="1" owner="Germans"/>
@@ -4025,6 +4115,7 @@
             <unitPlacement unitType="Biplane" territory="Midway" quantity="2" owner="Americans"/>
             <unitPlacement unitType="Infantry" territory="Midway" quantity="1" owner="Americans"/>			
             <unitPlacement unitType="Jeep" territory="Midwest USA" quantity="1" owner="Americans"/>
+            <unitPlacement unitType="Factory" territory="Midwest USA" quantity="1" owner="Americans"/>         
             <unitPlacement unitType="Infantry" territory="Mindanao" quantity="1" owner="Japanese"/>
             <unitPlacement unitType="Infantry" territory="Mongolia" quantity="5"/>
             <unitPlacement unitType="Infantry" territory="Morocco" quantity="1" owner="Germans"/>
@@ -4032,10 +4123,11 @@
             <unitPlacement unitType="Flak" territory="Moscow" quantity="2" owner="Russians"/>
             <unitPlacement unitType="Artillery" territory="Moscow" quantity="1" owner="Russians"/>
             <unitPlacement unitType="Factory" territory="Moscow" quantity="1" owner="Russians"/>
-            <unitPlacement unitType="Bunker" territory="Moscow" quantity="5" owner="Russians"/>
+            <unitPlacement unitType="Bunker" territory="Moscow" quantity="3" owner="Russians"/>
             <unitPlacement unitType="Infantry" territory="Mozambique" quantity="1"/>
             <unitPlacement unitType="Infantry" territory="Murmansk" quantity="3" owner="Russians"/>
-            <unitPlacement unitType="Artillery" territory="Murmansk" quantity="1" owner="Russians"/>			
+            <unitPlacement unitType="Artillery" territory="Murmansk" quantity="1" owner="Russians"/>
+            <unitPlacement unitType="Bunker" territory="Murmansk" quantity="1" owner="Russians"/>           
             <unitPlacement unitType="Infantry" territory="New Guinea" quantity="1" owner="British"/>
             <unitPlacement unitType="Commando" territory="New Guinea" quantity="1" owner="British"/>
             <unitPlacement unitType="Biplane" territory="New Guinea" quantity="1" owner="British"/>
@@ -4043,6 +4135,7 @@
             <unitPlacement unitType="Artillery" territory="New South Wales" quantity="1" owner="British"/>
             <unitPlacement unitType="Infantry" territory="New South Wales" quantity="2" owner="British"/>
             <unitPlacement unitType="Infantry" territory="Ningxia" quantity="1" owner="Chinese"/>
+            <unitPlacement unitType="Bunker" territory="Ningxia" quantity="2" owner="Chinese"/>           
             <unitPlacement unitType="Infantry" territory="Normandy" quantity="2" owner="Germans"/>
             <unitPlacement unitType="Bunker" territory="Normandy" quantity="1" owner="Germans"/>
             <unitPlacement unitType="Infantry" territory="North Australia" quantity="1" owner="British"/>
@@ -4137,6 +4230,8 @@
             <unitPlacement unitType="Factory" territory="Prussia" quantity="1" owner="Germans"/>
             <unitPlacement unitType="Tank" territory="Prussia" quantity="1" owner="Germans"/>
             <unitPlacement unitType="Commando" territory="Qinghai" quantity="1" owner="Russians"/>
+            <unitPlacement unitType="Bunker" territory="Qinghai" quantity="2" owner="Chinese"/>
+            <unitPlacement unitType="Infantry" territory="Qinghai" quantity="1" owner="Chinese"/>            
             <unitPlacement unitType="Artillery" territory="Qinghai" quantity="1" owner="Russians"/>
             <unitPlacement unitType="Infantry" territory="Quebec" quantity="1" owner="British"/>
             <unitPlacement unitType="Infantry" territory="Queensland" quantity="2" owner="British"/>
@@ -4183,6 +4278,7 @@
             <unitPlacement unitType="Infantry" territory="Siam" quantity="2" owner="Japanese"/>
             <unitPlacement unitType="Jeep" territory="Siam" quantity="1" owner="Japanese"/>
             <unitPlacement unitType="Infantry" territory="Siberia" quantity="2" owner="Russians"/>
+            <unitPlacement unitType="Bunker" territory="Siberia" quantity="2" owner="Russians"/>         
             <unitPlacement unitType="Infantry" territory="Sicily" quantity="2" owner="Italians"/>
 			<unitPlacement unitType="Infantry" territory="Solomon Islands" quantity="1" owner="Japanese"/>
             <unitPlacement unitType="Biplane" territory="Solomon Islands" quantity="1" owner="Japanese"/>	
@@ -4193,6 +4289,7 @@
             <unitPlacement unitType="Cutter" territory="South China Sea Zone" quantity="1" owner="Japanese"/>
             <unitPlacement unitType="Infantry" territory="South France" quantity="3"/>
             <unitPlacement unitType="Infantry" territory="South India" quantity="2" owner="British"/>
+            <unitPlacement unitType="Bunker" territory="South India" quantity="1" owner="British"/>         
             <unitPlacement unitType="Infantry" territory="South Italy" quantity="3" owner="Italians"/>
             <unitPlacement unitType="Infantry" territory="South Japan" quantity="4" owner="Japanese"/>
             <unitPlacement unitType="Artillery" territory="South Japan" quantity="1" owner="Japanese"/>
@@ -4229,6 +4326,7 @@
             <unitPlacement unitType="Commando" territory="Sydney" quantity="1" owner="British"/>
             <unitPlacement unitType="Infantry" territory="Szechuan" quantity="2" owner="Chinese"/>
             <unitPlacement unitType="Barracks" territory="Szechuan" quantity="1" owner="Chinese"/>
+            <unitPlacement unitType="Bunker" territory="Szechuan" quantity="2" owner="Chinese"/>         
             <unitPlacement unitType="Artillery" territory="Szechuan" quantity="1" owner="Chinese"/>
             <unitPlacement unitType="Fighter" territory="Szechuan" quantity="1" owner="Americans"/>
 			<unitPlacement unitType="Infantry" territory="Tanganyika" quantity="1" owner="British"/>
@@ -4262,9 +4360,11 @@
             <unitPlacement unitType="Flak" territory="Turkey" quantity="1"/>
             <unitPlacement unitType="Infantry" territory="Turkey" quantity="8"/>
             <unitPlacement unitType="Infantry" territory="Uganda" quantity="1" owner="British"/>
-            <unitPlacement unitType="Infantry" territory="Urals" quantity="2" owner="Russians"/>
+            <unitPlacement unitType="Infantry" territory="Urals" quantity="3" owner="Russians"/>
             <unitPlacement unitType="Fighter" territory="Urals" quantity="2" owner="Russians"/>
             <unitPlacement unitType="Factory" territory="Urals" quantity="1" owner="Russians"/>
+            <unitPlacement unitType="Bunker" territory="Urals" quantity="6" owner="Russians"/>
+            <unitPlacement unitType="Bunker" territory="Volga" quantity="1" owner="Russians"/>            
             <unitPlacement unitType="Infantry" territory="Volga" quantity="3" owner="Russians"/>
             <unitPlacement unitType="Tank" territory="Volga" quantity="2" owner="Russians"/>
             <unitPlacement unitType="Factory" territory="Volga" quantity="1" owner="Russians"/>
@@ -4301,6 +4401,7 @@
             <unitPlacement unitType="Destroyer" territory="White Sea Zone" quantity="1" owner="Russians"/>
             <unitPlacement unitType="Submersible" territory="White Sea Zone" quantity="1" owner="Russians"/>
             <unitPlacement unitType="Infantry" territory="Yakutsk" quantity="1" owner="Russians"/>
+            <unitPlacement unitType="Bunker" territory="Yakutsk" quantity="1" owner="Russians"/>         
             <unitPlacement unitType="Artillery" territory="Yakutsk" quantity="1" owner="Russians"/>
             <unitPlacement unitType="Cruiser" territory="Yellow Sea Zone" quantity="1" owner="Japanese"/>
             <unitPlacement unitType="Infantry" territory="Yugoslavia" quantity="2" owner="Germans"/>
@@ -4308,16 +4409,23 @@
             <unitPlacement unitType="Infantry" territory="Yunnan" quantity="2" owner="Chinese"/>
             <unitPlacement unitType="Artillery" territory="Yunnan" quantity="1" owner="Chinese"/>
             <unitPlacement unitType="Infantry" territory="Yunnan" quantity="2" owner="British"/>
+            <unitPlacement unitType="Bunker" territory="Yukon" quantity="1" owner="British"/>         
+            <unitPlacement unitType="Cutter" territory="Solomon Sea Zone" quantity="1" owner="Americans"/>
+            <unitPlacement unitType="Infantry" territory="Solomon Sea Zone" quantity="1" owner="Americans"/>
+            <unitPlacement unitType="Destroyer" territory="Solomon Sea Zone" quantity="1" owner="Americans"/>
+         
 			
+         
+         
         </unitInitialize>
         <resourceInitialize>
-            <resourceGiven player="Germans" resource="PUs" quantity="94"/>
+            <resourceGiven player="Germans" resource="PUs" quantity="96"/>
             <resourceGiven player="Russians" resource="PUs" quantity="47"/>
-			<resourceGiven player="French" resource="PUs" quantity="7"/>
-            <resourceGiven player="Japanese" resource="PUs" quantity="67"/>
+			<resourceGiven player="French" resource="PUs" quantity="8"/>
+            <resourceGiven player="Japanese" resource="PUs" quantity="68"/>
             <resourceGiven player="British" resource="PUs" quantity="92"/>
             <resourceGiven player="Italians" resource="PUs" quantity="22"/>
-            <resourceGiven player="Americans" resource="PUs" quantity="73"/>
+            <resourceGiven player="Americans" resource="PUs" quantity="74"/>
             <resourceGiven player="Chinese" resource="PUs" quantity="11"/>
         </resourceInitialize>
     </initialize>
@@ -4789,7 +4897,7 @@
             <td bgcolor="CCAA77" style="text-align: center">1</td>
             <td bgcolor="CCAA77" style="text-align: center">2</td>
             <td bgcolor="CCAA77" style="text-align: center">2</td>
-            <td bgcolor="CCAA77" style="text-align: center">14</td>
+            <td bgcolor="CCAA77" style="text-align: center">11</td>
             <td bgcolor="CCAA77">Carries any 2 planes</td>
          </tr>
          <tr>
@@ -4798,7 +4906,7 @@
             <td bgcolor="CCCC99" style="text-align: center">5</td>
             <td bgcolor="CCCC99" style="text-align: center">4</td>
             <td bgcolor="CCCC99" style="text-align: center">2</td>
-            <td bgcolor="CCCC99" style="text-align: center">16</td>
+            <td bgcolor="CCCC99" style="text-align: center">13</td>
             <td bgcolor="CCCC99">Bombards</td>
          </tr>
       </table>
@@ -4848,7 +4956,7 @@
             <td bgcolor="CCCC99" style="text-align: center">4</td>
             <td bgcolor="CCCC99" style="text-align: center">1</td>
             <td bgcolor="CCCC99" style="text-align: center">2</td>			
-            <td bgcolor="CCCC99" style="text-align: center">2</td>
+            <td bgcolor="CCCC99" style="text-align: center">3</td>
             <td bgcolor="CCCC99" style="text-align: center">10</td>
             <td bgcolor="CCCC99">Scramble to adj. sea zone</td>
          </tr>
@@ -4910,7 +5018,7 @@
             <td bgcolor="CCAA77"><img src="Barracks.png"/></td>
             <td bgcolor="CCAA77">Barracks</td>
             <td bgcolor="CCAA77" style="text-align: center">Costs 10 credits</td>
-            <td bgcolor="CCAA77" style="text-align: center">Build inf, art, Flak, Jeep, Cutter, sub, DD, Transport, Biplane</td>
+            <td bgcolor="CCAA77" style="text-align: center">Build Inf, Art, Flak, Commando, Jeep, Cutter, Sub, DD, Transport, Biplane</td>
          </tr>
 		 <tr>
             <td bgcolor="CCCC99"><img src="Bunker.png"/></td>
@@ -4948,13 +5056,13 @@
 						You will have to click on the "air battle" from the list of battles during your turn, just like you have to resolve sea battles before you can resolve an amphibious assault. 
 						The game will enforce this rule for you when playing against humans. The AI sometimes ignores this rule, which generates a harmless error message.</li>
 					<li><b>Downgrade Captured Factories: </b>When you capture your enemy's Factory, it is automatically downgraded to a Barracks. When you capture your enemy's Barracks, it is automatically destroyed, but you can pay to rebuild it later.</li>
-					<li><b>Heavy Units Need Major Factories: </b>High-tech units like Halftracks, Tanks, Cruisers, Carriers, Battleships, Interceptors, Gliders, bombers, and Fighters can <b>only</b> be built in your starting factories. 
+					<li><b>Heavy Units Need Major Factories: </b>High-tech units like Halftracks, Tanks, Cruisers, Carriers, Battleships, Interceptors, Gliders, Bombers, and Fighters can <b>only</b> be built in your starting factories. 
 					If all of your factories are destroyed, this means you will no longer be able to build these units! China does not start with any proper factories, so they cannot build these units.</li>
 					<li><b>Amphibious Assault Penalty: </b>Artillery, Tanks, Jeeps, and Halftracks only attack at <b>1</b> during an amphibious assault. This penalty only applies to the units that are actually exiting from a boat; if you mix a 
 					regular assault and an ambphibious assault, then the units that attacked by land will keep their normal attack values. Air units and naval bombardments still work at regular strength.</li>
 					<li><b>Paratroopers: </b> Each Glider aircraft can carry one Commando unit as cargo. The Glider and Commando must begin their movement from the same territory. They can travel as part of the combat move,
 					or as part of the non-combat move. You do not need any technology to use paratroopers. Paratroopers can conquer an enemy territory, but their Glider will still have to return to a territory that was friendly
-					at the beginning of your turn, just like land units. Paratroopers cannot be intercepted, so make sure to garrison your factories if your opponent has a Commando and Glider nearby. To activate a paratrooper, do not
+					at the beginning of your turn, just like other air units. Paratroopers cannot be intercepted, so make sure to garrison your factories if your opponent has a Commando and Glider nearby. To activate a paratrooper, do not
 					click on the Commando. Instead, click on the Glider plane(s) and give the Glider plane(s) orders. You will then be prompted to choose how many paratroopers to load onto the Glider plane(s).</li>
 					<li><b>Fast Cruisers: </b> Each Cruiser can carry one Commando unit as cargo. The Cruiser can pick up and unload the Commando just like a Transport would, but each Cruiser can only carry one Commando at a time,
 					and Cruisers cannot carry any other units. Unlike other ships, Cruisers can move up to 3 spaces! This is enough to cross an entire ocean, so be sure to garrison your factories if your opponent has both Cruisers and
@@ -4966,10 +5074,16 @@
 					 <li><b>Canals: </b>There are several canals where you must control the relevant territor(ies) in order to pass through with any surface ships. Submarines and air units can always get through 
 					 canals, even if you don't own any of the territories. Canals are marked with one or two blue dots showing the territories that must be owned. I believe the game will automatically enforce these
 					 restrictions; plesae let me know if you see any problems. There is also one "land canal", marked with red circles. You must own Stalingrad in order to pass overland from South Russia to the Volga
-					 or from the Volga to South Russia.</li></ul>
+					 or from the Volga to South Russia.</li>
+                     <li><b>Opportunistic Colonies: </b>Most colonies and client states (Cuba, Morocco, Sudan, Azerbaijan, etc.) have their original owners treated as
+                    neutral, so any friendly power can liberate them. For example, if America lands in an Italian-occupied Morocco, it will become American, not French. By contrast, core territories
+                    (e.g. Southeast US, Normandy, Sicily, Caucasus, etc.) have their original owners hard-coded into the game. If America lands in a German-occupied Normandy, it will become French, not
+                    American. This has nothing to do with whether a nation currently owns its capital.</li></ul>
 					 <br>
 					 <b>Strategy Hints:</b>
-					 <ul><li>Not written yet.</li></ul>
+					 <ul><li>The initial setup for 1942 is intentionally complex -- it is meant to be a more advanced game than the 1939 map that demands a higher level of skill. There are enough possible strikes in enough different directions that even the designer does not know what strategies are best. However, I will say that on turn 1, the Axis powers are intended to be able to conquer some but not all of the Allied territories on their borders. The Germans, for example, can strike at Leningrad, Central Russia, the Caucasus, Malta, Cairo, and Palestine...but not all of those all on the first turn. Most of those territories will be immediately reconquered by your opponent (often at a profit) unless you focus your attacks and stack the territories with extra infantry. Historically, the Axis did launch simultaneous attacks along a broad front in 1942, which led to short-term gains followed by a decisive reversal within about two turns of TripleA gameplay. If you want to do better than history, you will probably need to choose some theaters where you are merely holding the line, or at least choose some theaters where you will wait a turn before attacking so that you can bring up more forces and concentrate your air support.</li>
+                     <li>The Allies start with a production advantage of 46 PUs per turn -- roughly enough cash to buy the Axis units shown in Army Group South, in southern Ukraine. At first, most of this cash will be needed to shut down German submarines, contain the Japanese fleets in the central Pacific, and shore up vulnerable production centers like Egypt, Chongqing, Calcutta, Sydney, Omsk, and potentially even Moscow. The Allies will also need some way of ferrying resources from the United States to the front lines -- either gliders and cruisers that carry commandos, or ordinary transports plus enough warships to defend them, or just long-range airplanes with a handful of reasonably well-guarded island bases as waystations. The Allies also need some kind of beachhead -- ampihbious invasions are challenging because all land units except commandos attack at only 1 strength when unloading from a boat, so if the Axis are able to fortify all of the relevant beaches, then the Allies may be delayed for several turns while they wear down enemy defenses. If the Allies can protect their capitals, protect their sea zones, and secure a beachhead while they are still out-earning the Axis by a wide margin, then it will be relatively easy to finish the job and win the war. Thus, the pressure is on the Axis to either knock out some Allied capitals or simply seize enough valuable territories to achieve economic parity before the Allies can begin seriously attacking the Axis homelands.</li>
+                     <li>One final note on bunkers, which are more common on the 1942 map than on the 1939 map. The bunkers represent both literal fortifications (e.g. for Leningrad and Moscow) and difficult terrain (e.g. for Murmansk, the Urals, and Siberia.) Forces defending in a territory with bunkers will get an implicit force multiplier, because the bunker keeps rolling at 4 defense during each round of combat that your ground forces are able to protect it. Once a bunker is destroyed, it cannot be rebuilt. Sometimes it is worthwhile to attack a lightly-guarded territory with a bunker even if you do not need its PUs or even if you do not plan to keep the territory for very long, to avoid the risk that later your opponent will be able to stuff the territory full of infantry and create a prohibitively expensive wall.</li></ul>
 						 <br><br>
 						 <b>Known Bugs:</b>
 						 <ul><li>Some territories appear twice on the list of options for where to bombard. Choose the first one and it should work fine.</li>
@@ -4977,7 +5091,7 @@
 						   
 						<br><br>
 						<b>Credits</b>
-						Primary design by Argothair. Thank you to SIEG's World at War team for the graphic design template used in these notes, Black Elk and the POS 2 team for sample XML and guidance on overall map design, Beelee for XML technical support, Vodot and Barnee for moral support, and the entire Bay Area A&A crew for keeping the game alive.
+						Primary design by Argothair. Thank you to SIEG's World at War team for the graphic design template used in these notes, Black Elk and the POS 2 team for sample XML and guidance on overall map design, Beelee for XML technical support, Vodot and Barnee for moral support, Karl7 and Angel for playtesting, and the entire Bay Area A&A crew for keeping the game alive.
 						 
 		</div>
    </body>
