@@ -1926,7 +1926,7 @@
         <attachment name="unitAttachment" attachTo="Factory" javaClass="games.strategy.triplea.attachments.UnitAttachment" type="unitType">
             <option name="isFactory" value="true"/>
 			<option name="canBeDamaged" value="true"/>
-			<option name="whenCapturedChangesInto" value="any:any:true:barracks:1"/>			
+			<option name="whenCapturedChangesInto" value="any:any:true:Barracks:1"/>			
         </attachment>
 		<attachment name="unitAttachment" attachTo="Barracks" javaClass="games.strategy.triplea.attachments.UnitAttachment" type="unitType">
 			<option name="isFactory" value="true"/>
