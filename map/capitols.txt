@@ -1,0 +1,8 @@
+Washington DC  (6411,952) 
+Rome  (1414,1074) 
+Tokyo  (4200,1080) 
+Berlin  (1351,583) 
+London  (917,422) 
+Chongqing  (3259,1102) 
+Moscow  (2299,105) 
+Paris  (974,767) 
